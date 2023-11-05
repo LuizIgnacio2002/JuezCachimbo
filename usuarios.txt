@@ -1,0 +1,6 @@
+Username: admin
+Password: 1234
+Nombres: admin
+Username: luiz
+Password: 1111
+Nombres: luiz
