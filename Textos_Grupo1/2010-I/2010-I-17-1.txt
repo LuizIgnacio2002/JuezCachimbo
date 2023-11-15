@@ -1,0 +1,16 @@
+=====================TEXTO======================
+En 1543 aparecía la obra maestra del canónigo polaco Nicolás Copérnico: De revolutionibus orbium coelestium [Sobre la revolución de los orbes celestes]. En ella, Copérnico proponía un sistema astronómico que asestaba un golpe mortal a la tradición astronómica geocéntrica. En 1687, Sir Isaac Newton daba a luz Principia Mathematica Philosophiae Naturalis [Principios matemáticos de filosofía natural] y con esta obra magna Newton consolidaba, en términos de I. B. Cohen, un sistema del mundo que podía reemplazar al sistema antiguo. En efecto, se erigía una nueva física. Esta nueva ciencia, de modo elegante, ostentaba un gran poder explicativo y predictivo. Por primera vez en la historia, se tenía una teoría simple (la ley fundamental de la gravitación universal) que servía para dar cuenta de la estructura y la dinámica del mundo.
+Sin embargo, ese lapso de 144 años ha sido un espacio de efervescencia filosófica en el que Bacon, Galileo, Descartes, entre otros, han insinuado conformar una reflexión sobre el nuevo espíritu científico. Y como decía el mismo Newton, si él pudo ver más lejos lo hizo porque se encaramó sobre hombros de gigantes.
+======================PREGUNTA 1======================
+Con más probabilidad, este texto pertenece a un libro sobre
+======================ALTERNATIVAS======================
+A) la trayectoria vital del físico Sir Isaac Newton.
+B) la historia de la revolución científica moderna.
+C) los descubrimientos astronómicos de la ciencia.
+D) los temas abstrusos de la filosofía de la ciencia.
+E) los principios lógicos de las nuevas matemáticas.
+======================ALTERNATIVA CORRECTA======================
+B
+======================RAZONAMIENTO======================
+Por la referencia a los autores, se puede establecer que el contexto cognoscitivo del texto
+es la revolución científica de la Edad Moderna.

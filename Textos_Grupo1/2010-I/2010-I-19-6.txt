@@ -1,0 +1,69 @@
+=====================TEXTO======================
+Siendo más joven, había estudiado un poco de lógica, análisis geométrico y álgebra dentro del campo de la filosofía. Estas tres ciencias parecían poder contribuir a mi búsqueda de la verdad. Sin embargo, al examinarlas, advertí que, en cuanto a la lógica, sus silogismos y la mayor parte de sus instrucciones servían más para explicar a otros lo que uno ya sabía (o incluso, como el arte de Raimundo Lulio, para hablar sin sentido sobre lo que uno desconocía), en lugar de ayudar a aprender nuevas cosas. Aunque, en realidad, contiene preceptos muy buenos, están entremezclados con otros que son nocivos y superfluos. Así, separarlos resulta casi tan difícil como esculpir una Diana o una Minerva a partir de un bloque de mármol sin esbozar.
+Luego, en cuanto al análisis de los antiguos y el álgebra de los modernos (además de que se aplican a materias muy abstractas y aparentemente inútiles), el primero siempre está subordinado a la consideración de las figuras, lo cual ejerce una gran presión sobre la imaginación, agotando la mente. En el caso del álgebra moderna, uno está sometido a tantas reglas y cifras que se ha convertido en un arte confuso y oscuro, en lugar de ser una ciencia que enriquezca la mente.
+Todo lo anterior me llevó a pensar que era necesario buscar otro método que, conservando las ventajas de los tres mencionados, no tuviera sus defectos. Considerando que a menudo, un gran número de leyes sirve como excusa para el vicio, y que un Estado está mejor gobernado cuando tiene pocas leyes que se cumplen estrictamente, decidí que podrían bastarme solo cuatro preceptos, siempre y cuando me comprometiera firmemente a no dejar de observarlos ni una sola vez.
+René Descartes Discurso del método
+======================PREGUNTA 1======================
+En el fragmento leído, principalmente, Descartes
+======================ALTERNATIVAS======================
+A) justifica por qué es necesario un nuevo método para buscar la verdad.
+B) hace una crítica sagaz y demoledora del antiguo análisis geométrico.
+C) hace una rememoración de las ciencias que aprendió cuando era joven.
+D) determina que un Estado racional se sustenta en pocos preceptos.
+E) pone de relieve a la ciencia de la lógica en la búsqueda de la verdad.
+======================ALTERNATIVA CORRECTA======================
+A
+======================RAZONAMIENTO======================
+En el primer párrafo, Descartes explica por qué son inconducentes la geometría, el
+álgebra y la lógica; lo que lo lleva (en el segundo párrafo) a enunciar la necesidad de
+un nuevo método
+======================PREGUNTA 2======================
+La frase «el análisis de los antiguos» se refiere
+======================ALTERNATIVAS======================
+A) al álgebra. 
+B) a la filosofía. 
+C) a la geometría.
+D) al arte de Lulio. 
+E) a la lógica.
+======================ALTERNATIVA CORRECTA======================
+C
+======================RAZONAMIENTO======================
+Por referencialidad textual, la expresión «el análisis de los antiguos» apunta al
+análisis de los geómetras, esto es, a la geometría.
+======================PREGUNTA 3======================
+Resulta incompatible con el texto aseverar que
+======================ALTERNATIVAS======================
+A) Descartes habla peyorativamente del arte de Raimundo Lulio.
+B) para Descartes la abundancia de leyes es signo de confusión.
+C) la utilidad es un criterio importante en el pensamiento cartesiano.
+D) el álgebra sería más apropiada si redujera el número de sus cifras.
+E) Descartes propugna la eliminación de toda la ciencia de la lógica.
+======================ALTERNATIVA CORRECTA======================
+E
+======================RAZONAMIENTO======================
+Descartes lo dice sin ambages: abarcará las ventajas y eliminará los defectos.
+======================PREGUNTA 4======================
+Para Descartes, la lógica clásica
+======================ALTERNATIVAS======================
+A) tiene un claro valor heurístico. 
+B) solo se inicia en la modernidad.
+C) fomenta e l descubrimiento. 
+D) carece de preceptos adecuados.
+E) sirve para fines pedagógicos.
+======================ALTERNATIVA CORRECTA======================
+E
+======================RAZONAMIENTO======================
+Dado que sirven para explicar lo que uno ya sabe, se colige que tienen valor
+pedagógico.
+======================PREGUNTA 5======================
+Si el arte de Lulio fuese simple y útil para aprender cosas nuevas
+======================ALTERNATIVAS======================
+A) Descartes lo emplearía como método de indagación.
+B) no podría aplicarse en el análisis de la geometría.
+C) de todos modos Descartes lo descartaría de plano.
+D) ya no podría ser utilizado con fines enseñanza.
+E) refutaría todos los principios de la ciencia de la lógica.
+======================ALTERNATIVA CORRECTA======================
+A
+======================RAZONAMIENTO======================
+Se cumplirían las dos condiciones que harían del arte de Lulio u buen método.

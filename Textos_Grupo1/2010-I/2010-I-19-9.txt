@@ -1,0 +1,67 @@
+=====================TEXTO======================
+Cuando un investigador se propone descubrir las leyes que rigen ciertos fenómenos, es decir, cuando intenta encontrar las relaciones constantes entre una serie sucesiva de eventos, su trabajo consiste en extraer estas leyes de la realidad tal como se presentan en la experiencia. Algunas de estas leyes son esenciales y fundamentales, mientras que otras son casuales y accidentales. La gran dificultad radica en distinguir unas de otras.
+Para lograr este objetivo, el investigador debe emplear métodos complejos y delicados que le permitan descubrir estas relaciones esenciales y comprenderlas. En primer lugar, debe confirmar la existencia del hecho; en segundo lugar, debe proponer una explicación del hecho, y finalmente, debe verificar esa explicación hipotética. Como se puede apreciar, el investigador, partiendo de los hechos, avanza hacia la idea, es decir, hacia la explicación teórica, y luego regresa a los hechos para verificarlos experimentalmente. De estos tres pasos, los más cruciales son, sin duda, la formulación de la hipótesis y su posterior verificación.
+La hipótesis debe considerarse como una explicación provisional de los hechos, una suposición de la verdad presentada sin pruebas o con pruebas insuficientes, una conjetura acerca de una realidad aún desconocida.
+La función de la hipótesis es sumamente importante en la ciencia, siempre y cuando se utilice con cautela y prudencia, sin perderse en construcciones fantásticas e imaginarias. Se comprende, así, por qué muchos sabios y filósofos han condenado el uso de la hipótesis por temor a que la realidad sea reemplazada por ficciones teóricas de la razón. Sin embargo, la ciencia está llena de hipótesis y ficciones. Llamamos ficciones científicas a las suposiciones que se aceptan para conferir validez a un juicio que carece de ella o cuya validez es problemática.
+Por otro lado, los empiristas puros sostienen que la ciencia debe limitarse a los hechos y desterrar las ideas, es decir, las hipótesis. Sin embargo, debemos tener en cuenta que los hechos son solo los materiales con los que trabaja la ciencia y, por sí mismos, carecen de valor. La verdadera finalidad de la ciencia es la explicación, y la explicación es el producto del pensamiento, el razonamiento y las ideas. Por lo tanto, no se puede concebir una ciencia sin suposiciones hipotéticas, cuya validez la experimentación se encarga de verificar, siempre que sea posible.
+======================PREGUNTA 1======================
+En el texto se destaca que, en la ciencia
+======================ALTERNATIVAS======================
+A) las hipótesis son meras ficciones provisionales.
+B) el método causal se sustenta en la experiencia.
+C) las hipótesis cumplen un papel fundamental.
+D) solamente se debe emplear métodos complejos.
+E) las hipótesis pueden llegar a la verdad absoluta.
+======================ALTERNATIVA CORRECTA======================
+C
+======================RAZONAMIENTO======================
+Para el autor, es inconcebible una ciencia sin supuestos hipotéticos.
+======================PREGUNTA 2======================
+En el texto, el sentido de la palabra FORTUITA es
+======================ALTERNATIVAS======================
+A) determinada. 
+B) ineluctable. 
+C) verosímil.
+D) contingente. 
+E) previsible.
+======================ALTERNATIVA CORRECTA======================
+D
+======================RAZONAMIENTO======================
+El campo semántico de lo fortuito es la casualidad o la contingencia.
+======================PREGUNTA 3======================
+Es incompatible con el texto afirmar que
+======================ALTERNATIVAS======================
+A) los empiristas manifiestan que la ciencia debe circunscribirse a los hechos.
+B) las investigaciones permiten establecer las causas que rigen los fenómenos.
+C) en la actividad de la investigación científica la observación es prescindible.
+D) en el juego de la ciencia, la experimentación permite comprobar las hipótesis.
+E) en la formulación de hipótesis, el científico debe proceder con suma cautela.
+======================ALTERNATIVA CORRECTA======================
+C
+======================RAZONAMIENTO======================
+Si bien es cierto que la actividad teórica es esencial, la búsqueda de datos, la
+observación, no se puede escamotear.
+======================PREGUNTA 4======================
+El autor expone el pensamiento de los empiristas puros con el fin de
+======================ALTERNATIVAS======================
+A) comprobarlo. 
+B) ejemplificarlo. 
+C) recusarlo.
+D) parodiarlo. 
+E) sintetizarlo.
+======================ALTERNATIVA CORRECTA======================
+C
+======================RAZONAMIENTO======================
+Para el autor, lo que proponen los empiristas puros es patentemente implausible.
+======================PREGUNTA 5======================
+Si un investigador no empleara hipótesis en su trabajo
+======================ALTERNATIVAS======================
+A) utilizaría métodos más sutiles de explicación.
+B) estaría de acuerdo con las ficciones científicas.
+C) no podría ser considerado un empirista puro.
+D) no podría llegar a una explicación científica.
+E) establecería las leyes causales de los fenómenos.
+======================ALTERNATIVA CORRECTA======================
+D
+======================RAZONAMIENTO======================
+Para explicar científicamente, hay que trabajar con hipótesis.

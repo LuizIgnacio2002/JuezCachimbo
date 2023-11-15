@@ -1,0 +1,78 @@
+En un extraño curso denominado «Física digital», Edward Fredkin expuso la más excéntrica de sus teorías: el universo es una computadora. Fredkin trabaja en una región nebulosa de la ciencia moderna: en la zona interfacial de la ciencia de la computación y la física.
+
+Aquí, dos conceptos que han figurado como fundamentales de la ciencia –la materia y la energía– se funden en un tercero: la información. Según la teoría de Fredkin, la información es más fundamental que la materia y la energía. Piensa que los átomos, electrones y quarks están constituidos primordialmente de bits, como los que comúnmente se utilizan en las computadoras personales.
+
+Cree, además, que el comportamiento de estos bits está gobernado por una sola regla de programación. Según Fredkin, esta regla es muy simple, aunque definitivamente más arcana que los constructos matemáticos que los físicos convencionales usan para explicar las fuerzas de la realidad física.
+
+Mediante una incesante repetición – al tomar, incansablemente, información que ha sido transformada y que a su vez se transforma en una nueva– se ha generado una complejidad universal.
+
+Según Fredkin, la regla fundamental de programación describirá el mundo físico con precisión perfecta, dado que el universo es literalmente una computadora en tres dimensiones: una retícula cristalina de unidades lógicas interactuantes, cada una decidiendo un número astronómico de veces por segundo si estará prendida o apagada en el siguiente punto en el tiempo. La información que se produce en consecuencia es el tejido de la realidad, la sustancia a partir de la cual se crea la materia y la energía.
+============PREGUNTA============
+¿Cuál es la mejor síntesis del texto?
+============ALTERNATIVAS============
+ Según Fredkin el universo es una computadora dado que funciona obedeciendo a una regla fundamental de programación.
+ En el curso de “Física digital” Fredkin examinó computacionalmente las leyes básicas de la materia y la energía.
+ El concepto capital de la ciencia física es la información con la que se pueden entender las fuerzas de la naturaleza.
+ Para entender bien el universo se requiere idear la metáfora de la computadora con sus reglas y bits de información.
+ Edward Fredkin ha desarrollado una i dea novedosa al unir los campos separados de la física y la ciencia de la computación.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+El texto nos informa de la tesis central de Fredkin (el universo es literalmente una computadora) y, luego, trata de explicar los términos básicos de la teoría (la arcana pero simple regla de programación).
+
+
+============PREGUNTA============
+En el texto, EXTRAÑO significa
+============ALTERNATIVAS============
+ ajeno.
+ súbito.
+ frenético.
+ absurdo.
+ extravagante.
+============CORRECTA============
+E
+============RAZONAMIENTO============
+Extraño curso se refiere a una asignatura desacostumbrada o extravagante.
+
+
+============PREGUNTA============
+Señale el enunciado incompatible con el texto.
+============ALTERNATIVAS============
+ La información es una categoría que subsume tanto la materia como la energía.
+ El universo como computadora es una red de cristales de unidades lógicas.
+ Según Fredkin, los átomos, electrones y quarks están compuestos de bits.
+ En términos computacionales, la información se organiza en forma de bits.  
+ En la concepción de Fredkin, el universo se considera como bidimensional.
+============CORRECTA============
+E
+============RAZONAMIENTO============
+Se dice en el texto que, para Fredki n, el universo es tridimensional.
+
+
+============PREGUNTA============
+Si los quarks no se pudiesen explicar con la regla fundamental de programación,
+============ALTERNATIVAS============
+ la idea de Fredkin se vería refutada.
+ los átomos serían los bits informáticos.
+ Fredkin seguiría teniendo la razón.
+ el universo sería como una computadora.
+ la física como ciencia sería imposible.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+Dado que es fundamental para el modelo de Fredkin dar cuenta del comportamiento de las distintas formas de materia, sería un fuerte contraejemplo que entrañaría la refutación del modelo.
+
+
+============PREGUNTA============
+Para Fredkin la explicación de la complejidad del universo se hace en términos de una operación
+============ALTERNATIVAS============
+ aritmética.
+ intuitiva.
+ inductiva.
+ recursiva.
+ filosófica.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+La regla es muy simple, pero al aplicar se una y otra vez va transformando la
+información, en un proceso recursivo.

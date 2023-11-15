@@ -1,0 +1,77 @@
+La cumbre de la Revolución Científica de la modernidad fue el descubrimiento de Isaac Newton de la ley de gravitación universal: todos los objetos se atraen mutuamente con una fuerza directamente proporcional al producto de sus masas e inversamente proporcional al cuadrado de la distancia que los separa.
+
+Al subsumir bajo una única ley matemática los principales fenómenos físicos del universo observable, Newton demostró que la física terrestre y celeste eran una y la misma. De un golpe, el concepto de gravitación universal descubrió la significación física de las tres leyes de Johannes Kepler sobre el movimiento planetario, resolvió el espinoso problema del origen de las mareas y justificó a Galileo Galilei por su curiosa e inexplicada observación de que el descenso de un objeto en caída libre es independiente de su peso. Newton había realizado la meta de Kepler de desarrollar la física basada en las causas.
+
+El importante descubrimiento de la gravitación universal, que devino en el paradigma de la ciencia que obtiene éxitos, no fue el resultado de un aislado destello del genio; fue la culminación de una serie de ejercicios en la resolución del problema. No fue un producto de la inducción, sino de deducciones lógicas y transformaciones de las ideas existentes.
+
+El descubrimiento de la gravedad universal aportó lo que creo es una característica fundamental de todo gran avance en la ciencia, desde las innovaciones más simples hasta las revoluciones más dramáticas: la creación de algo nuevo mediante la transformación de las nociones existentes.
+
+======================PREGUNTA 1======================
+¿Cuál es la idea principal del texto?
+======================ALTERNATIVAS======================
+A) Tanto Newton como Kepler sostuvieron un modelo científico según el cual la física
+debe sustentarse en las causa s.
+B) Según Newton, todos los cuerpos se atraen con una fuerza directamente
+proporcional al cuadrado de sus masas.
+C) La gran revolución newtoniana se logró por una serie de ejercicios lógicos sobre
+un problema que preocupó a Galileo.
+D) Newton logró descubrir la ley de gravitación universal al emplear armónicamente
+principios deductivos e inductivos.
+E) El gran descubrimiento newtoniano implicó postular algo nuevo sobre la base de
+transformar ideas preexistentes.
+======================ALTERNATIVA CORRECTA======================
+E
+======================RAZONAMIENTO======================
+Al final, el autor explica su propuesta central que da cuenta de la gran transformación
+llevada a cabo por Newton.
+======================PREGUNTA 2======================
+El sentido contextual de la palabra SUBSUMIR es
+======================ALTERNATIVAS======================
+A) abarcar. 
+B) mediar. 
+C) potenciar. 
+D) describir. 
+E) demostrar.
+======================ALTERNATIVA CORRECTA======================
+A
+======================RAZONAMIENTO======================
+Subsumir bajo una misma ley significa comprender o abarcar
+======================PREGUNTA 3======================
+Resulta incompatible con el texto aseverar que
+======================ALTERNATIVAS======================
+A) en la indagación newtoniana es crucial referirse a las causas.
+B) Newton representa la cúspide de la revolución científica moderna.
+C) Galileo determinó que un cuerpo cae con independencia a su peso.
+D) para Newton la ley de la gravitación sólo se aplica a los cielos.
+E) gracias a Newton se pudo comprender el problema de las mareas.
+======================ALTERNATIVA CORRECTA======================
+D
+======================RAZONAMIENTO======================
+Enunciado incompatible por cuanto Newton une las dos físicas: la celeste y la
+terrestre.
+======================PREGUNTA 4======================
+Si un historiador sostuviera que la ley de Newton se obtiene inductivamente a partir
+de las leyes de Kepler,
+======================ALTERNATIVAS======================
+A) estaría esencialmente en lo correcto.
+B) el autor diría que está equivocado.
+C) haría un aporte a la historia de la ciencia.
+D) comprendería la obra de Newton.
+E) debería m encionar también a Galileo.
+======================ALTERNATIVA CORRECTA======================
+B
+======================RAZONAMIENTO======================
+Según el autor, Newton no empleó la inducción; por cuanto, estaría en contra del
+historiador.
+======================PREGUNTA 5======================
+Se infiere del texto que un avance significativo en ciencia implica
+======================ALTERNATIVAS======================
+A) la utilización de razonamientos inductivos.
+B) destellos geniales de un científico metódico.
+C) partir de algunas ideas aceptadas previamente.
+D) alejarse de los problemas considerados cruciales.
+E) partir de las innovaciones lógicas más simples.
+======================ALTERNATIVA CORRECTA======================
+C
+======================RAZONAMIENTO======================
+La creación de lo nuevo se da por la transformación de ideas existentes.

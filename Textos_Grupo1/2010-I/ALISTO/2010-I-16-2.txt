@@ -1,0 +1,79 @@
+En las matemáticas del siglo XIX, el infinito generalmente aparece en su forma "potencial". Basándose en esta forma, A. L. Cauchy y sus seguidores establecieron los fundamentos rigurosos del cálculo en la primera mitad de ese siglo.
+
+Durante la segunda mitad, matemáticos como K. Weierstrass, G. Cantor, H. Méray y otros utilizaron esta forma para desarrollar teorías aritméticas sobre los números irracionales, teorías que luego emplearon para construir la teoría de las funciones.
+
+El infinito potencial se puede ilustrar con un ejemplo muy simple: la expresión lim(n → ∞) 1/n = 0 (el límite de 1/n cuando n tiende al infinito es cero, o infinitamente pequeño) es simplemente una manera de expresar que se puede hacer que el cociente 1/n se aproxime a 0 con cualquier grado de precisión deseado si se considera que el número entero positivo n es lo suficientemente grande (la magnitud de n que se considera suficientemente grande depende de la precisión deseada en la aproximación a 0 mediante 1/n). En esta afirmación, no se plantea lo "infinitamente grande" o lo "infinitamente pequeño", y el símbolo lim se utiliza como una notación concisa.
+
+Esta es la perspectiva a la que Gauss se refería cuando escribió su famosa carta a Schumacher en 1831: "En matemáticas, las magnitudes infinitas nunca pueden tomarse como algo definitivo; el infinito es simplemente una manera de hablar, que significa un límite al cual ciertas proporciones pueden aproximarse tanto como se desee, permitiendo que otras aumenten indefinidamente".
+
+============PREGUNTA============
+Medularmente, el texto hace referencia
+============ALTERNATIVAS============
+ al infinito potencial en matemática.
+ a Cantor y los números irracionales.
+ a A. L. Cauchy y el infinito potencial.
+ al modo de referir los números infinitos.
+ al como una notación de lo infinito.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+El tema central gira en referencia al infinito potencial la fuente del cálculo, los
+números irracionales, teoría de funciones y como una faÇon de parler.
+
+
+============PREGUNTA============
+El término MAGNITUDES tiene el significado contextual de
+============ALTERNATIVAS============
+ medidas.
+ dimensiones.
+ cantidades.
+ extensiones.
+ proporciones.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+El enunciado no cambia de significado al cambiarse por ‘cantidades’.
+
+
+============PREGUNTA============
+De acuerdo con el autor ,no es coherente afirmar que
+============ALTERNATIVAS============
+ la expresión del cociente 1/n es igual a cero.
+ el infinito potencial se da en el siglo XIX.
+ el infinito potencial es ()01 <-> n Límn .
+ en las matemáticas el infinito es sólo un límite.
+ el símbolo sólo sirve como notación breve.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+1/n es sólo una aproximación o tiende a cero.
+
+
+============PREGUNTA============
+Se puede inferir del texto que los números infinitos para Gauss son
+============ALTERNATIVAS============
+ racionales.
+ inexistentes.
+ reales.
+ enteros.
+ naturales.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+De acuerdo a la cita de Gauss “…el infinito es sólo una faÇon de parler” como se
+habla de objetos irreales.
+
+
+============PREGUNTA============
+Si se pudiera demostrar la ecuación 1/ n = 0,
+============ALTERNATIVAS============
+ el número n sería lo suficientemente grande.
+ tendría sentido hablar de lo infinitamente pequeño.
+ el símbolo seguiría siendo una notación concisa.
+ sería irrelevante en matemática el infinito potencial.
+ el infinito seguiría siendo solo un modo de hablar.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+El infinito potencial tiende a cero cuando n es lo suficientemente grande, y si 1/ n = 0
+sería irrelevante este concepto.

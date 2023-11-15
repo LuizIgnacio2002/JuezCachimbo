@@ -1,0 +1,83 @@
+El probar una hipótesis implica al menos cuatro actividades diferentes. Primero, la hipótesis debe ser examinada en cuanto a su consistencia interna. Una hipótesis autocontradictoria debe ser rechazada.
+
+Segundo, la estructura lógica de una hipótesis debe ser examinada para averiguar si tiene valor explicativo; esto es, si hace al fenómeno observado inteligible en algún sentido, si ayuda a comprender por qué el fenómeno ocurre como se observa. La hipótesis establece relaciones generales entre ciertas condiciones y sus consecuencias. Por ejemplo, el movimiento de los planetas alrededor del Sol es explicado como consecuencia de la gravedad.
+
+Tercero, la hipótesis debe ser examinada en cuanto a su consistencia con teorías comúnmente aceptadas en el campo particular de la ciencia; es decir, si representa algún avance con respecto a hipótesis alternativas bien establecidas. La carencia de consistencia no siempre es razón para rechazar una hipótesis, aunque a menudo lo sea. Algunos de los grandes avances científicos ocurren precisamente cuando se muestra que una hipótesis ampliamente sostenida es reemplazada por otra nueva, que explica los mismos fenómenos explicados por la hipótesis preexistente, y otros que la hipótesis preexistente no podía explicar. Un ejemplo es el reemplazo de la mecánica newtoniana por la teoría de la relatividad.
+
+La cuarta y más distintiva de las pruebas a que debe someterse una hipótesis es la siguiente: una hipótesis científica debe ser probada empíricamente indagando si las predicciones acerca del mundo de la experiencia derivadas de la hipótesis concuerdan con lo que se observa o no. Este es el elemento crítico que distingue a la ciencia empírica de otras formas de conocimiento: el requerimiento de que las hipótesis científicas sean empíricamente refutables.
+
+
+============PREGUNTA============
+El tema central del texto es
+============ALTERNATIVAS============
+ el proceso de construcción de hipótesis científicas.
+ los procedimientos para evaluar una hipótesis.
+ los grandes avances de la ciencia empírica.
+ las concepciones científicas contemporáneas.
+ la consistencia de las hipótesis empíricas.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+A lo largo del texto se muestran cuatro actividades que realizan los científicos a la
+hora de probar las hipótesis planteadas.
+
+
+============PREGUNTA============
+El antónimo contextual del término INTELIGIBLE es
+============ALTERNATIVAS============
+ imposible.
+ indubitable.
+ ineluctable.
+ insondable.
+ inmutable.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+Si ‘inteligible’ se puede sustituir por cognoscible, su antónimo será incognoscible o
+insondable.
+
+
+============PREGUNTA============
+Según el texto, una hipótesis consistente es aquella que no admite
+============ALTERNATIVAS============
+ contraejemplos en su verificación.
+ contradicciones en su estructura.
+ progreso de las ciencias empíricas.
+ ser reemplazada por otra hipótesis.
+ conclusiones o predicciones derivadas.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+Según el texto, “la hipótesis debe ser examinada en cuanto a su consistencia interna. Una hipótesis que es aut ocontradictoria debe ser rechazada.”
+
+
+============PREGUNTA============
+El texto establece que las hipótesis tienen valor explicativo en tanto
+============ALTERNATIVAS============
+ muestran contradicciones en su estructura teórica interna.
+ sus predicciones pueden ser comprobadas sin experimentación.
+ establecen una relación de causa y efecto entre fenómenos.
+ son consideradas como claros aportes a la ciencia empírica.
+ son percibidas como formas de conocimiento alternativas.
+============RAZONAMIENTO============
+“… la estructura lógica de una hipótesis debe ser examinada para averiguar si tiene
+valor explicativo… La hipótesis establece relaciones generales entre ciertas
+condiciones [causas] y sus consecuencias [efectos].”
+============CORRECTA============
+C
+
+
+============PREGUNTA============
+Si las consecuencias deducidas de una hipótesis fueran incontrastables con lo que
+acaece en el mundo, ésta sería
+============ALTERNATIVAS============
+ ejemplo de una creación metacientífica.
+ separada de las ciencias empíricas.
+ verificada a través de la observación.
+ considerada internamente inconsistente.
+ aceptada por todos los matemáticos.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+La teoría no pasaría la cuarta prueba que distingue a la ciencia empírica de otras
+formas de conocimiento.

@@ -1,0 +1,47 @@
+Suele sostenerse que la ciencia no formula juicios de valor, limitándose a informar sobre los hechos: que dice lo que es, y no lo que debe ser; que se ocupa de lo que es verdadero o falso y no de lo que vale. Esta opinión vulgar ha sido compartida por casi todos los axiólogos, por el positivismo jurídico y por sabios eminentes que han tenido inquietudes éticas, tales como Poincaré, Einstein y Russell. Veamos qué hay de cierto.
+
+En primer lugar, es verdad que las ciencias formales y naturales no se ocupan de los valores; en particular la moderna ciencia de la naturaleza, a diferencia de la antigua y medieval, no ve en la naturaleza objetos intrínsecamente valiosos o no valiosos y, por tanto, no inventa jerarquías del ser en las que cada grado se ubica según su proximidad al Sumo Bien. Pero si las ciencias de la naturaleza son axiológicamente neutrales, ¿ocurre lo mismo con las ciencias del hombre? ¿Acaso, la descripción de la valoración misma, como forma de la conducta humana, no es objeto del estudio de la antropología, de la psicología, de la sociología y de la economía? Y, ¿de dónde salen los valores sino del acto de evaluar?
+
+En segundo lugar, es cierto que la teorización, la explicación y la predicción científicas son ajenas a la valuación y a la normatividad; en una palabra, el contenido del conocimiento científico es axiológico y moralmente neutral. Pero, ¿acaso la ciencia se agota en su contenido? ¿Acaso la descripción, teorización, explicación y predicción científicas no están sujetas, a su vez, a valuaciones y normas? La ciencia es un organismo dinámico compuesto no solamente de proposiciones, sino también de propuestas y de actos guiados por criterios, reglas o normas mediante los cuales los investigadores científicos procuran satisfacer ciertos desiderata (verdad, claridad, universalidad, etc.). Y algunos de los criterios que se emplean en ciencia son claramente normativos: dicen lo que debe hacerse para conseguir determinados fines; y algunos de los actos que el científico realiza qua científico son actos de valoración, que a veces expresa explícitamente, como ocurre cuando coteja hipótesis rivales.
+
+============PREGUNTA============
+En el texto, el autor tiene la intención principal de refutar la idea de que
+============ALTERNATIVAS============
+ el científico está libre de valuaciones y normas axiológicas.
+ la ciencia tiene como meta alcanzar la neutralidad moral.
+ al cotejar hipótesis rivales, la ciencia confirma su neutralidad.
+ la ciencia es ajena a toda consideración axiológica y moral.
+ la ciencia, para ser tal, debe excluir toda tipo de valoración.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+Según el autor, la ciencia es un organismo dinámico compuesto por proposiciones,
+propuestas y de actos guiados por criterios. Algunos de estos son claramente
+normativos y algunos de los actos son actos de valoración.
+============PREGUNTA============
+Se infiere que la ciencia antigua y medieval consideraban que
+============ALTERNATIVAS============
+ el valor residía en los objetos de la naturaleza.
+ aproximarse al Sumo Bien era la meta de la ciencia.
+ su finalidad era excluir jerarquías en la naturaleza.
+ su objeto de estudio no podía ser sujeto de valoración.
+ la naturaleza era intrínsecamente próxima al Sumo Bien.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+La ciencia antigua y medieval veía en la naturaleza objetos intrínsecamente valiosos
+o no valiosos.
+
+============PREGUNTA============
+Es incompatible con el texto aseverar que Poincaré, Einstein y Russell
+============ALTERNATIVAS============
+ concibieron la ciencia como proposiciones y propuestas valorativas.
+ discreparon con la idea de la existencia de jerarquías en la ciencia.
+ por su posición entorno a la ciencia, son criticados por el autor.
+ concuerdan con la idea de que la ciencia se agota en su contenido.
+ limitan la labor de la ciencia a la acción de informar sobre los hechos.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+Estos sabios, por el contrario, compartieron la idea vulgar de que la ciencia no
+formula juicios de valor.

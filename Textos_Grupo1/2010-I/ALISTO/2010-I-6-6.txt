@@ -1,0 +1,78 @@
+La teoría del flogisto, desarrollada durante el siglo XVIII por G. Stahl, explica la combustión atribuyendo a los cuerpos combustibles una sustancia, el flogisto, que éstos liberan al arder. La teoría daba cuenta de diferentes fenómenos; por ejemplo, explicaba que una vela encendida encerrada en un recipiente acabara apagándose, puesto que el aire se satura de flogisto y ya no permite más liberación de esa sustancia proveniente de la vela. A finales de siglo, Lavoisier, que se oponía a la teoría del flogisto, diseñó un experimento para contrastarla. Una consecuencia inmediata de la teoría es que los cuerpos combustibles pierden materia al quemarse, por lo que los restos más las cenizas deben pesar menos que el cuerpo íntegro antes de la combustión. En el experimento de Lavoisier se coloca una determinada cantidad de sustancia combustible (v. g. mercurio) sobre un sólido flotante en agua y se encierra bajo una campana de cristal. Mediante una lupa se enciende el mercurio. De acuerdo con la teoría del flogisto, se tendrían que observar dos cosas: a) el cuerpo flotante está menos sumergido tras la combustión, pues la cantidad restante de sustancia junto con las cenizas debe pesar menos que la cantidad inicial; b) el volumen de aire dentro de la campana debe aumentar como efecto de la asimilación de flogisto, y con ello el nivel del líquido encerrado debe ser más bajo que al comienzo. La realización del experimento produjo justamente los resultados opuestos.
+
+============PREGUNTA============
+En el texto, se describe fundamentalmente
+============ALTERNATIVAS============
+ la falsación de la teoría del flogisto.
+ la verificación de la teoría de Stahl.
+ la nueva teoría propuesta por Lavoisier.
+ la teoría del flogisto probada por Stahl.
+ La liberación de flogisto por los cuerpos.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+Los enunciados deducidos de la teoría de Stahl al ser contrastados por Lavoisier son
+contrarios a los predicho s por la teoría, por lo que el experimento falsa la teoría del flogisto.
+
+
+============PREGUNTA============
+Se infiere de la teoría de Stahl que el flogisto
+============ALTERNATIVAS============
+ no es combustible.
+ no puede ser pesado.
+ es un elemento aislable.
+ es igual al oxígeno.
+ es una sustancia compuesta.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+Stahl sostiene que los cuerpos combustibles liberan flogisto y de acuerdo a la teoría
+el aire se satura de flogisto, el aire se mezcla con el flogisto en ese sentido pueden
+separarse y aislarse el flogisto.
+
+
+============PREGUNTA============
+Es incompatible con lo expuesto por el autor sostener que Lavoisier
+============ALTERNATIVAS============
+ era escéptico frente a la teoría del flogisto.
+ ponía mucho empeño en la medición exacta.
+ obtuvo resultados opuestos a los esperados.
+ diseñó la contrastación de la teoría de Stahl.
+ corroboró la teoría del flogisto de G. Stahl.
+============CORRECTA============
+E
+============RAZONAMIENTO============
+El experimento de Lavoisier permite la refu tación de la teoría de Stahl y no su
+contrastación.
+
+
+============PREGUNTA============
+El significado contextual del término LIBERACIÓN es
+============ALTERNATIVAS============
+ emancipación.
+ emanación.
+ salvación.
+ manumisión.
+ exoneración.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+“…una vela encendida encerrada en un recipiente acabara apagándose puesto que
+el aire se satura de flogisto y ya no permite más ‘liberación’ de esa sustancia”, es
+decir, ya no permite más emanación o desprendimiento de flogisto.
+
+
+============PREGUNTA============
+Si Lavoisier hubiera comprobado la predicción de la teoría de Stahl,
+============ALTERNATIVAS============
+ el resto y la ceniza de mercurio pesarían menos.
+ el nivel del líquido debería estar más arriba.
+ el cuerpo flotante es taría más sumergido.
+ la teoría del flogisto habría sido derrocada.
+ el nivel del líquido mantendría su nivel.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+La consecuencia inmediata de la teoría de St ahl es que los cuerpos pierden materia
+al quemarse y si es contrastada por el experimento de Lavoisier entonces el resto y
+ceniza del mercurio pesaría menos.

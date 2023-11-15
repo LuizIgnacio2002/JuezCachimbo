@@ -1,0 +1,17 @@
+Para lograr resultados satisfactorios, el depredador requiere movimientos rápidos en pos de la presa. A fin de ver con claridad mientras se mueven, los depredadores deben tener un mecanismo que estabilice la imagen retiniana para que el movimiento no la vuelva borrosa. La estabilidad retiniana se logra mediante el sistema vestibular, que percibe el movimiento de la cabeza y envía señales al rombencéfalo. Éste transmite rápidamente las señales a los músculos extraoculares del ojo para que se mueva en la dirección opuesta y compense así los movimientos de la cabeza. En los vertebrados con mandíbula, el movimiento de la cabeza en cada uno de los tres planos del espacio es detectado por el correspondiente canal semicircular del aparato vestibular. Los peces sin mandíbula, que carecen del cristalino formador de imágenes, también carecen de músculos extraoculares del ojo y disponen sólo de un aparato vestibular muy sencillo con un canal semicircular individual.
+ 
+Una parte necesaria de este sistema para obtener una imagen retiniana estable es el cerebelo. Las señales enviadas a los músculos oculares se calibran con precisión para que el ojo no se mueva demasiado rápido ni demasiado lento. Tal vez la función más básica del cerebelo es comparar las velocidades del ojo y de la cabeza, y ajustar la señal enviada a los músculos oculares para que se estabilice la imagen retiniana. El cerebelo está poco desarrollado o no existe en los peces sin mandíbula, aunque sí está presente en las lampreas. Se ha agrandado bastante en los peces mormíridos, donde puede que sus funciones estén relacionadas con la necesidad de la coordinación precisa entre la emisión de pulsos eléctricos y la recepción de señales reflejadas por electrorreceptores distribuidos por la superficie del cuerpo del pez. En el cerebelo de los mormíridos, la disposición de las dendritas en las neuronas es la de una especie de retícula cristalina que, probablemente, mantiene la precisa coordinación eléctrica de esos circuitos.
+============PREGUNTA============
+¿Cuál es el tema central del texto?
+============ALTERNATIVAS============
+El canal semicircular del aparato vestibular.
+Las dendritas en las neuronas del pez mormírido.
+El sistema vestibular en los peces sin mandíbula.
+El origen funcional del cerebelo en los vertebrados.
+	Necesidad de movimientos rápidos en la depredación.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+El texto menciona a los depredadores y sus necesidades para hablar del cerebelo
+como estructura biológica responsable de las funciones de calibración de los
+movimientos que hacen eficiente a un depredador.

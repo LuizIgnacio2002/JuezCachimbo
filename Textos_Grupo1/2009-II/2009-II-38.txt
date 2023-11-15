@@ -1,0 +1,394 @@
+Durante el siglo XVII los centros científicos se desplazaron de las localidades medievales de prosperidad comercial y de cultura renacentista, Alemania y la Italia septentrional, a las regiones próximas al Atlántico que se habían beneficiado de los grandes descubrimientos geográficos: Francia, Holanda y la Inglaterra meridional. Kepler y Galileo marcaron el clímax de los logros alemanes e italianos del comienzo de la ciencia moderna, y esas tierras no volverían a ser prominentes en el campo científico hasta finales del siglo XVIII.
+
+El cambio de las localidades geográficas de los centros científicos durante el siglo XVII se vio acompañado por un cambio en el tipo de personas que se hacían científicos. Tanto Kepler como Galileo habían sido científicos profesionales. Ambos habían trabajado bajo el patrocinio de príncipes y habían disfrutado de nombramientos académicos en diversos momentos de sus carreras.
+
+El nuevo tipo de científico que aparecía en Francia, Inglaterra y Holanda era esencialmente un aficionado. En Inglaterra, tales personas provenían de familias acomodadas del campo o del comercio, siendo a menudo nuevos ricos de la época, como Robert Boyle y Sir William Petty. Newton es al respecto una excepción, dado que era un profesional que disfrutaba de una cátedra en Cambridge y no era rico. En Francia, las personas provenientes de familias conectadas con la administración predominaban en las ciencias, especialmente abogados relacionados con la administración legal de los parlamentos locales o tribunales de Francia.
+
+El desplazamiento de los centros de la ciencia se ilustra mediante el hecho de que los dos hombres que trataron de hacer un análisis general del método científico durante la primera mitad del siglo XVII provenían de las nuevas regiones: Francis Bacon de Inglaterra y René Descartes de Francia. Descartes era hijo de un consejero del parlamento y durante toda su vida fue un amateur acomodado. En filosofía natural se propuso dos cosas. En primer lugar, examinar y generalizar el método matemático que se había estado desarrollando en la ciencia de la mecánica. En segundo lugar, construir mediante dicho método una imagen mecánica general de las operaciones de la naturaleza.
+
+Dado que la atmósfera intelectual de Francia demostraba ser poco favorable, Descartes se trasladó a Holanda en 1628, publicando allí su Discurso del Método en 1637. Descartes había leído las doctrinas de Bacon acerca del método científico, simpatizando con sus objetivos, aun cuando pensaba que Bacon había iniciado sus investigaciones por un lugar inadecuado. El pensador inglés había partido de los hechos empíricos del mundo material en lugar de hacerlo de los principios generales que suministraban la base de la investigación deductiva. Descartes se sentía impresionado por el método matemático que se desarrollaba en el seno de las ciencias físicas y se dio cuenta que del mismo modo que el estudioso de la mecánica limitaba la diversidad de las cosas observables a aquellas que eran mensurables, así también él debía recortar la variedad de teorías que se pudiesen sugerir, limitándolas a aquellas que se pudiesen desarrollar matemáticamente.
+
+Del mismo modo, no todas las cualidades mensurables tenían la misma importancia, habiéndose de desestimar algunas para simplificar el estudio, a la manera en que Galileo había dejado la resistencia del aire en sus estudios sobre la caída gravitatoria. De manera semejante, Descartes pensaba que no todas las ideas susceptibles de tratamientos matemáticos tenían la misma importancia, sino que había ciertas ideas fundamentales «dadas por intuición» que suministraban el punto de partida más seguro para las deducciones de carácter matemático. Dichas ideas eran las de movimiento, extensión y Dios. La idea de Dios constituía el fundamento principal de su sistema, dado que Dios había creado la extensión y había puesto el movimiento en el universo. Puesto que el movimiento había sido conferido al universo una vez sólo en el momento de la creación, la cantidad de movimiento del mundo había de ser constante. Mediante tal argumento, Descartes llegó al principio de conservación del momento.
+
+De esta manera, argumentando casi de modo matemático a partir de principios indubitables y ciertos, Descartes consideraba posible deducir todos los aspectos prominentes del mundo natural. En los detalles de la naturaleza de las cosas era inevitable que se diesen ciertas incertidumbres, dado que de las mismas proposiciones se podían deducir diferentes consecuencias, por lo que en este punto había que recurrir a los experimentos a fin de decidir entre opiniones rivales. Con todo, Descartes no hizo hincapié en este aspecto de su método, pues se ocupaba principalmente de la deducción del esquema general de las cosas a partir de los primeros principios. Además, consideraba que los experimentos se limitaban a ilustrar simplemente las ideas que se habían deducido de los principios dados por intuición: no consideraba que los experimentos determinasen los principios a partir de los cuales se derivaban las deducciones, tal y como Galileo había hecho. En efecto, Galileo había obtenido su principio de inercia y la ley de la caída gravitatoria de los cuerpos a partir de sus experimentos con la esfera que rodaba por un plano inclinado, derivando matemáticamente la trayectoria de los proyectiles y demás a partir de esos principios dados experimentalmente.
+
+El científico holandés Christiaan Huygens señaló más tarde que Bacon no había apreciado la función de las matemáticas en el método científico, mientras que Descartes había desestimado la función de la experimentación. En este sentido, las obras de ambos filósofos eran complementarias, perpetuando Bacon el empirismo de la tradición artesanal, y Descartes, las tendencias especulativas de la tradición culta. Así pues, ninguno de ellos integró plenamente ambas tradiciones, aunque ambos se aproximaron a tal situación. Bacon era consciente de la función que podrían desempeñar las matemáticas en la ciencia. Decía que la investigación de la naturaleza procede mejor cuando la física se ve limitada por las matemáticas, pero no desarrolló este punto. De manera semejante, Descartes distinguía entre análisis, el modo teórico en que esas mismas cosas se pueden deducir de primeros principios, y la síntesis como lo único que usaban los geómetras antiguos en sus escritos –señalaba –, pero que no satisface como el otro método, ni contenta el espíritu de aquellos que desean aprender, pues no muestra el camino por el que las cosas se descubre. Así, Arquímedes descubrió sus principios mecánicos experimentalmente, aunque los presentó como deducciones a partir de axiomas dados por intuición, de modo que no sabemos cuáles fueron de hecho sus experimentos. Por otro lado, Galileo dio cuenta de sus experimentos, por lo que el método de Descartes era más afín al de Arquímedes que el de Galileo, por más que apreciase las ventajas de este último.
+
+Descartes no se sentía atraído por la antigua idea pitagórica de que las consideraciones matemáticas determinaban la estructura del universo, la idea que los perfectos cuerpos celestes deben poseer la forma perfecta de la esfera y que sus movimientos deben ser circulares y uniformes. Para Descartes son consideraciones mecánicas las que determinan la forma y movimiento de los cuerpos celestes y, ciertamente, de todas las operaciones de la naturaleza. Consideraba a las matemáticas como un instrumento metodológico, sintiendo muy poca simpatía por la actitud de los matemáticos puros. Nada hay más fútil que ocuparse de meros números y figuras imaginarias, escribía. Como Bacon, consideraba que los proyectos utilitarios constituían el fin importante de la ciencia.
+
+Al desarrollar su método matemático, Descartes realizó notables avances en la técnica matemática; en concreto, inventó la geometría de coordenadas. Galileo se había basado en demostraciones geométricas para probar sus proposiciones mecánicas. Amplió el ámbito de la geometría a otras magnitudes mensurables como la cantidad de movimiento, velocidad y tiempo. En este terreno la aplicación de la geometría resultaba más bien forzada y engorrosa. El álgebra constituía una técnica matemática mucho más flexible y general, pudiendo abordar fácilmente problemas que entrañasen masas y movimientos. Sin embargo, el álgebra era entonces algo más bien novedoso, siendo abstracta y hallándose alejada del pensamiento geométrico predominante de los matemáticos de la época. Aun así, se produjeron importantes desarrollos algebraicos durante los siglos XVI y XVII. Tartaglia encontró la primera solución algebraica de una ecuación cúbica, frente a los anteriores métodos geométricos de resolver ecuaciones. François Viète, 1540 -1603, quien como el padre de Descartes era miembro del parlement bretón, mejoró la notación algebraica, siendo desarrollados sus resultados por el matemático, astrónomo y agrimensor inglés Thomas Harriot. Siguiendo a Harriot, Descartes hizo la geometría algebraica, representando las figuras geométricas gráficamente por medio de ecuaciones algebraicas. Más tarde, Newton y Leibniz describirían las figuras geométricas mediante ecuaciones algebraicas que representaban el movimiento de un punto geométrico, desarrollando así el cálculo. Estos métodos servían para analizar las relaciones entre masas y movimientos, siendo las más importantes técnicas matemáticas utilizadas por los científicos hasta este siglo.
+
+Descartes desarrolló también la idea que la masa y el tiempo eran dimensiones fundamentales del mundo, tan importantes como las tres dimensiones del espacio. Descartes incurrió de nuevo en la opinión que la extensión y el movimiento eran las magnitudes fundamentales que componían el mundo. Como Galileo, tendía a identificar la materia con el volumen, esto es, con la extensión en tres dimensiones. Con todo, Descartes representó una ostensible mejora con respecto a Galileo, por cuanto sugería que los movimientos naturales tomaban la forma de la velocidad uniforme en una línea recta y no en un círculo, como Galileo había supuesto. Así, Descartes conceptuó claramente la regularidad de los sistemas inerciales.
+
+Con la concepción de la extensión y el movimiento, Descartes consideraba posible deducir mediante su método las líneas maestras del funcionamiento del universo. Dadme movimiento y extensión –escribía – y construiré el mundo. Descartes era de la opinión que las leyes de la naturaleza eran tales que podían desarrollar cualquier posible disposición del caos primordial de la materia para formar el tipo de mundo en el que nos hallamos en el presente. Independientemente de su forma original, el universo asumía por necesidad su configuración actual, cosa que haría también cualquier otro mundo posible compuesto de materia y movimiento. Puesto que Descartes identificaba la materia con el volumen, negaba que pudiese existir el vacío, un hueco en el espacio, y que la materia se compusiese de átomos con espacios vacíos entre sí. La materia impregnaba todo el espacio, y, por consiguiente, en un principio la materia primordial sólo podía sufrir un movimiento rotatorio. De este modo se estableció un vórtice gigante en el que los bloques primarios de materia eran arrastrados entorno, gastándose gradualmente la fricción. Independientemente de su forma original, los bloques primarios de materia se desgastaban para formar un polvo, la materia primera, y pequeñas esferas, la materia segunda. El polvo cósmico o materia primera constituía el elemento fuego que formaba el Sol y las estrellas fijas. La materia segunda era el aire o elemento etéreo que componía el material del espacio interestelar. Había también una materia tercera, a saber, los bloques originales de materia que no se habían descompuesto en polvo sino que se habían redondeado tan sólo. Estos grandes bloques esféricos de materia constituían el elemento tierra que formaba la Tierra, los planetas y los cometas.
+
+A medida que el universo se desarrollaba, se iniciaban torbellinos secundarios en torno a cada conglomerado de materia. Había un vórtice entorno a la Tierra que arrastraba a la Luna en su curso, y otro entorno a Júpiter que mantenía a sus cuatro lunas en sus órbitas, mientras que la Tierra y todos los planetas se hallaban atrapados en un vórtice más amplio entorno al Sol. En los vórtices cósmicos la materia pesada era arrastrada hacia los centros, mientras que la materia ligera se veía dispersada hacia los bordes exteriores. De ahí que los objetos pesados cayesen hacia la Tierra y que el fuego se elevase hacia arriba.
+
+============PREGUNTA============
+Se infiere que el adjetivo MENSURABLE significa
+============ALTERNATIVAS============
+ objeto de estudio.
+ digno de encomio.
+ posible de medición.
+ fuente de crítica.
+ pasible de comparación.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+El texto sostiene que de la diversidad de fenómenos observables hay que considerar
+solo los mensurables para poder desarrollarlos matemáticamente, esto es, medirlos.
+El autor del texto pone como ejemplo el caso de Galileo que en el estudio de la
+caída de los cuerpos despreció la resistencia del aire.
+
+============PREGUNTA============
+El sentido de la palabra PROMINENTE es
+============ALTERNATIVAS============
+ elevado.
+ relevante.
+ insondable.
+ famoso.
+ visionario.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+La palabra PROMINENTE aparece dos veces en el texto. En el primer caso se dice
+que Alemania e Italia, después de Kepler y Galileo, no volverían a ser prominentes
+en el campo científico debido a la ausencia de científicos notables. En el segundo
+caso, Descartes creía posible deducir todos los aspectos prominentes del mundo
+natural a partir de principios indubitables. En ambos casos se hace referencia a la
+relevancia o importancia de los asuntos tratados.
+
+============PREGUNTA============
+Para Descartes, los primeros principios son de naturaleza
+============ALTERNATIVAS============
+ empírica.
+ deductiva.
+ experimental.
+ evidente.
+ contradictoria.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+El texto sostiene que Descartes está interesado en fundamentar el conocimiento
+científico y que para tal objetivo parte de principios indubitables captados por
+intuición. Si son captados por intuición, es decir, mediante la comprensión
+instantánea en ausencia de razonamiento, entonces, se trata de principios
+evidentes.
+
+============PREGUNTA============
+Se infiere que una operación fundamental en el método galileano es
+============ALTERNATIVAS============
+ la especulación.
+ la intuición.
+ la comparación.
+ la abstracción.
+ la introspección.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+Galileo procedió de manera inversa a Descartes. Galileo obtuvo algunos principios
+como el de inercia y la ley de la caída gravitatoria a partir de sus observaciones
+experimentales de una esfera en el plano inclinado. La determinación de una ley por
+la vía experimental supone un proceso de abstracción para ir de los casos
+particulares a una afirmación de carácter general.
+
+============PREGUNTA============
+Se deduce que el fundamento del sistema cartesiano es de índole
+============ALTERNATIVAS============
+ experimental.
+ paradójica.
+ metafísica.
+ observacional.
+ cuantitativa.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+Descartes sostuvo que el conocimiento científico es taba fundamentado por unos
+principios captados por intuición: movimiento, extensión y dios. De esos principios
+dios era el más importante pues es el creador de la extensión y quien puso el
+movimiento en el mundo. De este modo, dios es el fundamento de su sistema de
+pensamiento. Se trata de un fundamento metafísico.
+
+ 
+============PREGUNTA============
+Medularmente, el texto se refiere al
+============ALTERNATIVAS============
+ sistema filosófico de la modernidad tal como fue asumido por los físicos.
+ progreso científico logrado por autor es como Kepler, Galileo y Descartes.
+ carácter aficionado de los nuevos protagonistas de la revolución científica.
+ sistema mecanicista de Descartes en el contexto de la ciencia del siglo XVII.
+ conocimiento de la filosofía respecto de las inviolables leyes de la naturaleza.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+Luego de explicar el contexto de la ciencia del siglo XVII y de algunos aspectos del
+método cartesiano, el autor se centra en la teoría mecanicista del universo avanzada
+por el pensador francés.
+
+============PREGUNTA============
+La ciencia cartesiana aplicaba un método
+============ALTERNATIVAS============
+ técnico.
+ matemático.
+ filosófico.
+ hermético.
+ experimental.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+A lo largo del texto, se menciona las consideraciones matemáticas como
+operaciones claves en el pensamiento cartesiano.
+ 
+============PREGUNTA============
+Descartes emigró hacia Holanda
+============ALTERNATIVAS============
+ dado que tenía serios problemas de salud.
+ en virtud de sus necesidades profesionales.
+ pocos años antes de su deceso físico.
+ en búsqueda de un entorno más propicio.
+ siguiendo a su maestro Francis Bacon.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+Se sentía inseguro en Francia y, por ello, radicó en Holanda, dado que allí encontró
+un ambiente más benevolente para con las nuevas ideas.
+
+============PREGUNTA============
+Podemos determinar que Descartes estaba en contra
+============ALTERNATIVAS============
+ de la filosofía empirista de Francis Bacon.
+ de la filosofía natural de índole matemática.
+ de la finalidad del método baconiano.
+ de las teorías científicas de Galileo.
+ de postular la existencia de Dios.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+Según Descartes, Bacon se equivocó al poner como cimientos de su sistema los
+hechos empíricos.
+
+============PREGUNTA============
+La teoría de Descartes se nutre de dos procedimientos, a saber,
+============ALTERNATIVAS============
+ la razón y la fe.
+ el método y las falacias.
+ la intuición y la deducción.
+ el cálculo y la observación.
+ la hipótesis y la ley.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+La intuición le permite alcanzar los primeros principios y sobre esa base puede
+aplicar la deducción para lograr los corolarios científicos.
+
+============PREGUNTA============
+Según la información dada en el texto, Galileo era
+============ALTERNATIVAS============
+ racionalista.
+ empirista.
+ humanista.
+ místico.
+ ideólogo.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+Efectivamente, Galileo y Kepler fueron profesionales empiristas, a diferencia del
+nuevo científico del siglo XVIII.
+
+============PREGUNTA============
+Según el punto de vista de Huygens, la ciencia
+============ALTERNATIVAS============
+ debía negar enfáticamente el empirismo de la tradición artesanal.
+ debía obviar el empleo de las matemáticas en sus construcciones.
+ se debe apoyar en un método científico puramente matemático.
+ entraña una complementación entre matemáticas y experimentación.
+ es abstracción teórica desligada de toda consideración experimental.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+Huygens deplora que Bacon no hubiese valorado la matemática en el método
+científico, tanto como el hecho de que Descartes restase valor a la experimentación.
+
+============PREGUNTA============
+Si un filósofo sostuviera que la estructura del cosmos se determina por las leyes matemáticas,
+============ALTERNATIVAS============
+ suscribiría la concepción pitagórica.
+ concordaría con el método cartesiano.
+ estaría de acuerdo con Galileo.
+ sería un seguidor de Francis Bacon.
+ procedería por la vía de la síntesis.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+Esta hipótesis es negada por Descartes, quien no simpatizaba con dicha antigua
+idea pitagórica.
+
+============PREGUNTA============
+Para Descartes, la finalidad de la ciencia era
+============ALTERNATIVAS============
+ místico.
+ pragmática.
+ ideológica.
+ especulativa.
+ matemática.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+En efecto, Descartes resta valor a la matemática pura. Sostiene que la matemática
+debe ser instrumento metodológico.
+
+============PREGUNTA============
+En tiempos de Descartes, el álgebra y la geometría
+============ALTERNATIVAS============
+ aún no se habían inventado.
+ no tenían vasos comunicantes.
+ tenían reglas precisas y absolutas.
+ eran consideradas experimentales.
+ llegaron a la cima de su desarrollo.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+En aquel tiempo el álgebra era novedosa y abstracta, desvinculada de la geometría.
+
+============PREGUNTA============
+Con respecto al cálculo diferencial inventado por Newton y Leibniz, se puede decir que
+============ALTERNATIVAS============
+ fue un método puramente físico.
+ contradijo las ideas de Harriot.
+ tuvo gran trascendencia científica.
+ Fourier lo rebatió concluyentemente.
+ Descartes lo inventó mucho antes.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+Cuando el autor se refiere al cálculo diferencial e integral, dice que se aplica en la
+ciencia de manera muy proficua. Su importancia científica es superlativa.
+
+============PREGUNTA============
+El primer científico que estableció la ley moderna de inercia fue
+============ALTERNATIVAS============
+ Galileo.
+ Newton.
+ Descartes.
+ Harriot.
+ Tartaglia.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+Galileo tuvo una noción de inercia circular. La noción moderna de inercia (inercia
+rectilínea) se debe a Descartes.
+
+============PREGUNTA============
+En la visión mecanicista de Descartes, era fundamental
+============ALTERNATIVAS============
+ hablar de la idea del alma.
+ negar la existencia de vacío.
+ recusar la idea de Dios.
+ la idea de acción a distancia.
+ postular la fuerza de la gravedad.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+La teoría de los vórtices de éter era incompatible con la existencia del vacío o de
+huecos en el mundo.
+
+ 
+============PREGUNTA============
+Se infiere que Descartes estaba en contra de la tesis
+============ALTERNATIVAS============
+ mecanicista.
+ determinista.
+ atomista.
+ causalista.
+ física.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+Dado que negaba la existencia de vacío, recusaba también la tesis fundamental del
+atomismo de esa época: solamente hay átomos y vacío.
+
+============PREGUNTA============
+Según la visión cartesiana, los cometas
+============ALTERNATIVAS============
+ eran bloques de hielo rectangulares.
+ originaron el primigenio polvo cósmico.
+ se componían de la materia terrestre.
+ eran condensaciones del elemento etéreo.
+ producían los vórtices en el universo.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+El elemento tierra sirve para formar los planetas y los cometas.
+
+============PREGUNTA============
+Según la explicación cartesiana, el fuego ascendía por el aire en virtud
+============ALTERNATIVAS============
+ de la ligereza de su materia.
+ de los vórtices primigenios.
+ del movimiento interestelar.
+ de la acción a distancia.
+ de la ley de inercia.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+Según Descartes, la materia prima constituye el elemento fuego, la materia segunda
+es el aire. Además, en los vórtices cósmicos la materia pesada era arrastrada hacia
+los centros, la materia ligera se dispersaba hacia los bordes. Por esto, los objetos
+pesados caen hacia la Tierra y el fuego se eleva hacia arriba.
+
+============PREGUNTA============
+Cuando dice Descartes que él puede «construir» el mundo quiere decir que
+============ALTERNATIVAS============
+ puede explicarlo gracias a un sistema deductivo.
+ podría fabricarlo como lo hizo una mente divina.
+ creará la extensión y el movimiento infinito.
+ es capaz de generar las dimensiones del cosmos.
+ va a aplicar una rigurosa geometría algebraica.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+Construir para Descartes significaba explicarlo, ya que él planteaba la participación
+de las leyes de la naturaleza para la construcción del universo.
+
+============PREGUNTA============
+Del caos primordial se puede llegar al estado actual del mundo en virtud de
+============ALTERNATIVAS============
+ un acto de creación especial y autodeterminado.
+ las condiciones iniciales de la extensión.
+ la acción mecánica de las leyes de la naturaleza.
+ las leyes de movimiento según la geometría.
+ la identificación de la materia con el volumen.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+Según Descartes las leyes de la naturaleza podían formar el mundo actual sin
+importar cual haya sido la disposición del caos de la materia inicial .
+
+============PREGUNTA============
+Para el importante trabajo de Harriot fue fundamental la obra de
+============ALTERNATIVAS============
+ Descartes.
+ Viète.
+ Huygens.
+ Galileo.
+ Leibniz.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+La obra de Harriot desarrolló los resultados de la rotación algebraica de Viète, por lo
+tanto, es fundamental.
+
+ 
+============PREGUNTA============
+Si Descartes hubiese aceptado la existencia de vacío, habría aceptado la existencia de
+============ALTERNATIVAS============
+ vórtices.
+ Dios.
+ espíritu.
+ átomos.
+ extensión.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+Descartes negaba el vacío, y por ende a los átomos, ya que ellos incluyen vacíos
+entre sí; por lo tanto, si se acepta el vacío, también se aceptan los átomos.

@@ -1,0 +1,125 @@
+En 1895, un físico prusiano de 40 años, Wilhelm Roentgen, llevó a cabo una investigación sobre los rayos catódicos en un tubo de Crookes. Su indagación tenía un enfoque estrictamente experimental, con el objetivo de comprender cómo evitar la fluorescencia violeta de estos rayos en dicho tubo.
+
+Roentgen, nacido en 1845 en Alemania y formado en la Universidad de Würzburg, desempeñaba el cargo de jefe del departamento de física en la Universidad de München, donde realizaba experimentos meticulosos. Era conocido por su método y capacidad de observación.
+
+Un día, en su laboratorio oscurecido, Roentgen notó un débil resplandor en un objeto que contenía cristales de platino-cianuro de bario cuando apagaba el tubo de Crookes, y este resplandor desaparecía cuando lo encendía nuevamente. Repitió este experimento en numerosas ocasiones, variando las condiciones, para asegurarse de que había descubierto algo objetivo y sujeto a causalidad científica. Estos rayos, que podían atravesar cartulina negra e incluso metales menos densos que el plomo, los llamó "rayos X," aunque también se les conoce como "rayos Roentgen."
+
+El descubrimiento de Roentgen consistía en una forma de radiación electromagnética generada principalmente por la desaceleración de electrones. Los rayos X son radiación ionizante, lo que significa que al interactuar con la materia, producen partículas cargadas llamadas iones. Estos rayos revolucionaron la medicina al permitir la visualización de lo que sucede dentro del cuerpo humano sin necesidad de procedimientos invasivos. Se cuenta la historia de que los rayos X se utilizaron para localizar una bala en el cuerpo de una mujer que había sido atacada, lo que llevó a un exitoso procedimiento médico.
+
+El descubrimiento de Roentgen dio origen a la radiología, una disciplina fundamental en la medicina. Aunque los rayos X tienen diversas aplicaciones, como la cristalografía, su uso en el diagnóstico médico marcó un hito en la ciencia médica. Sin embargo, se reconoce que su uso excesivo puede conllevar riesgos para la salud humana. Roentgen recibió el primer Premio Nobel de Física en 1901 y, en un gesto admirable, donó el premio monetario a su universidad, mostrándose reacio a patentar su descubrimiento debido a su creencia de que la utilidad de los rayos X debía estar al servicio de la humanidad.
+
+============PREGUNTA============
+El texto anterior gira entorno
+============ALTERNATIVAS============
+ a la corroboración de una teoría científica.
+ a la interpretación de lo casual en la ciencia.
+ a un descubrimiento científico de impacto.
+ al surgimiento de una nueva disciplina.
+ al valor social de los saberes científicos.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+El tema central del texto es el descubrimiento de los rayos X logrado por Roentgen.
+
+
+============PREGUNTA============
+El sentido contextual de AGUZADA es
+============ALTERNATIVAS============
+ lábil.  
+ bizantina.  
+ capciosa.  
+ abstrusa.  
+ fina.
+============CORRECTA============
+E
+============RAZONAMIENTO============
+Aguzada capacidad alude a la sutileza del gran científico.
+
+
+============PREGUNTA============
+¿Cuál es el mejor resumen del texto?
+============ALTERNATIVAS============
+ El físico alemán Wilhelm Roentgen quiere investigar la manera de evitar la fluorescencia violeta de los rayos cat ódicos en un tubo de Cr ookes (un tubo vacío con electrodos para generar corrientes de alto voltaje) y así logra el Nobel de Física en 1901.
+ La desaceleración de electrones produce una extraña forma de radiación electromagnética, lo que recién se pudo comprobar a fines del siglo XIX, debido a que en esa época se logró inventar el procedimiento físico conocido como tubo de Crookes.
+ Wilhelm Roentgen se caracterizó por un espíritu metódico y un elevado rigor teórico, capacidades que lo llevaron a descubrir, fundamentalmente por casualidad, la verdadera naturaleza de los rayos que él denominó X por tratarse de rayos totalmente ignotos.
+ Gracias a una investigación sobre rayos catódicos en el tubo de Crookes, Roentgen llegó a conocer la realidad de unos misteriosos rayos con los cuales se puede verlo invisible. El hallazgo es t an gravitante que obtiene el premio Nobel de Física en 1901.
+ Debido a que la indagación de Roentgen era de índole experimental, usó el tubo de Crookes para descubrir la naturaleza electromagnética de los rayos catódicos. Así logro fundar la técnica de la radiología, lo que significó un gran avance para la medicina.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+El resumen debe incidir en el impactante descubrimiento y en la consecuencia: la
+obtención del Nobel.
+
+
+============PREGUNTA============
+¿Cuál es el enunciado incompatible con el texto?
+============ALTERNATIVAS============
+ El descubrimiento de W. Roent gen revela un elemento fortuito en las investigaciones.
+ Roentgen hizo el des cubrimiento de los rayos X cuando frisaba los 56 años de edad.
+ La radiología médica es una aplicación impactante del descubrimiento de Roentgen.
+ Hacia los 50 años, Wilhelm Roentgen es ya un científico con una buena trayectoria.
+ Las investigaciones de Wilhelm Roentgen distaban de ser meramente especulativas.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+El descubrimiento data de 1895, cuando cuenta con 50 años.
+
+
+============PREGUNTA============
+De la referencia al juego de la ciencia se puede inferir un rasgo esencial de la
+ciencia, a saber, su carácter
+============ALTERNATIVAS============
+ tecnológico.
+ apoético.
+ metódico.
+ abstracto.
+ idealizador.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+Con esa frase se alude al rigor en la lógica de la confirmación, esto es, se apunta a un criterio metódico.
+
+
+============PREGUNTA============
+Se deduce del texto que un descubrimiento científico amerita el premio Nobel si a la calidad científica aún a
+============ALTERNATIVAS============
+ modestia intelectual.
+ espíritu filosófico.
+ supremacía racial.
+ trascendencia social.
+ rentabilidad financiera.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+El ejemplo de los rayos X de Roentgen revela una de las condiciones esenciales
+para recibir el premio Nobel: descubrimiento científico con gran impacto de utilidad social.
+
+
+============PREGUNTA============
+Si alguien propugnara el uso irrestricto e hiperbólico de los rayos X
+============ALTERNATIVAS============
+ podría ser tildado de irresponsable.
+ revelaría una actitud procientífica.
+ refrendaría la actitud de Roentgen.
+ cuestionaría la técnica de Crookes.
+ podría patentar una teoría científica.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+El uso de los rayos X debe ser cauteloso, por cuanto es potencialmente pernicioso.
+Por ejemplo, a una mujer embarazada no debería aplicarse una radiografía.
+
+
+============PREGUNTA============
+Se colige del texto que un rasgo notable de Roentgen es su
+============ALTERNATIVAS============
+ ferviente deseo de inmortalidad.
+ espíritu signado por la filantropía.
+ carácter cansino y muy aprensivo.
+ búsqueda de riquezas personales.
+ precipitación en la busca de la verdad.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+Al donar el monto económico y al rehusar a solicitar una patente por algún invento
+relacionado con el descubrimiento, se puede colegir un espíritu filantrópico.

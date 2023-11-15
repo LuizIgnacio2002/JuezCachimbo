@@ -1,0 +1,65 @@
+=====================TEXTO======================
+En filosofía natural, René Descartes se propuso dos cosas. En primer lugar, examinar y generalizar el método matemático de la ciencia natural. En segundo lugar, construir mediante dicho método una imagen mecánica general de las operaciones de la naturaleza.
+Descartes había leído las doctrinas de Francis Bacon acerca del método científico. Aunque simpatizaba con los objetivos del filósofo inglés, pensaba que Bacon había iniciado sus investigaciones desde un lugar inadecuado. Bacon había partido de los hechos empíricos del mundo material en lugar de hacerlo desde los principios generales que proporcionaban la base para la investigación deductiva. Descartes se sentía impresionado por el método matemático que se desarrollaba en el seno de las ciencias físicas y se dio cuenta de que, de la misma manera que el estudioso de la mecánica limitaba la diversidad de las cosas observables a aquellas que eran medibles, él también debía reducir la variedad de teorías sugeribles, limitándola a aquellas que se pudieran desarrollar matemáticamente.
+Del mismo modo, no todas las cualidades medibles tenían la misma importancia, por lo que se debían desestimar algunas para simplificar el estudio. Descartes pensaba que no todas las ideas susceptibles de tratamientos matemáticos tenían la misma importancia, sino que había ciertas ideas fundamentales "dadas por intuición" que proporcionaban el punto de partida más seguro para las deducciones de carácter matemático. Dichas ideas eran las de movimiento, extensión y Dios. La idea de Dios constituía el fundamento principal de su sistema, dado que Dios había creado la extensión y había puesto el movimiento en el universo. Puesto que el movimiento había sido conferido al universo solo una vez en el momento de la creación, la cantidad de movimiento del mundo debía ser constante. Mediante tal argumento, Descartes llegó al principio de conservación del momento.
+======================PREGUNTA 1======================
+Medularmente, el sistema de Descartes se cimienta en
+======================ALTERNATIVAS======================
+A) la deducción. 
+B) el cálculo. 
+C) la observación.
+D) la creencia. 
+E) la intuición.
+======================ALTERNATIVA CORRECTA======================
+E
+======================RAZONAMIENTO======================
+El sistema cartesiano parte de las evidencias dadas por la intuición.
+======================PREGUNTA 2======================
+En el texto, la palabra COSA significa
+======================ALTERNATIVAS======================
+A) entidad. 
+B) propiedad. 
+C) objetivo.
+D) método. 
+E) naturaleza.
+======================ALTERNATIVA CORRECTA======================
+C
+======================RAZONAMIENTO======================
+Cosa se usa como sinónimo de objetivo o propósito.
+======================PREGUNTA 3======================
+Resulta incompatible con el texto aseverar que
+======================ALTERNATIVAS======================
+A) Descartes sos tenía que la extensión equivalía al movimiento.
+B) la ciencia cartesiana se fundamentaba en un método matemático.
+C) Descartes emigró a Holanda en busca de un entorno más propicio.
+D) la aplicación de las reglas matemáticas tiene una índole deductiva.
+E) en el sistema cartesiano la existencia de Dios tiene un estatus crucial.
+======================ALTERNATIVA CORRECTA======================
+A
+======================RAZONAMIENTO======================
+Extensión y movimiento eran nociones diferentes obtenidas por intuición.
+======================PREGUNTA 4======================
+Un fiel seguidor de las ideas de Descartes sostendría que
+======================ALTERNATIVAS======================
+A) el movimiento puede ser considerado esencialmente perpetuo.
+B) las deducciones de la matemática se prueban empíricamente.
+C) las ciencias físicas pueden prescindir de las deducciones.
+D) el concepto de deducción es más importante que el de intuición.
+E) la búsqueda de la verdad es imposible sin orden en el pensar.
+======================ALTERNATIVA CORRECTA======================
+E
+======================RAZONAMIENTO======================
+Tal es la posición que se deriva del método.
+======================PREGUNTA 5======================
+Si Descartes hubiese sido un epígono de Bacon, se habría adherido al
+======================ALTERNATIVAS======================
+A) racionalismo. 
+B) indeterminismo. 
+C) politeísmo.
+D) irracionalismo. 
+E) empirismo.
+======================ALTERNATIVA CORRECTA======================
+E
+======================RAZONAMIENTO======================
+Aunque Descartes simpatizaba con los objetivos de Bacon, estaba en contra de su
+empirismo.

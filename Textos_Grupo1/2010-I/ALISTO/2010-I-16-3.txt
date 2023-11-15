@@ -1,0 +1,76 @@
+Los átomos se combinan, según afirmó Bohr, de manera que tienden a adquirir una capa exterior completa. En algunas ocasiones, como en el caso de la molécula de hidrógeno, esto se logra mediante la compartición de un par de electrones entre dos núcleos. En otros casos, una descripción más adecuada podría ser imaginarse que un átomo con un solo electrón en su capa exterior (como el sodio) lo cede a otro átomo que tiene siete electrones en su capa externa con una vacante (como el cloro). De esta manera, cada átomo alcanza su estado completo: el sodio al perder el electrón y adquirir una capa exterior completa, aunque más interna; el cloro al ganar el electrón que le permite completar su capa externa. Sin embargo, el resultado neto es que el átomo de sodio se convierte en un ion cargado positivamente al perder una unidad de carga negativa, mientras que el átomo de cloro se convierte en un ion negativo. Debido a que las cargas opuestas se atraen, ambos átomos permanecen unidos formando una molécula eléctricamente neutra de cloruro sódico o sal común.
+
+Todas las reacciones químicas se pueden explicar como un comportamiento o intercambio de electrones entre átomos, basado en la tendencia hacia la estabilidad que se logra al completar las capas de electrones.
+
+============PREGUNTA============
+El texto se refiere centralmente
+============ALTERNATIVAS============
+ a la combinación de electrones y núcleos.
+ a la molécula de hidrógeno y su núcleo.
+ al intercambio de electrones entre átomos.
+ a la pérdida de electrones en unos átomos.
+ a la reacción química del núcleo atómico.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+Al inicio del texto se afirma la combinación de átomos para completar sus capas
+exteriores mostrando un ejemplo con el cloruro sódico, y concluye que las
+reacciones químicas son un intercambio de electrones entre átomos.
+
+
+============PREGUNTA============
+En el texto, IMAGEN se entiende como
+============ALTERNATIVAS============
+ problema.
+ invento.
+ reflejo.
+ abstracción.
+ modelo.
+============CORRECTA============
+E
+============RAZONAMIENTO============
+El término ‘imagen’ se entiende como ‘modelo’ ,pues se refiere a la imaginación de
+un caso.
+
+
+============PREGUNTA============
+Es incompatible con lo sostenido por el autor afirmar que
+============ALTERNATIVAS============
+ los átomos se combinan para completar su capa exterior.
+ la sal común es una molécula eléctricamente neutra.
+ el sodio cede un electrón y se convierte en ion negativo.
+ el cloro gana un electrón y se convierte en ion negativo.
+ el cloruro sódico es una molécula eléctricamente neutra.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+El sodio se convierte en ion positivo.
+
+
+============PREGUNTA============
+Del texto se infiere que el cloruro de sodio es una molécula
+============ALTERNATIVAS============
+ eterna.
+ estable.
+ efímera.
+ positiva.
+ negativa.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+El cloruro sódico se estabiliza al ligar un ion negativo con un ion positivo.
+
+
+============PREGUNTA============
+Si las capas de los electrones no se completaran
+============ALTERNATIVAS============
+ se convertirían en iones de carga positiva.
+ habría una propensión a la inestabilidad.
+ se convertirían en iones de carga negativa.
+ seguiría existiendo el intercambio de electrones.
+ las moléculas habrían conservado su neutralidad.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+Sólo al llenar sus capas externas los átomos permanecen ligados formando una
+molécula.

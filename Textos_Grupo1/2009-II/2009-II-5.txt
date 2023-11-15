@@ -1,0 +1,22 @@
+La mayoría de los mamíferos y las aves viven en una temperatura corporal relativamente constante. El mantenimiento de una temperatura corporal constante es un proceso muy costoso.
+
+Los mamíferos y las aves en reposo gastan una cantidad de energía entre cinco y diez veces superior a la de los reptiles de tamaño equivalente, y la mayor parte de ese aumento en el gasto energético se dedica a mantener la homeostasis de la temperatura mediante esfuerzos musculares para calentar y enfriar el cuerpo.
+
+Este compromiso con el mantenimiento de la homeostasis significa que los mamíferos y las aves han de encontrar una cantidad de comida varias veces mayor que la necesitada por los reptiles del mismo tamaño.
+
+Los ritmos de prácticamente todas las reacciones químicas de los sistemas vivos dependen de la temperatura. La mayoría de los procesos vitales incluye una serie de reacciones bioquímicas, cada una de las cuales depende de los pasos precedentes y puede resultar influida por feedback de pasos posteriores. Si las reacciones en diferentes pasos se suceden demasiado deprisa o demasiado despacio, el proceso global corre peligro.
+
+La regulación de esas reacciones sumamente interdependientes puede ser más eficaz si éstas se producen a una temperatura constante y no en una escala muy variable de temperatura.
+============PREGUNTA============
+¿Cuál es la idea principal del texto?
+============ALTERNATIVAS============
+ La homeostasis de la temperatura se logra mediante esfuerzos musculares.
+ El mantenimiento de una temperatura corporal constante es muy costoso.
+ La homeostasis térmica implica un alto costo energético, pero es ventajosa.
+ Los mamíferos y las aves son muy diferentes a los reptiles en temperatura.
+ Las reacciones químicas de los sistemas vivos dependen de la temperatura.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+El texto trata sobre la temperatura corporal de los mamíferos. Se nos dice que es constante en virtud de un costo energético muy alto, pero 
+imprescindible para la eficaz regulación de las reacciones químicas internas.

@@ -1,0 +1,14 @@
+Los desechos electrónicos constituyen un grave problema. Además de que crecen tres veces más que la basura tradicional, pueden convertirse en una amenaza, pues contienen al menos nueve sustancias tóxicas, entre ellas, plomo, cromo, cadmio, cobalto y mercurio, elementos químicos que forman parte del ensamble de computadoras, calculadoras, teléfonos celulares… Cerca del 70% de los metales pesados que contaminan los basureros públicos proviene de aparatos electrónicos que las personas desechan de manera inadecuada. El mercurio y el cobalto, por ejemplo, son tóxicos por inhalación, por contacto y por ingestión, y el cromo es pernicioso por inhalación e ingestión. Estos compuestos químicos forman parte de las computadoras y aparatos electrónicos que usamos a diario, y se transforman en un serio problema ambiental cuando son depositados en un basurero sin haber recuperado antes los componentes dañinos.
+
+============PREGUNTA============
+Podemos inferir que un efecto pernicioso se produciría si
+============ALTERNATIVAS============
+ la basura electrónica fuese controlada eléctricamente.
+ en el espacio abundasen sustancias como el cadmio.
+ se produjese un contacto con un material de cromo.
+ un ser humano consumiera cierta cantidad de mercurio.
+ se fabricará una computadora sin hacer uso del cobalto.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+Puesto que el mercurio se considera una sustancia tóxica.

@@ -1,0 +1,16 @@
+=====================TEXTO======================
+Aristóteles creía que la Tierra era estacionaria y que el Sol, la Luna, los planetas y las estrellas se movían en órbitas circulares alrededor de ella. Creía eso porque estaba convencido de que la Tierra era el centro del universo y de que el movimiento circular era el más perfecto. La idea aristotélica fue desarrollada por Ptolomeo en el siglo II d.C. hasta constituir un modelo completo del universo. La Tierra permanecía en el centro, rodeada por ocho esferas que transportaban a la Luna, el Sol, las estrellas y los cinco planetas conocidos en aquel tiempo: Mercurio, Venus, Marte, Júpiter y Saturno. Los planetas se movían en círculos más pequeños engarzados en sus respectivas esferas para que así se pudieran explicar sus relativamente complicadas trayectorias celestes. La esfera más externa transportaba a las llamadas estrellas fijas, las cuales siempre permanecían en las mismas posiciones relativas, unas con respecto a otras, girando juntas a través del cielo. Lo que había detrás de la última esfera nunca fue descrito con claridad, pero ciertamente no era parte del universo observable por el hombre.
+======================PREGUNTA 1======================
+Se puede establecer que el texto anterior se inserta con más naturalidad en un
+contexto marcado por
+======================ALTERNATIVAS======================
+A) la referencia a la astrología antigua.
+B) el desarrollo de la filosofía medieval.
+C) la historia de la cosmología helénica.
+D) el trayecto de la llamada física terrestre.
+E) la disciplina de la filosofía de la ciencia.
+======================ALTERNATIVA CORRECTA======================
+C
+======================RAZONAMIENTO======================
+La mención de Aristóteles y Ptolomeo nos sitúa en el contexto de la c osmología
+antigua de mundo helénico.

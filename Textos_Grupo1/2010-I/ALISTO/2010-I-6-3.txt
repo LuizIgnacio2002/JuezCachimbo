@@ -1,0 +1,77 @@
+La retina del ojo humano contiene normalmente tres tipos de células en forma de cono sensibles al color. Cada tipo percibe la longitud de onda de un color primario de la luz: azul, verde o rojo. Las diferentes longitudes de onda de la luz activan los conos correspondientes, los cuales envían la señal al cerebro y permiten que percibamos los colores. Sin embargo, en las personas que padecen deficiencias para distinguir los colores, la sensibilidad de los conos a uno o más colores es débil o su longitud de onda está desviada, por lo que su percepción del color se ve alterada. La mayoría de los afectados tienen dificultades para distinguir entre el amarillo, el verde, el naranja, el rojo y el marrón. Este defecto puede hacer que resulte difícil ver el moho verdoso sobre el pan moreno o sobre el queso amarillo, o distinguir a una persona rubia de ojos azules de una pelirroja de ojos verdes. Si los conos sensibles al rojo son muy débiles, la persona verá una rosa roja como si fuera negra. Muy poca gente tiene problemas para distinguir el azul.
+
+Los defectos en la percepción del color por lo general son hereditarios y están presentes desde el nacimiento, y los niños con este problema suelen compensarlo sin darse cuenta. Por ejemplo, aunque no distingan la diferencia entre ciertos colores, tal vez perciban diferencias de contraste y de brillo y relacionen estas variaciones con los nombres de los colores. También es posible que aprendan a identificar los objetos por su forma y textura, y no por el color. Lo cierto es que muchos pasan la infancia sin ser conscientes de su incapacidad. Como las escuelas suelen emplear materiales educativos codificados con colores, especialmente para la etapa preescolar, es posible que los padres y los maestros lleguen a la conclusión errónea de que un niño tiene un problema de aprendizaje cuando en realidad lo que le pasa es que no distingue bien los colores. Una maestra llegó a castigar a un pequeño de cinco años por pintar un dibujo con nubes de color rosa, personas verdes y árboles con hojas marrones. A un niño con esta deficiencia, esos colores pueden parecerle perfectamente normales. Con razón, algunos expertos recomiendan que a los niños en edad preescolar se les hagan con regularidad exámenes de la visión en color.
+
+============PREGUNTA============
+El texto gira entorno a
+============ALTERNATIVAS============
+ la deficiencia de percepción de color en los seres humanos.
+ los diversos problemas de aprendizaje en los niños pequeños.
+ las confusiones cromáticas a la hora de calificar a los alumnos.
+ la naturaleza física de las diversas longitudes de onda de la luz.
+ las características más relevantes del gran espectro cromático.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+El texto presenta la deficiencia de percepción de color, sus aspectos físicos,
+biológicos y sus consecuencias en la escuela.
+
+
+============PREGUNTA============
+En el texto, el término DISTINGUIR tiene el sentido de
+============ALTERNATIVAS============
+ separar.
+ aprehender.
+ discriminar.
+ codificar.
+ sintetizar.
+============RAZONAMIENTO============
+“En las personas que padecen de ficiencias para distinguir los colores”, es decir, para
+diferenciar o discriminar los colores.
+============CORRECTA============
+C
+
+
+============PREGUNTA============
+Marque la alternativa que es incompatible con el texto.
+============ALTERNATIVAS============
+ Los defectos de percepción de los colores son de naturaleza genética.
+ Un niño con deficiencia de percepción del color no puede sobrellevarla.
+ La deficiencia de la percepción del color se relaciona con el aprendizaje.
+ Solamente son considerados tres los colores fundamentales de la luz.
+ La deficiencia de percepción del co lor el azul es menos recurrente.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+Un niño con deficiencia en la percepción de color apela a otras formas de
+diferenciación para identificar los objetos.
+
+
+============PREGUNTA============
+Con respecto a los defectos en la percepción del color, se infiere del texto que
+============ALTERNATIVAS============
+ es una discapacidad muy grave equivalente a la ceguera total.
+ produce graves perturbaciones en nuestro posterior desarrollo.
+ incapacita a un niño para realizar aprendizajes significativos.
+ para un niño puede ser algo normal no distinguir bien los colores.
+ no hay forma de poder sobrellevar esta discapacidad genética.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+En el texto se dice que lo cierto es que muchos pasan la infancia sin ser conscientes
+de su incapacidad.
+
+
+============PREGUNTA============
+Si la luz solo tuviese una única longitud de onda, entonces
+============ALTERNATIVAS============
+ podríamos distinguir meridianamente varios colores.
+ percibiríamos las tonalidades de un solo tipo de color.
+ no podríamos ver y estaríamos prácticamente ciegos.
+ veríamos todas las cosas en tonos de blanco y negro.
+ de todas formas podríamos distinguir sólo el color azul.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+Las diferentes longitudes de onda de la luz activan los conos correspondientes y permiten que percibamos los colores, si se tratase de una solo longitud de onda se
+activaría un solo tipo de cono y percibiríamos un solo color.

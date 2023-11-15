@@ -1,0 +1,113 @@
+Cuando quedó claro el éxito de la expedición de Eddington de 1919 para medir la predicción de Einstein relativa a la desviación que sufre la luz de las estrellas por la acción del Sol, el físico holandés Hendrik Lorentz envió a Einstein un telegrama para darle la buena noticia.
+
+Cuando se difundió el mensaje sobre la confirmación de la relatividad general comunicada en dicho telegrama, un estudiante preguntó a Einstein qué habría pensado si el experimento de Eddington no hubiera hallado la desviación predicha de la luz de las estrellas. Einstein respondió: “Entonces lo habría lamentado por el querido Lord, ya que la teoría es correcta”.
+
+Por supuesto, si los experimentos realmente no hubieran confirmado las predicciones de Einstein, la teoría de éste no sería correcta y la relatividad general no se hubiera convertido en un pilar de la física moderna. Sin embargo, lo que Einstein quería decir era que la relatividad general describe la gravedad con una elegancia interna tan profunda, con unas ideas tan sencillas y poderosas, que resultaba difícil imaginar que la naturaleza pudiera soslayarla. La relatividad general, según el punto de vista de Einstein, era demasiado hermosa para ser errónea.
+
+No obstante, los juicios estéticos no sirven como árbitros en la esfera científica. En última instancia, las teorías se juzgan por cómo les va cuando son confrontadas por los hechos experimentales duros y fríos. Desde luego, esta última afirmación supone una calificación inmensamente importante. Mientras una teoría se construye, su incompleto estado de desarrollo impide con frecuencia la valoración.
+
+Con todo, los físicos han de optar y han de formular juicios sobre la línea de la investigación a la que conviene llevar su teoría incompleta. Algunas de estas decisiones vienen dictadas por la coherencia lógica interna; por cierto, exigimos que cualquier teoría sensata evite los absurdos lógicos. Otras decisiones están guiadas por una percepción de las implicaciones experimentales de la teoría.
+
+Y, ciertamente, se da el caso de que algunas decisiones tomadas por los físicos teóricos se basan en un sentido estético, un sentido de cuáles son las teorías que tienen una elegancia y una belleza en sus estructuras y están en correspondencia con el orden en el mundo que percibimos.
+
+Por supuesto, nada garantiza que esta estrategia conduzca a la verdad. Sin embargo, especialmente cuando entramos en una era en la que nuestras teorías describen dominios del universo que son cada vez más difíciles de comprobar experimentalmente, los físicos confían en su criterio estético para ayudarse a evitar callejones sin salida en los que en otro caso podrían caer: la ciencia está a la búsqueda de simetrías. Hasta ahora, este planteamiento ha proporcionado una guía poderosa y llena de perspectivas promisorias.
+============PREGUNTA============
+Medularmente, el texto dilucida
+============ALTERNATIVAS============
+ la naturaleza científica de la expedición británica de Eddington de 1919.
+ los postulados fundamentales de la relatividad general de Albert Einstein.
+ los criterios fundamentales para lleva r a cabo la evaluación de las teorías.
+ la afinidad profunda que hay entre el dominio de la ciencia y el del arte.
+ la relevancia del criterio estético en el desarrollo de las teorías científicas.
+============CORRECTA============
+E
+============RAZONAMIENTO============
+La anécdota de Einstein sirve como entrada al tema central del texto: la estética en la consideración de las teorías científicas.
+
+
+============PREGUNTA============
+En el texto, el término PODEROSA significa
+============ALTERNATIVAS============
+ pugnaz.  
+ fértil.  
+ imperante.
+ vehemente.  
+ ecuménica.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+Cuando se habla de una guía poderosa, se usa el sentido de fértil, que ayuda a
+desarrollar la imaginación científica.
+
+
+============PREGUNTA============
+Según el criterio de Einstein, en la ciencia debe primar
+============ALTERNATIVAS============
+ la integridad.  
+ la legalidad.  
+ el experimento.
+ la belleza.  
+ la medición.
+============CORRECTA============
+D
+============RAZONAMIENTO============
+La respuesta de Einstein al estudiante pone de relieve lo siguiente: una teoría bella no puede ser falsa.
+
+
+============PREGUNTA============
+En virtud de la información brindada en el texto, la expedición de Eddington es un caso de
+============ALTERNATIVAS============
+ descubrimiento.  
+ vero similitud.  
+ corroboración.
+ imaginación.  
+ refutación.
+============CORRECTA============
+C
+============RAZONAMIENTO============
+La expedición de Eddington confirma la predicción de Einstein y, en tal sentido, es
+una corroboración de la relatividad general.
+
+
+============PREGUNTA============
+Cabe inferir del texto que el significado de SIMETRÍA tiene un engarce íntimo con
+============ALTERNATIVAS============
+ invariancia.  
+ temporalidad.  
+ heterogeneidad.
+ velocidad.  
+ instantaneidad.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+La simetría se asocia con el orden, con la regularidad, esto es, con la invariancia.
+
+
+============PREGUNTA============
+Resulta incompatible con el pensamiento del autor sostener que
+============ALTERNATIVAS============
+ la expedición de Eddington confirmó la relatividad general einsteiniana.  
+ una teoría muy elegante es necesariamente una teoría verdadera.
+ los científicos están guiados por la búsqueda de simetrías cósmicas.  
+ los criterios estéticos son importantes en las teorías científicas.
+ la coherencia lógica interna debe ser respetada en la esfera de la ciencia.
+============CORRECTA============
+B
+============RAZONAMIENTO============
+Aunque el autor pondera el fa ctor de la elegancia en la ciencia, sostiene
+enfáticamente que el juicio de la experiencia es crucial.
+
+
+============PREGUNTA============
+Se deduce del texto que Albert Einstein
+============ALTERNATIVAS============
+ pensaba que la relatividad general era una teoría simétrica.
+ ansiaba conocer los resultados de la expedición de Eddington.
+ formuló la relatividad general después del año de 1919.  
+ se asombró mucho por los resultados de la expedición de 1919.
+ estaba en contra del criterio de la coherencia en la ciencia.
+============CORRECTA============
+A
+============RAZONAMIENTO============
+Cuando Einstein se refería a la belleza de la relatividad general, presuponía las
+simetrías profundas que había develado.

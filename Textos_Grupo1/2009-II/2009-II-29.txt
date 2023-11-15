@@ -1,0 +1,16 @@
+Los cambios científicos no tienen por qué estar motivados por experimentos o solamente estar referidos a lo que Quine llamó en la última etapa de su filosofía «gama de estímulos». Cuando Galileo descubrió los satélites de Júpiter, las fases de Venus y las montañas de la Luna, tales hallazgos tenían un referente empírico directo. Lo mismo sucede con el pasmoso descubrimiento de los microorganismos hecho por Leeuwenhoeck con su microscopio.
+
+Sin embargo, la geometría curva de Riemann, la relatividad y los quanta entrañan modificaciones radicales de naturaleza abstracta, no ligadas en forma directa con experimentos u observaciones. La búsqueda de lo nuevo no se asocia necesariamente con la evidencia empírica directa, y los ejemplos de la relatividad como de la mecánica cuántica implican descubrimientos de índole teórica que modificaron drásticamente nuestra imagen del mundo. Lo que sí es esencial para entender la dinámica de la ciencia es que ésta consiste en sobrepasar sus propios límites de modo frecuentemente insospechado: la falibilidad y perfectibilidad de la ciencia deben asumirse con la mayor radicalidad. La ciencia, en tanto que empresa del descubrimiento (al decir de Edward Wilson), se puede definir como una búsqueda incesante de lo nuevo.
+============PREGUNTA============
+Dado que el empirismo sostiene que el conocimiento necesariamente tiene un origen
+en los sentidos, entonces se concluye que
+============ALTERNATIVAS============
+ Quine no podría ser considerado empirista.
+ la relatividad es un ejemplo de empirismo.
+ el autor del texto se puede considerar empirista.
+ el empirismo admite la falibilidad de la ciencia.
+ la geometría riemanniana recusa el empirismo.
+============CORRECTA============
+E
+============RAZONAMIENTO============
+La filosofía riemaniana es opuesta al empirismo.
