@@ -6,114 +6,120 @@ En cuanto al Libro de arena se llama así porque no tiene principio ni fin, lo m
 
 El jardín de senderos que se bifurcan, por su parte, es la imagen más acabada y sugerente del hipertexto. El propio Borges explica en su relato que ese jardín laberíntico en el que los senderos se bifurcan, sin cesar, es la metáfora de una novela caótica en la que los personajes optan, simultáneamente, por las diversas alternativas que se les presentan de tal forma que todos los desenlaces son posibles, y cada uno es el punto de partida de nuevas bifurcaciones.
 
-Ahora bien, todo esto que Borges soñó y ahora se ha visto realizado en la red, puede convertirse en una auténtica pesadilla; de hecho, sus cuentos nos previenen también de los peligros que entraña asomarse al interior de estos fenómenos y del enorme precio que hay que pagar por ello, que no es otro que el de la enajenación y la locura. «Tarumba habrás quedado de tanto curiosear donde no te llaman» le dice Carlos Argentino a Borges después que este haya contemplado El Aleph.
+Ahora bien, todo esto que Borges soñó y ahora se ha visto realizado en la red, puede convertirse en una auténtica pesadilla; de hecho, sus cuentos nos previenen también de los peligros que entraña asomarse al interior de estos fenómenos y del enorme precio que hay que pagar por ello, que no es otro que el de la enajenación y la locura. «Tarumba habrás quedado de tanto curiosear donde no te llaman» le dice Carlos Argentino a Borges después que este haya contemplado El Aleph.     
 
-=====================PREGUNTA 1=====================
+============PREGUNTA============
 En síntesis, el texto versa sobre
-=====================ALTERNATIVAS=====================
-A) el origen, el desarrollo y las consecuencias de la Internet.
-B) el vislumbre de la Internet en las narraciones de Borges.*
-C) un cuento de Borges en el que se avizora el hipertexto.
-D) el desenlace trágico de la Internet en las obras de Borges.
-E) la locura y la enajenación como altos costos de la Internet. Ciclo 2010 -I
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ el origen, el desarrollo y las consecuencias de la Internet.
+ el vislumbre de la Internet en las narraciones de Borges.*
+ un cuento de Borges en el que se avizora el hipertexto.
+ el desenlace trágico de la Internet en las obras de Borges.
+ la locura y la enajenación como altos costos de la Internet. Ciclo 2010 -I
+============CORRECTA============
 B
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 A lo largo de texto, el autor nos presenta las diversas obras de Borges, donde se
 anticipa a través de metáforas la esencia y la existencia de la Internet.
 
-=====================PREGUNTA 2=====================
+
+
+============PREGUNTA============
 En el texto, el término IMAGEN se entiende como
-=====================ALTERNATIVAS=====================
-A) epíteto. 
-B) hipérbole. 
-C) sinónimo. 
-D) metáfora. 
-E) ironía.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ epíteto.
+ hipérbole.
+ sinónimo.
+ metáfora.
+ ironía.
+============CORRECTA============
 D
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 Una imagen es una metáfora al subtender un símil encubierto.
 
-=====================PREGUNTA 3=====================
+============PREGUNTA============
 ¿Cuál de las siguientes aserciones es incompatible con el texto?
-=====================ALTERNATIVAS=====================
-A) El mundo de la Internet se puede convertir en una pesadilla.
-B) Borges, a través de metáforas, nos describe el ciberespacio.
-C) En El Aleph , Borges nos anticipa la existencia de la Internet.
-D) En la biblioteca de Babel hay una gran cantidad finita de libros.
-E) La Internet puede albergar un número infinito de páginas.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ El mundo de la Internet se puede convertir en una pesadilla.
+ Borges, a través de metáforas, nos describe el ciberespacio.
+ En El Aleph , Borges nos anticipa la existencia de la Internet.
+ En la biblioteca de Babel hay una gran cantidad finita de libros.
+ La Internet puede albergar un número infinito de páginas.
+============CORRECTA============
 D
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 Enunciado incompatible, por cuanto los libros son infinitos.
 
-=====================PREGUNTA 4=====================
+
+
+============PREGUNTA============
 Se infiere del texto que la World Wide Web es como
-=====================ALTERNATIVAS=====================
-A) una metáfora del mundo cotidiano. 
-B) una telaraña de cobertura ilimitada.
-C) un laberinto de símbolos complejos. 
-D) un sueño de un mundo acotado.
-E) una mirada que reduce el campo.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ una metáfora del mundo cotidiano.
+ una telaraña de cobertura ilimitada.
+ un laberinto de símbolos complejos.
+ un sueño de un mundo acotado.
+ una mirada que reduce el campo.
+============CORRECTA============
 B
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 La World Wide Web se entiende como un espacio expansivo e ilimitado. En
 consecuencia, se puede entender como una telaraña de cobertura ilimitada.
 
  
-=====================PREGUNTA 5=====================
+
+============PREGUNTA============
 En El jardín de senderos que se bifurcan, la metáfora para sugerir el hipertexto es
-=====================ALTERNATIVAS=====================
-A) el laberinto.
-B) el sueño. 
-C) la pesadilla.
-D) la alternativa. 
-E) el sendero.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ el laberinto.
+ el sueño.
+ la pesadilla.
+ la alternativa.
+ el sendero.
+============CORRECTA============
 A
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 El jardín laberíntico es la metáfora de una novela caótica, esto es, del hipertexto.
 
-=====================PREGUNTA 6=====================
+============PREGUNTA============
 La expresión LA EXTREMA LUCIDEZ DE SU CEGUERA constituye
-=====================ALTERNATIVAS=====================
-A) una metonimia. 
-B) una hipérbole. 
-C) un paralelismo.
-D) una paradoja.
-E) un enigma.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ una metonimia.
+ una hipérbole.
+ un paralelismo.
+ una paradoja.
+ un enigma.
+============CORRECTA============
 D
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 Dado que mediante la expresión se unen dos ideas aparentemente irreconciliables,
 constituye una paradoja.
 
  
-=====================PREGUNTA 7=====================
+============PREGUNTA============
 Si un cibernauta empedernido perdiera la razón por su afición a la Internet,
-=====================ALTERNATIVAS=====================
-A) escribiría una novela aparentemente caótica y de suspenso.
-B) esa posibilidad habría sido anunciada en los cuentos de Borges.
-C) se compraría una biblioteca con millares de valiosos ejemplares.
-D) El Aleph se convertiría en un relato de poco valor filosófico.
-E) sería insustancial la idea de El jardín de senderos que se bifurcan.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ escribiría una novela aparentemente caótica y de suspenso.
+ esa posibilidad habría sido anunciada en los cuentos de Borges.
+ se compraría una biblioteca con millares de valiosos ejemplares.
+ El Aleph se convertiría en un relato de poco valor filosófico.
+ sería insustancial la idea de El jardín de senderos que se bifurcan.
+============CORRECTA============
 B
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 Borges nos previno de los peligros que entraña la Internet.
 
-=====================PREGUNTA 8=====================
-«En todas las ficciones, cada vez que un hombre se enfrenta con diversas
-alternativas, opta por una y elimina las otras; en la del casi inextricable Tsui Pên,
-opta por todas a la vez». Cabe colegir que el pasaje anterior se halla en
-=====================ALTERNATIVAS=====================
-A) El Aleph . B) La Biblioteca de Babel .
-C) El jardín de senderos que se bifurcan .
-D) El Libro de arena .
-E) todos los cuentos de Borges.
-==================ALTERNATIVA CORRECTA=================
+
+============PREGUNTA============
+"En todas las ficciones, cada vez que un hombre se enfrenta con diversas alternativas, opta 
+por una y elimina las otras; en la del casi inextricable Tsui Pên, el pasaje anterior se halla"
+============ALTERNATIVAS============
+ El Aleph .  
+ La Biblioteca de Babel .
+ El jardín de senderos que se bifurcan .
+ El Libro de arena .
+ todos los cuentos de Borges.
+============CORRECTA============
 C
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 En ese pasaje es muy clara la idea de bifurcación simultánea.

@@ -1,256 +1,210 @@
-=====================TEXTO======================
-Aquellos cuya vida transcurre bajo el abatimiento y la soledad, la desilusión y el
-estrés, tienen muchas más posibilidades de enfermar y morir que quienes gozan de cariño
-y comprensión. Esta tesis, que hace unos años hizo levantar la ceja a los escépticos,
-cada día cobra más fuerza en los círculos médicos. Al parecer, llegará el momento en
-que, más que fórmulas químicas, los galenos receten afecto y compañía.
-En los últimos años, diversos estudios han mostrado que los solitarios presentan una
-marcada vulnerabilidad a la enfermedad y que sus índices de mortalidad son
-sustancialmente más altos. Incluso algunas encuestas entre separados señalan una
-notoria aparición de trastornos mentales y físicos al poco tiempo de perder la estabilidad
-conyugal. Para los científicos, la explicación es simple: la probabilidad de enfermar es
-directamente proporcional a la virulencia del agente infeccioso e inversamente
-proporcional a la resistencia que el organismo ofrezca. Y según una nueva disciplina, la
-psiconeuroinmunología, los desequilibrios emocionales reducen considerablemente la
-eficacia de los linfocitos, las células soldado del sistema inmunológico que se ocupan de defender al organismo de los agentes extraños. Supuestamente, los linfocitos se nutren
-de una serie de hormonas que se activan cuando se siente algún tipo de placer. Si se
-tiene en cuenta que ellos son precisamente los encargados de dirigir la estrategia en el
-combate contra cualquier virus o bacteria, se concluirá la necesidad de mantenerlos
-“contentos” y en buen estado para reforzar las defensas.
-Según esta teoría, los vínculos sociales y familiares reconfortantes podrían constituir
-una cortina protectora contra las enfermedades. “Las relaciones humanas –dice el
-investigador E. W. Bovard – se procesan en un punto cerca del hipotálamo, en las
-profundidades de la corteza cerebral. Una sensación agradable, una caricia, una frase
-cariñosa hacen que el hipotálamo segregue hormonas que inhiben la fabricación de otras,
-como la ACTH, que se encuentra en altos niveles en personas con riesgo de infarto y
-derrame cerebral”.
-Esto ha sido comprobado incluso en el laboratorio. En los años 70, un equipo de
-expertos estadounidenses descubrió por casualidad que, sometidos a dosis elevadas de
-mimos, ciertos conejos desarrollaban mecanismos de protección contra las enfermedades
-cardiacas. Los animales se utilizaban para estudiar el efecto del colesterol en el
-organismo, pero uno de los investigadores comenzó a prodigarle un especial cariño a uno
-de los conejillos. Al momento de sacrificarlo, el animal tenía igual cantidad de colesterol
-en la sangre que sus compañeros, pero un 60% menos de lesiones aórticas. Algo similar
-halló otro equipo que investigaba la relación entre el crecimiento de tumores y el estrés.
-Los ratones fueron infectados con un virus que desarrolla el cáncer de mama en poco
-más de ocho meses, pero en aquellos que vivieron en cajones más confortables, sin ruido
-ni molestias de ningún tipo, el cáncer tardó más de 200 días en incubarse.
-Hoy se sabe que el estrés debilita sensiblemente el sistema inmunológico y produce
-una serie de reacciones químicas que pueden conducir a complicaciones cardíacas.
-Cuando se está sometido a altas tensiones, las glándulas suprarrenales segregan mayor
-cantidad de adrenalina, sustancia que, en exceso, produce la rotura de ciertas fibras
-cardiacas y ocasiona estados de arritmia en el corazón. Aunque hace algunos años, los
-médicos se resistían a considerar como válida la relación existente entre la psiquis del
-individuo y su sistema inmunológico, hoy nadie duda de dicha interconexión.
-======================PREGUNTA 1======================
+Aquellos cuya vida transcurre bajo el abatimiento y la soledad, la desilusión y el estrés, tienen muchas más posibilidades de enfermar y morir que quienes gozan de cariño y comprensión. Esta tesis, que hace unos años hizo levantar la ceja a los escépticos, cada día cobra más fuerza en los círculos médicos. Al parecer, llegará el momento en que, más que fórmulas químicas, los galenos receten afecto y compañía.
+
+En los últimos años, diversos estudios han mostrado que los solitarios presentan una marcada vulnerabilidad a la enfermedad y que sus índices de mortalidad son sustancialmente más altos. Incluso algunas encuestas entre separados señalan una notoria aparición de trastornos mentales y físicos al poco tiempo de perder la estabilidad conyugal. Para los científicos, la explicación es simple: la probabilidad de enfermar es directamente proporcional a la virulencia del agente infeccioso e inversamente proporcional a la resistencia que el organismo ofrezca.
+
+Y según una nueva disciplina, la psiconeuroinmunología, los desequilibrios emocionales reducen considerablemente la eficacia de los linfocitos, las células soldado del sistema inmunológico que se ocupan de defender al organismo de los agentes extraños. Supuestamente, los linfocitos se nutren de una serie de hormonas que se activan cuando se siente algún tipo de placer. Si se tiene en cuenta que ellos son precisamente los encargados de dirigir la estrategia en el combate contra cualquier virus o bacteria, se concluirá la necesidad de mantenerlos “contentos” y en buen estado para reforzar las defensas.
+
+Según esta teoría, los vínculos sociales y familiares reconfortantes podrían constituir una cortina protectora contra las enfermedades. “Las relaciones humanas –dice el investigador E. W. Bovard – se procesan en un punto cerca del hipotálamo, en las profundidades de la corteza cerebral. Una sensación agradable, una caricia, una frase cariñosa hacen que el hipotálamo segregue hormonas que inhiben la fabricación de otras, como la ACTH, que se encuentra en altos niveles en personas con riesgo de infarto y derrame cerebral”.
+
+Esto ha sido comprobado incluso en el laboratorio. En los años 70, un equipo de expertos estadounidenses descubrió por casualidad que, sometidos a dosis elevadas de mimos, ciertos conejos desarrollaban mecanismos de protección contra las enfermedades cardíacas. Los animales se utilizaban para estudiar el efecto del colesterol en el organismo, pero uno de los investigadores comenzó a prodigarle un especial cariño a uno de los conejillos. Al momento de sacrificarlo, el animal tenía igual cantidad de colesterol en la sangre que sus compañeros, pero un 60% menos de lesiones aórticas. Algo similar halló otro equipo que investigaba la relación entre el crecimiento de tumores y el estrés. Los ratones fueron infectados con un virus que desarrolla el cáncer de mama en poco más de ocho meses, pero en aquellos que vivieron en cajones más confortables, sin ruido ni molestias de ningún tipo, el cáncer tardó más de 200 días en incubarse.
+
+Hoy se sabe que el estrés debilita sensiblemente el sistema inmunológico y produce una serie de reacciones químicas que pueden conducir a complicaciones cardíacas. Cuando se está sometido a altas tensiones, las glándulas suprarrenales segregan mayor cantidad de adrenalina, sustancia que, en exceso, produce la rotura de ciertas fibras cardiacas y ocasiona estados de arritmia en el corazón. Aunque hace algunos años, los médicos se resistían a considerar como válida la relación existente entre la psiquis del individuo y su sistema inmunológico, hoy nadie duda de dicha interconexión.
+============PREGUNTA============
 La frase “perder la estabilidad conyugal” es una expresión eufemística de
-======================ALTERNATIVAS======================
-A) muerte. 
-B) infidelidad. 
-C) divorcio.
-D) penuria. 
-E) estrés.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ muerte.
+ infidelidad.
+ divorcio.
+ penuria.
+ estrés.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Se habla de separados y el contexto es claro para inferir la alusión al divorcio.
-======================PREGUNTA 2======================
+
+
+============PREGUNTA============
 En el texto, levantar la ceja es una expresión de
-======================ALTERNATIVAS======================
-A) cólera. 
-B) emoción. 
-C) admiración.
-D) duda. 
-E) angustia.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ cólera.
+ emoción.
+ admiración.
+ duda.
+ angustia.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Los escépticos se caracterizan por desconfiar, por dudar.
-======================PREGUNTA 3======================
+
+
+============PREGUNTA============
 El sentido contextual de VÁLIDA es
-======================ALTERNATIVAS======================
-A) valiosa. 
-B) loable. 
-C) visible. 
-D) cierta. 
-E) legal.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ valiosa.
+ loable.
+ visible.
+ cierta.
+ legal.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Considerar válida una relación sería sostener que es cierta o real.
-======================PREGUNTA 4======================
+
+
+============PREGUNTA============
 ¿Cuál es el tema central del texto?
-======================ALTERNATIVAS======================
-A) La función del hipotálamo en la fabricación de hormonas inhibidoras de
-sustancias potencialmente perniciosas.
-B) La relación entre el estado emocional, el sistema inmunológico y la ocurrencia o
-no de enfermedades en el organismo.
-C) El vínculo entre enfermedad y carácter virulento del agente infeccioso como una
-relación de proporcionalidad directa.
-D) El abatimiento emocional de la persona como factor determinante en la aparición
-de enfermedades nerviosas.
-E) La demostración experimental en conejos y ratones de una inextricable relación
-entre estrés y existencia de cariños y mimos.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ La función del hipotálamo en la fabricación de hormonas inhibidoras de sustancias potencialmente perniciosas.
+ La relación entre el estado emocional, el sistema inmunológico y la ocurrencia o no de enfermedades en el organismo.
+ El vínculo entre enfermedad y carácter virulento del agente infeccioso como una relación de proporcionalidad directa.
+ El abatimiento emocional de la persona como factor determinante en la aparición de enfermedades nerviosas.
+ La demostración experimental en conejos y ratones de una inextricable relación entre estrés y existencia de cariños y mimos.
+============CORRECTA============
 B
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Por más que había escepticismo sobre la interconexión, ahora ya nadie duda de la
 relación entre las emociones del individuo, su sistema inmunológico y la propensión
 o no a desarrollar enfermedades.
-======================PREGUNTA 5======================
+
+============PREGUNTA============
 ¿Cuál es la idea principal del texto?
-======================ALTERNATIVAS======================
-A) Si la ciencia continúa confirmando la estrecha relación entre el psiquismo del
-individuo y su sistema inmunológico, en el futuro, los galenos recetarán mucho
-afecto.
-B) De acuerdo con los estudios médicos de las últimas décadas, las personas
-solitarias muestran una marcada vulnerabilidad a la enfermedad y su mortalidad
-es muy alta.
-C) La falta de afecto puede debilitar notoriamente el sistema inmunológico, lo que, a
-su vez, pude ser determinante en la aparición de enfermedades en el organismo
-humano.
-D) La probabilidad de contraer una enfermedad es directamente proporcional a la
-virulencia del agente viral e inversamente proporcional a la capacidad de
-resistencia.
-E) Las personas solitarias y abatidas tienen muchas probabilidades de sufrir
-enfermedades funcionales, así como de ser atacadas por virus y bacterias
-dañinas.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ Si la ciencia continúa confirmando la estrecha relación entre el psiquismo del individuo y su sistema inmunológico, en el futuro, los galenos recetarán mucho afecto.
+ De acuerdo con los estudios médicos de las últimas décadas, las personas solitarias muestran una marcada vulnerabilidad a la enfermedad y su mortalidad es muy alta.
+ La falta de afecto puede debilitar notoriamente el sistema inmunológico, lo que, a su vez, pude ser determinante en la aparición de enfermedades en el organismo humano.
+ La probabilidad de contraer una enfermedad es directamente proporcional a la virulencia del agente viral e inversamente proporcional a la capacidad de resistencia.
+ Las personas solitarias y abatidas tienen muchas probabilidades de sufrir enfermedades funcionales, así como de ser atacadas por virus y bacterias dañinas.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La idea centrales la tesis que hoy es casi incontrovertible: hay una relación entre la
 psiquis del individuo y su sistema inmunológico.
-======================PREGUNTA 6======================
+
+============PREGUNTA============
 De acuerdo con el texto, la probabilidad de enfermedad es mayor cuando
-======================ALTERNATIVAS======================
-A) los desequilibrios emocionales se ven aminorados.
-B) el agente infeccioso ve reducido su poder deletéreo.
-C) el individuo recibe demasiada atención de su familia.
-D) el organismo reduce drásticamente el nivel de ACTH.
-E) el sistema inmunológico del individuo está debilitado.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ los desequilibrios emocionales se ven aminorados.
+ el agente infeccioso ve reducido su poder deletéreo.
+ el individuo recibe demasiada atención de su familia.
+ el organismo reduce drásticamente el nivel de ACTH.
+ el sistema inmunológico del individuo está debilitado.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Una persona deprimida debilita el sistema inmunológico, lo que es una condición
 propicia para el desarrollo de las enfermedades.
-======================PREGUNTA 7======================
-Resulta incompatible con el texto decir que un ademán tierno prodigado a un
-enfermo es algo
-======================ALTERNATIVAS======================
-A) fundamental. 
-B) propicio. 
-C) necesario.
-D) superfluo. 
-E) proficuo.
-======================ALTERNATIVA CORRECTA======================
+
+============PREGUNTA============
+Resulta incompatible con el texto decir que un ademán tierno prodigado a un enfermo es algo
+============ALTERNATIVAS============
+ fundamental.
+ propicio.
+ necesario.
+ superfluo.
+ proficuo.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La ternura a un enfermo es algo esencial, según la tesis explicada en el texto.
-======================PREGUNTA 8======================
+
+============PREGUNTA============
 Se colige del texto que un individuo cae en peligro de sufrir enfermedad si es un tipo
-======================ALTERNATIVAS======================
-A) atribulado. 
-B) egocéntrico. 
-C) vehemente.
-D) melómano. 
-E) meditabundo.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ atribulado.
+ egocéntrico.
+ vehemente.
+ melómano.
+ meditabundo.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La tristeza, la pesadumbre, la tribulación es una condición para la enfermedad.
-======================PREGUNTA 9======================
+
+============PREGUNTA============
 Se deduce del texto que una persona con desajustes emocionales radicales
-======================ALTERNATIVAS======================
-A) podrá sufrir un derrame cerebral, pero sin riesgo de sufrir infarto.
-B) podrá tener una existencia longeva con ayuda de medicamentos.
-C) evidenciará una merma considerable en el nivel de los linfocitos.
-D) mostrará un bajísimo nivel en la fabricación natural de adrenalina.
-E) hará que su hipotálamo segregue hormonas inhibidoras de la ACTH.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ podrá sufrir un derrame cerebral, pero sin riesgo de sufrir infarto.
+ podrá tener una existencia longeva con ayuda de medicamentos.
+ evidenciará una merma considerable en el nivel de los linfocitos.
+ mostrará un bajísimo nivel en la fabricación natural de adrenalina.
+ hará que su hipotálamo segregue hormonas inhibidoras de la ACTH.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Una persona con desajustes emocionales, en virtud de que tiene bajas defensas,
 mostrará un bajo nivel de linfocitos.
-======================PREGUNTA 10======================
-Determine el valor de verdad (Vo F) de los siguientes enunciados, en virtud del
-contenido del texto.
-I. Los índices de mortalidad de las personas solitarias son muy elevados.
-II. El experimento con conejos buscaba probar el nexo entre estrés y salud.
-III. Las personas con riesgo de infarto presentan un alto nivel de ACTH.
-IV. Las personas estresadas tienen un nivel ínfimo de adrenalina en el cuerpo.
-V. Es sumamente improbable que una persona con estrés padezca infarto.
-======================ALTERNATIVAS======================
-A) FFVVF 
-B) FFFVV 
-C) VVFFV 
-D) VFVFF 
-E) VFVFV
-======================ALTERNATIVA CORRECTA======================
-D
-======================RAZONAMIENTO======================
-Los valores de verdad, en función del contenido textual, son VFVFF.
-======================PREGUNTA 11======================
+
+
+============PREGUNTA============
 Un médico propuso que el sistema atencional de los médicos debería basarse en el
 humor, en una especie de risoterapia (curación mediante la risa). Esta propuesta
-======================ALTERNATIVAS======================
-A) soslaya la acción del hipotálamo en el organismo humano.
-B) es concordante con lo expuesto a lo largo de la lectura.
-C) es una extrapolación injustificada, carente de sustento.
-D) contradice patentemente lo afirmado por E. W. Bouvard.
-E) se cimienta en el papel del azar en la curación médica.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ soslaya la acción del hipotálamo en el organismo humano.
+ es concordante con lo expuesto a lo largo de la lectura.
+ es una extrapolación injustificada, carente de sustento.
+ contradice patentemente lo afirmado por E. W. Bouvard.
+ se cimienta en el papel del azar en la curación médica.
+============CORRECTA============
 B
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La risa puede generar un ámbito confortable, lo que es compatible con la tesis
 central defendida en el texto.
-======================PREGUNTA 12======================
+
+
+============PREGUNTA============
 Sobre la base del contenido expuesto en el texto, podemos comprender por qué
-======================ALTERNATIVAS======================
-A) el cáncer de cuello uterino se incrementó tanto en la última década.
-B) todos los familiares abandonan a los pacientes ya muy enfermos.
-C) alguien que experimenta una ilusión puede adquirir una enfermedad.
-D) los médicos se resisten a considerar el vínculo entre salud y emoción.
-E) una sensación confort able puede aumentar la eficacia de los linfocitos.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ el cáncer de cuello uterino se incrementó tanto en la última década.
+ todos los familiares abandonan a los pacientes ya muy enfermos.
+ alguien que experimenta una ilusión puede adquirir una enfermedad.
+ los médicos se resisten a considerar el vínculo entre salud y emoción.
+ una sensación confort able puede aumentar la eficacia de los linfocitos.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 El placer activa una serie de hormonas que nutren a los linfocitos, las células
 soldado.
-======================PREGUNTA 13======================
+
+
+============PREGUNTA============
 Se deduce del texto que un enfermo será presa fácil de una infección viral si
-======================ALTERNATIVAS======================
-A) ostenta a ctividad en las glándulas suprarrenales.
-B) ha logrado establecer bien su vínculo conyugal.
-C) está sometido a una dieta muy rigurosa y frugal.
-D) tiene una vida placentera sin complicaciones.
-E) experimenta una sensación de estrés en su vida.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ ostenta a ctividad en las glándulas suprarrenales.
+ ha logrado establecer bien su vínculo conyugal.
+ está sometido a una dieta muy rigurosa y frugal.
+ tiene una vida placentera sin complicaciones.
+ experimenta una sensación de estrés en su vida.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 El estrés baja las defensas y, en consecuencia, el organismo está inerme frente a la
 virulencia del patógeno.
-======================PREGUNTA 14======================
+
+
+============PREGUNTA============
 En el texto, la psiconeuroinmunología se menciona como un caso de
-======================ALTERNATIVAS======================
-A) ciencia incipiente. 
-B) historiografía. 
-C) filosofía racional.
-D) pseudociencia. 
-E) método terapéutico.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ ciencia incipiente.
+ historiografía.
+ filosofía racional.
+ pseudociencia.
+ método terapéutico.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Se trata de una nueva disciplina, esto es, una nueva ciencia (dado que plantea
 hipótesis inéditas con interesante potencia explicativa).
-======================PREGUNTA 15======================
+
+
+============PREGUNTA============
 Se deduce que el riesgo de una cardiopatía está relacionada con
-======================ALTERNATIVAS======================
-A) una considerable elevación de linfocitos.
-B) una adecuada función del hipotálamo.
-C) la muerte casual por derrame cerebral.
-D) un bajo nivel de colesterol en la sangre.
-E) un elevado nivel de la hormona ACTH.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ una considerable elevación de linfocitos.
+ una adecuada función del hipotálamo.
+ la muerte casual por derrame cerebral.
+ un bajo nivel de colesterol en la sangre.
+ un elevado nivel de la hormona ACTH.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En personas con riesgo de infarto se ha reportado altos niveles de ACTH.

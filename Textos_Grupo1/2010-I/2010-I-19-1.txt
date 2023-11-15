@@ -1,77 +1,83 @@
-
 Descartes fue un filósofo moderno poco respetuoso con los sistemas filosóficos del pasado, como los de Aristóteles o la Escolástica. A pesar de ello, también deseaba orden y claridad para combatir el resurgimiento del escepticismo y finalmente encontró reglas y principios para gobernar el pensamiento y el universo.
 
 Sobre Descartes y la entera familia de la filosofía racionalista a la que pertenecía, se puede decir que fueron los creadores de un universo clásico actualizado: armonioso, racional, geométrico, en definitiva, explicable en términos de las esencias o sustancias eternas. Los filósofos racionalistas debatían sobre el número y la naturaleza de la sustancia, por ejemplo, si había dos sustancias como afirmaba Descartes, o solo una como sostenía Spinoza, si la materia o la extensión era una sustancia al igual que la mente, etc. Pero ninguno de ellos dudaba de la existencia de cierto tipo de orden esencial al que debían referirse todo tipo de fenómenos, ya fueran cosmológicos, psicológicos o sociales. Al igual que el Clasicismo, por tanto, el Racionalismo, o al menos las grandes filosofías racionalistas del siglo XVII, estaban a favor de un sistema de cosas intemporal.
 
 Esta intemporalidad no es tan clara en el Empirismo, otra corriente importante de la filosofía del siglo XVII, o en la tendencia opuesta al Clasicismo, el Barroco. Al Barroco le complacían las curvas, el movimiento, la tensión, los efectos espaciales expansivos, en una palabra, el dinamismo, como puede verse en los grandes templos de Bernini y Borromini en Roma. Además, tanto el Empirismo, representado por John Locke, como su aliada, la ciencia experimental, eran igualmente dinámicos, por lo menos en lo que respecta a su concepción del conocimiento.
 
-======================PREGUNTA 1======================
+============PREGUNTA============
 Así como hay un fuerte engarce entre el racionalismo y el clasicismo, el empirismo
 se asocia íntimamente con la perspectiva
-======================ALTERNATIVAS======================
-A) escéptica. 
-B) estática. 
-C) barroca.
-D) intelectualista. 
-E) dualista.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ escéptica.
+ estática.
+ barroca.
+ intelectualista.
+ dualista.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 El texto establece una similitud entre el Racionalismo y el Clasicismo, por un
 lado; y, por otro, entre el Empirismo y el Barroco.
-======================PREGUNTA 2======================
-Resulta incompatible con el texto señalar que el racionalismo propugna una
-concepción
-======================ALTERNATIVAS======================
-A) armónica. 
-B) dinámica. 
-C) simétrica.
-D) innatista. 
-E) geométrica.
-======================ALTERNATIVA CORRECTA======================
+
+
+============PREGUNTA============
+Resulta incompatible con el texto señalar que el racionalismo propugna una concepción
+============ALTERNATIVAS============
+ armónica.
+ dinámica.
+ simétrica.
+ innatista.
+ geométrica.
+============CORRECTA============
 B
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 El dinamismo es una característica que se tiene en cuenta en el Empirismo y
 que se resalta en el último párrafo como similar al Barroco.
-======================PREGUNTA 3======================
+
+
+============PREGUNTA============
 ¿Cuál de los siguientes enunciados es incompatible con el texto?
-======================ALTERNATIVAS======================
-A) Los grandes sistemas racionalistas configuraron un universo intemporal.
-B) El Empirismo asumía el dinamismo en sus construcciones filosóficas.
-C) Tanto el Racionalismo como el Empirismo se iniciaron en la época moderna.
-D) El Racionalismo buscaba asir de modo indubitable lo esencial del cosmos.
-E) Spinoza fue un conspicuo representante filosófico del enfoque empirista.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ Los grandes sistemas racionalistas configuraron un universo intemporal.
+ El Empirismo asumía el dinamismo en sus construcciones filosóficas.
+ Tanto el Racionalismo como el Empirismo se iniciaron en la época moderna.
+ El Racionalismo buscaba asir de modo indubitable lo esencial del cosmos.
+ Spinoza fue un conspicuo representante filosófico del enfoque empirista.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Descartes y Spinoza son representantes del racionalismo.
-======================PREGUNTA 4======================
+
+
+============PREGUNTA============
 Se puede colegir del texto que los filósofos racionalistas
-======================ALTERNATIVAS======================
-A) eran detractores de todos los avances científicos.
-B) reflexionaron varios siglos antes que los empiristas.
-C) buscaban comprender el universo en su totalidad.
-D) privilegiaron la ciencia experimental y el arte barroco.
-E) formularon teorías donde se privilegiaba lo temporal.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ eran detractores de todos los avances científicos.
+ reflexionaron varios siglos antes que los empiristas.
+ buscaban comprender el universo en su totalidad.
+ privilegiaron la ciencia experimental y el arte barroco.
+ formularon teorías donde se privilegiaba lo temporal.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Los filósofos racionalistas no dudaban de la existencia de cierta especie de
 orden esencial en todo tipo de fenómenos: cosmológicos, psicológicos y sociales; de
 allí que, se puede inferir que se referían a un orden i nherente a la totalidad del
 universo que intentaban captar.
-======================PREGUNTA 5======================
+
+
+============PREGUNTA============
 Si un filósofo contemporáneo considerara indubitable la existencia de un orden
 inteligible en el cosmos,
-======================ALTERNATIVAS======================
-A) coincidiría con la perspectiva de los artistas barrocos.
-B) soslayaría las teorías metafísicas contemporáneas.
-C) reflexionaría sobre los efectos espaciales expansivos.
-D) negaría la existencia de alguna divinidad ordenadora.
-E) concordaría con Descartes más que con John Locke.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ coincidiría con la perspectiva de los artistas barrocos.
+ soslayaría las teorías metafísicas contemporáneas.
+ reflexionaría sobre los efectos espaciales expansivos.
+ negaría la existencia de alguna divinidad ordenadora.
+ concordaría con Descartes más que con John Locke.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La existencia de un orden esencial y comprensible por parte de los humanos
 en el universo es una de las características del Racionalismo; por ende, si un
 pensador contemporáneo sostuviera la misma tesis estaría más cercano al

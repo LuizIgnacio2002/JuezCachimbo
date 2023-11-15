@@ -133,24 +133,6 @@ nítidamente al efectuar la comparación con los planetas llamados exteriores.
 
 
 ============PREGUNTA============
-Determine la verdad (V) o la falsedad (F) de los siguientes enunciados en función del contenido del texto.
-I. Hacia el año 2000 Plutón todavía era considerado como un planeta más. II. El cometa Halley se mueve con una órbita circunsolar de ochenta años.
-III. Todos los cráteres terrestres se explican por el impacto de meteoritos. IV. Los meteoritos se caracterizan por tener un movimiento muy raudo.
-V. Todos los planetas llamados exteriores tienen satélites a su alrededor.
-VI. Los asteroides suelen ser mucho más pequeños que los meteoritos.
-============ALTERNATIVAS============
- FFFFVV  
- VVVVFF  
- VFFVVF  
- FFFVVV  
- VVFVVF
-============CORRECTA============
-C
-============RAZONAMIENTO============
-Son los apropiados valores de verdad de acuerdo con el contenido expuesto a lo
-largo del texto.9.
-
-============PREGUNTA============
 Si un objeto tuviera 700 kilómetros de diámetro,
 ============ALTERNATIVAS============
  se consideraría un planeta pequeño.

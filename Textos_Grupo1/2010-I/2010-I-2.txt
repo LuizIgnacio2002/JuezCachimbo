@@ -174,23 +174,3 @@ A
 ============RAZONAMIENTO============
 La ayuda mutua implica un beneficio de los dos organismos: se trata de una acción
 recíproca.
-
-============PREGUNTA============
-Determine el valor de verdad (Vo F) de los siguientes enunciados, según el contenido del texto.
-I. Los babuinos pueden oler a un depredador a una gran distancia.
-II. Los parásitos buscan eliminar al hospedero inmediatamente.
-III. Hay un notorio ectoparasitismo entre impalas y babuinos.
-IV. Los arrecifes coralinos tienen colores vistosos por las algas.
-V. En algunas ocasiones, el hospedero se beneficia del parásito.
-VI. Los insectos xilófagos entran en simbiosis con los árboles.
-============ALTERNATIVAS============
- VFVFVV  
- FFVVVV  
- VVVFFF  
- FFVFVV  
- FFFVVV
-============CORRECTA============
-E
-============RAZONAMIENTO============
-En virtud del contenido del texto, los tres primeros enunciados son falsos y los tres
-últimos enunciados son verdaderos.

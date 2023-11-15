@@ -1,74 +1,83 @@
-=====================TEXTO======================
-En 1953, Henry M. se sometió a una cirugía cerebral con el fin de tratar una epilepsia intratable. El resultado fue bastante positivo, ya que después de la cirugía, se logró controlar la epilepsia mediante tratamiento médico. Sin embargo, ocurrió algo sorprendente en el caso de Henry: perdió su capacidad para recordar cosas. No solo aquellas que habían ocurrido poco antes de la intervención quirúrgica, sino también otras que uno suele recordar sin esfuerzo en la vida diaria. Por ejemplo, Henry M. no podía recordar lo que había hecho tan solo unos minutos antes, ni reconocer la cara del médico con quien había hablado, ni identificar la habitación en la que se encontraba. Para él, todos los días eran nuevos y diferentes, con eventos, personas y rostros desconocidos. Sin embargo, su inteligencia no se vio afectada, tampoco su memoria inmediata (la capacidad de recordar brevemente un número) ni los recuerdos de su vida anterior a la operación, como su niñez. A pesar de todo, Henry no perdió su personalidad.
+En 1953, Henry M. se sometió a una cirugía cerebral con el fin de tratar una epilepsia intratable. El resultado fue bastante positivo, ya que después de la cirugía, se logró controlar la epilepsia mediante tratamiento médico.
+
+Sin embargo, ocurrió algo sorprendente en el caso de Henry: perdió su capacidad para recordar cosas. No solo aquellas que habían ocurrido poco antes de la intervención quirúrgica, sino también otras que uno suele recordar sin esfuerzo en la vida diaria. Por ejemplo, Henry M. no podía recordar lo que había hecho tan solo unos minutos antes, ni reconocer la cara del médico con quien había hablado, ni identificar la habitación en la que se encontraba. Para él, todos los días eran nuevos y diferentes, con eventos, personas y rostros desconocidos. Sin embargo, su inteligencia no se vio afectada, tampoco su memoria inmediata (la capacidad de recordar brevemente un número) ni los recuerdos de su vida anterior a la operación, como su niñez. A pesar de todo, Henry no perdió su personalidad.
+
 Lo sorprendente es que Henry M. aún podía mantener intacta su memoria implícita, aquella que se refleja en habilidades como andar en bicicleta. De hecho, era capaz de aprender y retener información que no requería evocación consciente. Si se le pedía que volviera a dibujar los contornos de una figura previamente impresa en papel, podía hacerlo como cualquier persona sin problemas. ¿Cómo era esto posible? Su memoria implícita seguía funcionando sin alteraciones. Esto significaba que tenía la capacidad de retener información de manera inconsciente y aplicarla a ciertas conductas, como volver a dibujar o andar en bicicleta.
+
 A pesar de no haber visto afectada su inteligencia general, Henry M. era consciente de su problema y se disculpaba constantemente por ello. Sentía una gran preocupación por la posibilidad de haber realizado alguna acción desagradable sin recordarla.
-======================PREGUNTA 1======================
+
+============PREGUNTA============
 En el texto, el término INTERVENCIÓN denota específicamente
-======================ALTERNATIVAS======================
-A) escrutinio. B) intrusión. C) reacción.
-D) control. E) operación.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ escrutinio.  
+ intrusión.  
+ reacción.
+ control.  
+ operación.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La intervención quirúrgica se refiere a una operación de cirugía cerebral para tratar la
 epilepsia de Henry.
-======================PREGUNTA 2======================
+
+
+============PREGUNTA============
 ¿Cuál es la mejor síntesis del texto?
-======================ALTERNATIVAS======================
-A) Luego de una cirugía cerebral, Henry M. perdió parte de su me moria, pero
-conservó incólume su memoria implícita y su inteligencia general.
-B) Henry M. sufrió una extraña afección a la memoria, debido a un mal tratamiento
-médico para controlar la epilepsia que padecía.
-C) En la mente de Henry M. funciona bien la memoria implícita y, en consecuencia,
-es capaz de redibujar y manejar la bicicleta sin problemas.
-D) Henry M., de manera intempestiva, perdió la capacidad de recordar cosas, pero
-mantuvo los recuerdos más remotos de su tierna infancia.
-E) El caso de Henry M. es verdaderamente dramático porque él es consciente del
-problema que sufre con su memoria y no puede hacer nada para evitarlo.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ Luego de una cirugía cerebral, Henry M. perdió parte de su me moria, pero conservó incólume su memoria implícita y su inteligencia general.
+ Henry M. sufrió una extraña afección a la memoria, debido a un mal tratamiento médico para controlar la epilepsia que padecía.
+ En la mente de Henry M. funciona bien la memoria implícita y, en consecuencia, es capaz de redibujar y manejar la bicicleta sin problemas.
+ Henry M., de manera intempestiva, perdió la capacidad de recordar cosas, pero mantuvo los recuerdos más remotos de su tierna infancia.
+ El caso de Henry M. es verdaderamente dramático porque él es consciente del problema que sufre con su memoria y no puede hacer nada para evitarlo.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En esencia, el texto gira entorno a lo que ocurre después de la exitosa operación
 para controlar la epilepsia. Dos son los aspectos relevantes: la pérdida de la
 memoria de evocación consciente y el mantenimiento de la memoria implícita .
-======================PREGUNTA 3======================
+
+
+============PREGUNTA============
 Respecto de Henry M. resulta incompatible aseverar que
-======================ALTERNATIVAS======================
-A) era capaz de recordar los sucesos de su tiempo de niño.
-B) la carencia de recuerdos le suscita un sentimiento de culpa.
-C) conservó intacta su capacidad de memoria inmediata.
-D) logró mejorar en lo concerniente a la epilepsia que sufría.
-E) perdió completamente la memoria de índole procedimental.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ era capaz de recordar los sucesos de su tiempo de niño.
+ la carencia de recuerdos le suscita un sentimiento de culpa.
+ conservó intacta su capacidad de memoria inmediata.
+ logró mejorar en lo concerniente a la epilepsia que sufría.
+ perdió completamente la memoria de índole procedimental.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La memoria implícita es crucial para los procedimientos y es lo que funciona bien en
 Henry M.
-======================PREGUNTA 4======================
+
+
+============PREGUNTA============
 Se deduce del texto que la memoria humana
-======================ALTERNATIVAS======================
-A) se organiza en una serie de componentes autónomos.
-B) puede optimizarse a base de una cirugía del encéfalo.
-C) funciona como una estructura indivisa y compacta.
-D) depende crucialmente del nivel de inteligencia general.
-E) solamente puede operar con datos nítidos y exactos.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ se organiza en una serie de componentes autónomos.
+ puede optimizarse a base de una cirugía del encéfalo.
+ funciona como una estructura indivisa y compacta.
+ depende crucialmente del nivel de inteligencia general.
+ solamente puede operar con datos nítidos y exactos.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La memoria reciente, la memoria de evocación consciente, la memoria implícita, etc.
 nos sugieren la conclusión de que la memoria humana funciona de manera modular.
-======================PREGUNTA 5======================
-Si Henry M. hubiese perdido también la memoria de su vida muy anterior a la
-operación
-======================ALTERNATIVAS======================
-A) podría haberse atrofiado su inteligencia general.
-B) el mal de la epilepsia se habría agravado más.
-C) habría perdido la consciencia de su identidad.
-D) también habría perdido la memoria inmediata.
-E) su nivel de memoria implícita se habría extinguido.
-======================ALTERNATIVA CORRECTA======================
+
+
+============PREGUNTA============
+Si Henry M. hubiese perdido también la memoria de su vida muy anterior a la operación
+============ALTERNATIVAS============
+ podría haberse atrofiado su inteligencia general.
+ el mal de la epilepsia se habría agravado más.
+ habría perdido la consciencia de su identidad.
+ también habría perdido la memoria inmediata.
+ su nivel de memoria implícita se habría extinguido.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Henry M. no perdió su personalidad porque recordaba sucesos de su niñez y, por lo
 tanto, sabía su identidad. Mas, si hubiese perdido también esa memoria, ya no sería
 capaz de reconocerse como Henry M.

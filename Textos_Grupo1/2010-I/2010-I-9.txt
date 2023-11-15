@@ -10,158 +10,130 @@ Un eclipse de Luna se produce cuando, en situación de plenilunio, la Tierra se 
 
 De los eclipses de Luna se han extraído importantes conclusiones científicas. Hace 2500 años, Pitágoras observó que la sombra que se proyectaba sobre la Luna era redonda, por lo que determinó que nuestro planeta debía ser una esfera. Basado en esta conclusión, Ptolomeo logró establecer el tamaño de la esfera terrestre, que resultó ser un 30% más pequeño de lo que es en realidad.
 
-=====================PREGUNTA 1=====================
+
+============PREGUNTA============
 ¿Cuál es el tema central del texto?
-=====================ALTERNATIVAS=====================
-A) La penumbra de los eclipses. 
-B) El eclipse de Sol, total o parcial
-C) Los eclipses y la historia. 
-D) El fenómeno de los eclipses.
-E) El eclipse lunar en plenilunio.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ La penumbra de los eclipses.
+ El eclipse de Sol, total o parcial
+ Los eclipses y la historia.
+ El fenómeno de los eclipses.
+ El eclipse lunar en plenilunio.
+============CORRECTA============
 D
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 El tema central se refiere a los eclipses, tanto lunares como solares .
 
-=====================PREGUNTA 2=====================
+
+============PREGUNTA============
 ¿Cuál es la idea principal del texto?
-=====================ALTERNATIVAS=====================
-A) Tanto el Sol como la Luna, en ocasiones, se ven oscurecidos por una sombra
-circular.
-B) El eclipse, solar o lunar, se produce cuando un astro se oscurece por la sombra
-de otro.
-C) Cuando la Luna y la Tierra se ubican en una línea recta, se produce un eclipse
-solar.
-D) Al interponerse entre el Sol y la Luna, la Tierra causa el fenómeno del eclipse
-lunar.
-E) El estudio de los eclipses ha determinado gravitantes descubrimientos en la
-astronomía.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ Tanto el Sol como la Luna, en ocasiones, se ven oscurecidos por una sombra circular.
+ El eclipse, solar o lunar, se produce cuando un astro se oscurece por la sombra de otro.
+ Cuando la Luna y la Tierra se ubican en una línea recta, se produce un eclipse solar.
+ Al interponerse entre el Sol y la Luna, la Tierra causa el fenómeno del eclipse lunar.
+ El estudio de los eclipses ha determinado gravitantes descubrimientos en la astronomía.
+============CORRECTA============
 B
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 La idea central expresa el mecanismo de producción de los eclipses.
 
-=====================PREGUNTA 3=====================
+
+============PREGUNTA============
 ¿Cuál es el mejor resumen del texto?
-=====================ALTERNATIVAS=====================
-A) Cuando el Sol, la Luna y la Tierra se ubican en la misma línea recta, puede
-suceder que tanto la Luna como el disco solar se vean inmediatamente
-oscurecidos por una sombra circular proyectada por la Tierra.
-B) El eclipse total de Sol se genera cuando el disco de la Luna cubre cabalmente la
-esfera solar y el eclipse parcial de Sol se produce cuando el cuerpo de la Luna
-cubre solamente una parte del Sol.
-C) El fenómeno general de los eclipses lunares y solares se produce porque el Sol,
-de modo constante y regular, ilumina parcialmente un hemisferio de la Tierra y
-parcialmente un hemisferio del disco lunar.
-D) A lo largo de la historia humana, los eclipses solares y lunares han producido
-fenómenos asombrosos y han sido la causa de acontecimientos insólitos entre
-las diversas civilizaciones terrestres.
-E) El eclipse de Sol consiste en un oscurecimiento total o parcial del disco solar
-debido al cruce de la Luna entre el Sol y la Tierra; el eclipse lunar se produce
-cuando la Tierra se interpone entre el Sol y la Luna.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ Cuando el Sol, la Luna y la Tierra se ubican en la misma línea recta, puede suceder que tanto la Luna como el disco solar se vean inmediatamente oscurecidos por una sombra circular proyectada por la Tierra.
+ El eclipse total de Sol se genera cuando el disco de la Luna cubre cabalmente la esfera solar y el eclipse parcial de Sol se produce cuando el cuerpo de la Luna cubre solamente una parte del Sol.
+ El fenómeno general de los eclipses lunares y solares se produce porque el Sol, de modo constante y regular, ilumina parcialmente un hemisferio de la Tierra y parcialmente un hemisferio del disco lunar.
+ A lo largo de la historia humana, los eclipses solares y lunares han producido fenómenos asombrosos y han sido la causa de acontecimientos insólitos entre las diversas civilizaciones terrestres.
+ El eclipse de Sol consiste en un oscurecimiento total o parcial del disco solar debido al cruce de la Luna entre el Sol y la Tierra; el eclipse lunar se produce cuando la Tierra se interpone entre el Sol y la Luna.
+============CORRECTA============
 E
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 La mejor síntesis se refiere al mecanismo del eclipse solar y al mecanismo del
 eclipse lunar, en ese orden.
 
- 
-=====================PREGUNTA 4=====================
+
+ ============PREGUNTA============
 El sentido contextual de la palabra SIGNO es
-=====================ALTERNATIVAS=====================
-A) fenómeno. 
-B) indicio. 
-C) código. 
-D) vaticinio. 
-E) mensaje.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ fenómeno.
+ indicio.
+ código.
+ vaticinio.
+ mensaje.
+============CORRECTA============
 E
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 Los lirios y los medes tomaron la oscuridad como SI GNO de los dioses, esto es,
 como un mensaje divino.
 
-=====================PREGUNTA 4=====================
+
+============PREGUNTA============
 El antónimo contextual de ÍNTEGRO es
-=====================ALTERNATIVAS=====================
-A) parcial.
-B) perfecto. 
-C) deshonesto. 
-D) continuo. 
-E) original.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ parcial.
+ perfecto.
+ deshonesto.
+ continuo.
+ original.
+============CORRECTA============
 A
-=====================RAZONAMIENTO=====================
-El disco lunar cubre de modo ÍNTEGRO al Sol. Por el contexto, el antónimo es
-PARCIAL.
+============RAZONAMIENTO============
+El disco lunar cubre de modo ÍNTEGRO al Sol. Por el contexto, el antónimo es PARCIAL.
  
-=====================PREGUNTA 6=====================
+
+============PREGUNTA============
 Se establece en el texto que los eclipses
-=====================ALTERNATIVAS=====================
-A) son fenómenos de índole divina. 
-B) han causado desastres terrestres.
-C) se producen de manera gradual. 
-D) producen una luz extra cegadora.
-E) son fenómenos meteorológicos.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ son fenómenos de índole divina.
+ han causado desastres terrestres.
+ se producen de manera gradual.
+ producen una luz extra cegadora.
+ son fenómenos meteorológicos.
+============CORRECTA============
 C
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 El oscurecimiento es paulatino.
 
-=====================PREGUNTA 7=====================
-Determine la compatibilidad (C) o la incompatibilidad (I) de los siguientes
-enunciados, en virtud del contenido del texto.
-I. Los eclipses solares se ocasionan de tres modos diferentes.
-II. Los lirios explicaron científicamente el fenómeno del eclipse.
-III. Los eclipses lunares se producen en fase de luna menguante.
-IV. En los eclipses lunares totales, se ve un halo en el disco lunar.
-V. Según Ptolomeo, la circunferencia terrestre mide 40 mil kilómetros.
-=====================ALTERNATIVAS=====================
-A) IICCI 
-B) CICCI 
-C) ICCCI 
-D) CCCII 
-E) CIICI
-==================ALTERNATIVA CORRECTA=================
-E
-=====================RAZONAMIENTO=====================
-En virtud del contenido del texto, son compatibles el primer enunciado y el cuarto.
 
-=====================PREGUNTA 8=====================
+============PREGUNTA============
 Se infiere del texto que una mañana se oscurece plenamente
-=====================ALTERNATIVAS=====================
-A) porque se ha producido un eclipse de Sol anular.
-B) cuando la Tierra se interpone entre el Sol y la Luna.
-C) si el disco de la Luna cubre toda la masa solar.
-D) el Sol ilumina intensamente un hemisferio lunar.
-E) cuando la Luna se interna en la sombra terrestre.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ porque se ha producido un eclipse de Sol anular.
+ cuando la Tierra se interpone entre el Sol y la Luna.
+ si el disco de la Luna cubre toda la masa solar.
+ el Sol ilumina intensamente un hemisferio lunar.
+ cuando la Luna se interna en la sombra terrestre.
+============CORRECTA============
 C
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 El día se transforma en noche cuando de produce un eclipse total de Sol.
 
-=====================PREGUNTA 9=====================
+
+============PREGUNTA============
 Se colige del texto que los eclipses lunares
-=====================ALTERNATIVAS=====================
-A) se observan sólo a mediodía. 
-B) son acontecimientos predecibles.
-C) son fenómenos inobservables. 
-D) producen un fuerte anillo luminoso.
-E) incrementan el clima de la Tierra.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ se observan sólo a mediodía.
+ son acontecimientos predecibles.
+ son fenómenos inobservables.
+ producen un fuerte anillo luminoso.
+ incrementan el clima de la Tierra.
+============CORRECTA============
 B
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 Dado que se puede determinar el mecanismo, se deduce que se pueden predecir.
 
  
-=====================PREGUNTA 10=====================
+============PREGUNTA============
 Si, durante el eclipse, la sombra proyectada en la Luna hubiese sido ovalada,
-=====================ALTERNATIVAS=====================
-A) Pitágoras habría determinado que la Tierra era plana.
-B) Ptolomeo habría deducido el tamaño real de la Tierra.
-C) se habría determinado que la Luna era una esfera.
-D) se habría fijado que la Tierra tenía forma de huevo.
-E) se habría probado que la Tierra era un círculo perfecto.
-==================ALTERNATIVA CORRECTA=================
+============ALTERNATIVAS============
+ Pitágoras habría determinado que la Tierra era plana.
+ Ptolomeo habría deducido el tamaño real de la Tierra.
+ se habría determinado que la Luna era una esfera.
+ se habría fijado que la Tierra tenía forma de huevo.
+ se habría probado que la Tierra era un círculo perfecto.
+============CORRECTA============
 D
-=====================RAZONAMIENTO=====================
+============RAZONAMIENTO============
 La sombra ovalada corresponde a un óvalo, una curva cerrada en forma de huevo.

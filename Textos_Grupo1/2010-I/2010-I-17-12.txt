@@ -1,113 +1,107 @@
-=====================TEXTO======================
-Para Leibniz, el universo se compone de sustancias inmateriales, de las que una
-sola especie está dotada de reflexión. Estas instancias, denominadas mónadas, están
-unidas entre sí, no por la causalidad física, sino por una causalidad ideal, y se
-intercomunican constituyendo una armonía universal perfecta. En esta armonía exacta
-nada está fuera de orden. Por tanto, las relaciones entre el alma y el cuerpo no son sino
-un caso particular de la armonía universal; todo lo que le ocurre al alma está vinculado a lo que le sucede al cuerpo. Dios sería el director de esta perfecta armonía. Si las
-mónadas son simples, esto significa que son indivisibles, inmateriales, innatas e
-imperecederas.
-Sobre la base de esta tesis de la armonía preestablecida, Leibniz se plantea la
-siguiente duda: si Dios es justo, ¿cómo se justifica el mal? Él llega a la conclusión de que
-el mal metafísico es inevitable. Según Leibniz, Dios prevé nuestros males, y aunque no
-los quiere, los permite. Continúa afirmando que Dios eligió crear el mejor de los mundos
-posibles, pero no vemos más que una parte muy pequeña de él, ya que si viéramos todo,
-descubriríamos su armonía.
-Con su portentosa inteligencia, Leibniz dio, además, un paso de gigante en el
-avance científico. Partiendo de una concepción mecanicista del universo, introdujo el
-concepto de fuerza como agente principal del sistema de la naturaleza. En 1676, dio a
-conocer su descubrimiento del cálculo infinitesimal. Ambos aportes han sido esenciales
-en el ámbito del saber científico. Estableció, asimismo, un sistema idealista, alejado de las
-corrientes naturalistas predominantes en algunos países europeos de la época. A través
-de su optimista filosofía, Leibniz intentó la unión de las Iglesias y de las naciones. Fue un
-conciliador, un pensador que creía fervientemente en la unión espiritual de los pueblos
-europeos.
-======================PREGUNTA 1======================
+
+Leibniz concibe el universo como compuesto por sustancias inmateriales, siendo una única especie la dotada de reflexión. Estas entidades, llamadas mónadas, se conectan no por causalidad física, sino por una causalidad ideal, formando una armonía universal perfecta. En esta armonía, todo está en orden, y las relaciones entre alma y cuerpo son un caso específico de esta armonía universal. Todas las experiencias del alma están vinculadas a lo que sucede en el cuerpo, y Dios actúa como el director de esta armonía.
+
+Según Leibniz, las mónadas son simples, indivisibles, inmateriales, innatas e imperecederas. La tesis de la armonía preestablecida lleva a Leibniz a enfrentar la cuestión del mal en el mundo. Argumenta que, si Dios es justo, el mal metafísico es inevitable. Dios prevé los males, los permite aunque no los desee, y ha creado el mejor de los mundos posibles, aunque solo vemos una pequeña parte de él. La armonía completa se revelaría si pudiéramos contemplar todo.
+
+Además de sus contribuciones filosóficas, Leibniz fue un científico destacado. Desde una perspectiva mecanicista del universo, introdujo el concepto de fuerza como agente principal del sistema natural. En 1676, anunció el descubrimiento del cálculo infinitesimal, contribuyendo esencialmente al avance científico. Leibniz también propuso un sistema idealista, alejado de las corrientes naturalistas predominantes en su época. Su filosofía optimista buscó la unión de Iglesias y naciones, siendo un conciliador que creía en la unión espiritual de los pueblos europeos.
+
+============PREGUNTA============
 En el texto, el sentido de INSTANCIA es
-======================ALTERNATIVAS======================
-A) residencia. 
-B) elemento. 
-C) temporalidad.
-D) memoria. 
-E) motivo.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ residencia.
+ elemento.
+ temporalidad.
+ memoria.
+ motivo.
+============CORRECTA============
 B
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Las mónadas son llamadas instancias en virtud de su carácter elemental.
-======================PREGUNTA 2======================
+
+
+============PREGUNTA============
 Resulta incompatible con el pensamiento leibniciano aseverar que las mónadas son
-======================ALTERNATIVAS======================
-A) inmateriales. 
-B) ideales. 
-C) imperecederas.
-D) complejas. 
-E) atómicas.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ inmateriales.
+ ideales.
+ imperecederas.
+ complejas.
+ atómicas.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Dado que las mónadas son simples e indivisibles, no pueden ser complejas.
-======================PREGUNTA 3======================
+
+
+============PREGUNTA============
 En la filosofía de Leibniz, la noción medular es
-======================ALTERNATIVAS======================
-A) el mundo increado. 
-B) creación innata. 
-C) justicia inmortal.
-D) cálculo infinitesimal. 
-E) armonía universal.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ el mundo increado.
+ creación innata.
+ justicia inmortal.
+ cálculo infinitesimal.
+ armonía universal.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 El autor dice que Leibniz trazó la tesis de una armonía universal preestablecida.
-======================PREGUNTA 4======================
+
+
+============PREGUNTA============
 Se deduce del texto que, para Leibniz,
-======================ALTERNATIVAS======================
-A) Dios está muy contento con todos nuestros males.
-B) la ciencia debe cumplir basarse en la causalidad física.
-C) el idealismo es el sistema de ideas más cuestionable.
-D) la tesis idealista es compatible con el método científico.
-E) el arte goza de más importancia que la esfera moral.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ Dios está muy contento con todos nuestros males.
+ la ciencia debe cumplir basarse en la causalidad física.
+ el idealismo es el sistema de ideas más cuestionable.
+ la tesis idealista es compatible con el método científico.
+ el arte goza de más importancia que la esfera moral.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Dado que Leibniz es idealista y hace contribuciones a la ciencia, se colige que para
 él no había incompatibilidad entre idealismo y ciencia.
-======================PREGUNTA 5======================
+
+
+============PREGUNTA============
 Se infiere que la concepción idealista leibniciana se sustenta en
-======================ALTERNATIVAS======================
-A) un saber cuantitativo.
-B) la filosofía naturalista.
-C) el pesimismo filosófico. 
-D) principios racionalistas.
-E) una visión organicista.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ un saber cuantitativo.
+ la filosofía naturalista.
+ el pesimismo filosófico.
+ principios racionalistas.
+ una visión organicista.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 El idealismo leibniciano se sustenta en el racionalismo, dado que la mónada
 increada, Dios, está dotada de reflexión.
-======================PREGUNTA 6======================
+
+
+============PREGUNTA============
 De acuerdo con las ideas de Leibniz, el pesimismo es un corolario de
-======================ALTERNATIVAS======================
-A) las creencias idealistas. 
-B) la actitud procientífica.
-C) las tesis del mecanicismo. 
-D) una visión estrecha del mundo.
-E) la refutación al naturalismo.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ las creencias idealistas.
+ la actitud procientífica.
+ las tesis del mecanicismo.
+ una visión estrecha del mundo.
+ la refutación al naturalismo.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Si viéramos al universo en toda su amplitud, nos percataríamos de que vivimos en el
 mejor de los mundos posibles.
-======================PREGUNTA 7======================
-Cabe inferir del texto que el sistema de la naturaleza desarrollado por Leibniz es de
-índole
-======================ALTERNATIVAS======================
-A) dinámica. 
-B) materialista. 
-C) pragmatista.
-D) empirista. 
-E) politeísta.
-======================ALTERNATIVA CORRECTA======================
+
+
+============PREGUNTA============
+Cabe inferir del texto que el sistema de la naturaleza desarrollado por Leibniz es de índole
+============ALTERNATIVAS============
+ dinámica.
+ materialista.
+ pragmatista.
+ empirista.
+ politeísta.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Sobre la base de la importancia de la noción de fuerza en el sistema leibniciano, se
 colige que se trata de un sistema dinámico.

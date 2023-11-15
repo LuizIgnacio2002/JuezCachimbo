@@ -1,28 +1,31 @@
-=====================TEXTO======================
-Se ha demostrado que la enfermedad de las vacas locas es una enfermedad degenerativa del sistema nervioso central de los bovinos. Se caracteriza por la aparición de un fuerte escozor (scrapie) en los animales adultos y termina con la muerte del animal. Fue reportada por primera vez en 1986 en Gran Bretaña y se puede transmitir a los seres humanos a través del consumo de la carne de animales infectados. Aunque se sabe que esta enfermedad es causada por un prion (PrP) descubierto por Stanley Prusiner (Premio Nobel de Medicina), ciertas industrias competidoras de las factorías bovinas se han beneficiado significativamente debido al temor de las personas a contraer la enfermedad. En consecuencia, la causa de la enfermedad de las vacas locas podría encontrarse en el enriquecimiento financiero de estas industrias.
-======================PREGUNTA 1======================
-Gracias a una lectura analítica, se puede decir que el escozor insoportable sufrido
-por una vaca
-======================ALTERNATIVAS======================
-A) es la causa de severos trastornos en los animales bovinos.
-B) puede ser un síntoma de la enfermedad de las vacas locas.
-C) es un indicio inequívoco de la presencia de una bacteria.
-D) permite deducir plausiblemente un fraude en las empresas.
-E) sugiere que el animal tiene un temor ante la presencia humana.
-======================ALTERNATIVA CORRECTA======================
+Se ha demostrado que la enfermedad de las vacas locas es una enfermedad degenerativa del sistema nervioso central de los bovinos. Se caracteriza por la aparición de un fuerte escozor (scrapie) en los animales adultos y termina con la muerte del animal. Fue reportada por primera vez en 1986 en Gran Bretaña y se puede transmitir a los seres humanos a través del consumo de la carne de animales infectados.
+
+Aunque se sabe que esta enfermedad es causada por un prion (PrP) descubierto por Stanley Prusiner (Premio Nobel de Medicina), ciertas industrias competidoras de las factorías bovinas se han beneficiado significativamente debido al temor de las personas a contraer la enfermedad. En consecuencia, la causa de la enfermedad de las vacas locas podría encontrarse en el enriquecimiento financiero de estas industrias.
+
+============PREGUNTA============
+Gracias a una lectura analítica, se puede decir que el escozor insoportable sufrido por una vaca
+============ALTERNATIVAS============
+ es la causa de severos trastornos en los animales bovinos.
+ puede ser un síntoma de la enfermedad de las vacas locas.
+ es un indicio inequívoco de la presencia de una bacteria.
+ permite deducir plausiblemente un fraude en las empresas.
+ sugiere que el animal tiene un temor ante la presencia humana.
+============CORRECTA============
 B
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 El fuerte escozor (scrapie) es un rasgo asociado a la enfermedad. Ergo, es un
 síntoma del mal de las vacas locas (encefalopatía espongiforme bovina).
-======================PREGUNTA 2======================
+
+
+============PREGUNTA============
 Una crítica sólida contra el texto consistiría en decir que
-======================ALTERNATIVAS======================
-A) recurre a la falacia del argumento a la autoridad.
-B) apela a un sentimiento de compasión por las vacas.
-C) se sustenta en la autoridad científica de S. Prusiner.
-D) comete una falacia en el encadenamiento causal.
-E) no explica suficientemente que la vaca es un bovino.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ recurre a la falacia del argumento a la autoridad.
+ apela a un sentimiento de compasión por las vacas.
+ se sustenta en la autoridad científica de S. Prusiner.
+ comete una falacia en el encadenamiento causal.
+ no explica suficientemente que la vaca es un bovino.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En efecto, toma una consecuencia como causa.

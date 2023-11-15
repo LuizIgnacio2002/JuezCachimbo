@@ -1,76 +1,81 @@
-=====================TEXTO======================
-Para Lev Vygotsky, el ser humano se caracteriza por una sociabilidad primaria. Henri Wallon expresa la misma idea de modo más categórico: “El individuo es genéticamente social”. En la época de Vygotsky, este principio no pasaba de ser un postulado, una hipótesis puramente teórica. Pero, en la actualidad, puede afirmarse que la tesis de una sociabilidad primaria y, en parte, genéticamente determinada, posee casi el estatuto de un hecho científico establecido como resultado de la convergencia de dos corrientes de investigación: por un lado, las investigaciones biológicas, como las relativas al papel que desempeña la sociabilidad en la antropogénesis y las que atañen al desarrollo morfofuncional del niño de pecho (existen, por ejemplo, pruebas cada vez más abundantes de que las zonas cerebrales que rigen las funciones sociales, tales como la percepción del rostro o de la voz humana, experimentan una maduración precoz y acelerada); por otro lado, las recientes investigaciones empíricas sobre el desarrollo social de la primera infancia demuestran ampliamente la tesis de una sociabilidad primaria y precoz.
-Los análisis teóricos llevaron a Vygotsky a defender tesis bastante visionarias sobre la sociabilidad precoz del niño y a deducir de ellas las consecuencias respecto de la teoría del desarrollo del niño. Vygotsky escribía en 1932: “Por mediación de los demás, por mediación del adulto, el niño se entrega a sus actividades. Todo absolutamente en el comportamiento del niño está fundido, arraigado en lo social.” Y prosigue: “De este modo, las relaciones del niño con la realidad son, desde el comienzo, relaciones sociales. En este sentido, podría decirse del niño de pecho que es un ser social en el más alto grado.”
-La sociabilidad del niño es el punto de partida de sus interacciones sociales con el medio que lo rodea. Los problemas de la psicología de la interacción social son actualmente bastante conocidos. Según Vygotsky, por origen y por naturaleza, el ser humano no puede existir ni experimentar el desarrollo propio de su especie como una mónada aislada, tiene necesariamente su prolongación en los demás. De modo aislado no es un ser completo. Para el desarrollo del niño, especialmente en su primera infancia, lo que reviste importancia primordial son las interacciones asimétricas, es decir, las interacciones con los adultos portadores de todos los mensajes de la cultura. En este tipo de interacción, el papel esencial corresponde a los signos, a los distintos sistemas semióticos que, desde el punto de vista genético, tienen primero una función de comunicación y luego una función individual: comienzan a ser utilizados como instrumentos de organización y de control del comportamiento individual. Este es precisamente el elemento fundamental de la concepción que Vygotsky tiene de la interacción social: en el proceso del desarrollo, ésta desempeña un papel formador y constructor. Ello significa simplemente que algunas categorías de funciones mentales superiores (atención voluntaria, memoria lógica, pensamiento verbal y conceptual, emociones complejas, etc.) no podrían surgir y constituirse en el proceso del desarrollo sin la contribución constructora de las interacciones sociales.
-======================PREGUNTA 1======================
+Lev Vygotsky sostiene que el ser humano se caracteriza por una sociabilidad primaria, idea que Henri Wallon expresa de manera más categórica al afirmar que "el individuo es genéticamente social". En la época de Vygotsky, esta noción era un postulado teórico, pero en la actualidad, se considera casi un hecho científico establecido. La convergencia de investigaciones biológicas, que examinan el papel de la sociabilidad en la antropogénesis y el desarrollo morfofuncional del niño, junto con estudios empíricos recientes sobre el desarrollo social de la primera infancia, respalda la idea de una sociabilidad primaria y genéticamente determinada.
+
+Vygotsky desarrolló tesis visionarias sobre la sociabilidad temprana del niño, destacando la importancia de las interacciones sociales en su desarrollo. En 1932, afirmaba que "todo absolutamente en el comportamiento del niño está fundido, arraigado en lo social" y que las relaciones del niño con la realidad son desde el principio relaciones sociales. Para Vygotsky, el niño de pecho es un ser social en el más alto grado.
+
+La sociabilidad del niño sirve como punto de partida para sus interacciones sociales con el entorno. Vygotsky enfatiza la necesidad de interacciones asimétricas, especialmente con adultos que son portadores de los mensajes culturales. En estas interacciones, los signos y sistemas semióticos juegan un papel esencial, inicialmente como medios de comunicación y luego como instrumentos para organizar y controlar el comportamiento individual. Según Vygotsky, la interacción social desempeña un papel formativo y constructivo en el desarrollo, siendo crucial para la emergencia de funciones mentales superiores como la atención voluntaria, la memoria lógica, el pensamiento verbal y conceptual, y las emociones complejas.
+
+============PREGUNTA============
 Fundamentalmente, el texto dilucida
-======================ALTERNATIVAS======================
-A) los problemas de la psicología entorno a la sociabilidad primaria del niño.
-B) la naturaleza del ser humano y la importancia de las interacciones asimétricas.
-C) el desarrollo del niño como un ser eminentemente social, según Lev Vygotsky.
-D) la importancia que Vygotsky adjudica a la primera infancia de los seres humanos.
-E) las interacciones sociales y el desarrollo de las actividades mentales superiores.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ los problemas de la psicología entorno a la sociabilidad primaria del niño.
+ la naturaleza del ser humano y la importancia de las interacciones asimétricas.
+ el desarrollo del niño como un ser eminentemente social, según Lev Vygotsky.
+ la importancia que Vygotsky adjudica a la primera infancia de los seres humanos.
+ las interacciones sociales y el desarrollo de las actividades mentales superiores.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En el texto, el autor desarrolla la idea de que las interacciones sociales asimétricas
 cumplen un papel primordial en el desarrollo del niño.
-======================PREGUNTA 2======================
+
+
+============PREGUNTA============
 A partir del texto, se puede aseverar que la tesis de una sociabilidad primaria
-======================ALTERNATIVAS======================
-A) fue recusada por investigaciones realizadas entorno a la atención voluntaria y la
-memoria lógica.
-B) constituyó una explicación cabal y concluyente del proceso de génesis y
-desarrollo social del infante.
-C) fue corroborada por investigaciones en la ciencia de la biología y del desarrollo
-social de la primera infancia.
-D) resulta compatible con la concepción que considera el desarrollo del niño como
-una mónada aislada.
-E) ha sido soslayada en las modernas investigaciones sobre el pensamiento verbal y
-la memoria operativa.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ fue recusada por investigaciones realizadas entorno a la atención voluntaria y la memoria lógica.
+ constituyó una explicación cabal y concluyente del proceso de génesis y desarrollo social del infante.
+ fue corroborada por investigaciones en la ciencia de la biología y del desarrollo social de la primera infancia.
+ resulta compatible con la concepción que considera el desarrollo del niño como una mónada aislada.
+ ha sido soslayada en las modernas investigaciones sobre el pensamiento verbal y la memoria operativa.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Las investigaciones mencionadas en el texto han corroborado la tesis de Vigotsky,
 de tal modo que, en la actualidad, dicha tesis posee casi el estatuto de un hecho
 científico.
-======================PREGUNTA 3======================
+
+
+============PREGUNTA============
 Es incompatible con las ideas de Vygotsky aseverar que el niño
-======================ALTERNATIVAS======================
-A) desde su concepción tiene arraigada en su mente la memoria lógica.
-B) para su de sarrollo, requiere, sobre todo, interactuar con los adultos.
-C) al nacer, carece de la capacidad de sentir emociones complejas.
-D) sin relaciones sociales, tendría limitaciones insalvables en su desarrollo.
-E) alcanza la condición humana con la intervención de los actores sociales.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ desde su concepción tiene arraigada en su mente la memoria lógica.
+ para su de sarrollo, requiere, sobre todo, interactuar con los adultos.
+ al nacer, carece de la capacidad de sentir emociones complejas.
+ sin relaciones sociales, tendría limitaciones insalvables en su desarrollo.
+ alcanza la condición humana con la intervención de los actores sociales.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La memoria lógica, así como otras funciones mentales superiores sólo pueden
 surgir y constituirse en el proceso del desarrollo del niño con la contribución
 constructora de las interacciones sociales.
-======================PREGUNTA 4======================
+
+
+============PREGUNTA============
 Si la biología hallara genes del gregarismo
-======================ALTERNATIVAS======================
-A) las ideas de H. Wallon se verían refutadas.
-B) se corroboraría la intuición de Lev Vygotsky.
-C) se demostraría la hipótesis de las mónadas.
-D) la antropogénesis constituiría un gran misterio.
-E) no habría ningún desarrollo morfofuncional.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ las ideas de H. Wallon se verían refutadas.
+ se corroboraría la intuición de Lev Vygotsky.
+ se demostraría la hipótesis de las mónadas.
+ la antropogénesis constituiría un gran misterio.
+ no habría ningún desarrollo morfofuncional.
+============CORRECTA============
 B
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Dado que Lev Vygotsky tuvo la intuición visionaria de la sociabilidad primaria, sus
 ideas se verían corroboradas por la ciencia biológica.
-======================PREGUNTA 5======================
+
+
+============PREGUNTA============
 En el texto, el vocablo CATEGÓRICO significa
-======================ALTERNATIVAS======================
-A) prístino. 
-B) cuestionador. 
-C) concluyente.
-D) dogmático. 
-E) empírico.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ prístino.
+ cuestionador.
+ concluyente.
+ dogmático.
+ empírico.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Al decir que Henri Wallon expresa la misma idea de modo más categórico, se quiere
 significar una tesis concluyente.

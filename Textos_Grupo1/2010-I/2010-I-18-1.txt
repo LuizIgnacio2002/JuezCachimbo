@@ -1,70 +1,83 @@
-=====================TEXTO======================
+
 La gran dificultad que enfrenta el historiador del cartesianismo es la de encontrar el enlace de Descartes con la filosofía precedente. No es suficiente, claro está, señalar consecuencias literales entre Descartes y San Anselmo, ni notar minuciosamente que ha habido en los siglos XV y XVI tales o cuales filósofos que han dudado, e incluso elogiado la duda, o que han hecho de la razón natural el criterio de la verdad, o que han escrito sobre el método, o que han elogiado las matemáticas. Nada de eso constituye un antecedente histórico profundo, sino, como máximo, coincidencias de poca monta, superficiales, externas, verbales.
+
 En realidad, Descartes, como afirma Hamelin, "parece venir inmediatamente después de los antiguos". Pero entre Descartes y la escolástica hay un hecho cultural de importancia incalculable: el Renacimiento. Ahora bien, el Renacimiento está en todas partes mejor representado que en la filosofía. Se manifiesta eminentemente en los artistas, los poetas, los científicos, los teólogos, en Leonardo da Vinci, en Ronsard, en Galileo, en Lutero, en el espíritu, en suma, que revitaliza con un nuevo y reconfortante aliento todas las fuerzas de la producción humana. A este espíritu renacentista hay que atribuir directamente la filosofía cartesiana.
-La Edad Media no ha sido, sin duda, una época bárbara y oscura. Existe, no obstante, en el juicio común que hacemos de ese período, un error de visión que proviene de la brillante luz del Renacimiento que nos deslumbra, impidiéndonos ver claramente lo que queda más allá de esta aurora. Pero es innegable que el pensamiento científico y filosófico necesita, como condición para su desarrollo, un ambiente adecuado que fomente la libre reflexión individual. En el siglo XVI, el espíritu comienza a liberarse de los estrechos lazos que lo tenían oprimido en la Edad Media; esta liberación aparece como un descubrimiento del hombre por el hombre. Como un soldado que, después del combate, en medio de un montón de cadáveres, vuelve poco a poco a la vida, se palpa, respira, alza la vista, extiende los brazos y parece convencerse finalmente de su propia existencia, así también el Renacimiento posee la fragante ingenuidad alegre de quien se descubre a sí mismo por primera vez y exclama: "Yo soy un ser que piensa, siente, quiere, ama y odia; esta naturaleza que me rodea es hermosa y luminosa, y la vida nos ha sido dada por un Dios justo y benévolo, para vivirla con integridad y plenitud".
+
+La Edad Media no ha sido, sin duda, una época bárbara y oscura. Existe, no obstante, en el juicio común que hacemos de ese período, un error de visión que proviene de la brillante luz del Renacimiento que nos deslumbra, impidiéndonos ver claramente lo que queda más allá de esta aurora. Pero es innegable que el pensamiento científico y filosófico necesita, como condición para su desarrollo, un ambiente adecuado que fomente la libre reflexión individual.
+
+En el siglo XVI, el espíritu comienza a liberarse de los estrechos lazos que lo tenían oprimido en la Edad Media; esta liberación aparece como un descubrimiento del hombre por el hombre. Como un soldado que, después del combate, en medio de un montón de cadáveres, vuelve poco a poco a la vida, se palpa, respira, alza la vista, extiende los brazos y parece convencerse finalmente de su propia existencia, así también el Renacimiento posee la fragante ingenuidad alegre de quien se descubre a sí mismo por primera vez y exclama: "Yo soy un ser que piensa, siente, quiere, ama y odia; esta naturaleza que me rodea es hermosa y luminosa, y la vida nos ha sido dada por un Dios justo y benévolo, para vivirla con integridad y plenitud".
+
 La conciencia individual es el más grande logro del nuevo modo de pensar. Y todo en la ciencia, el arte y la sensibilidad renacentista se orienta hacia esa exaltación de la subjetividad del hombre.
-======================PREGUNTA 1======================
+============PREGUNTA============
 El autor del texto pone de relieve que
-======================ALTERNATIVAS======================
-A) para los historiadores, la Edad Media fue la época del oscurantismo.
-B) existe coincidencia de los filósofos de la Edad Media con Descartes.
-C) existe un grave error de visión en la valoración de la Edad Media.
-D) el Renacimiento es el gran antecedente de la filosofía cartesiana.
-E) la obra de René Descartes se inscribe en la nueva ciencia formal.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ para los historiadores, la Edad Media fue la época del oscurantismo.
+ existe coincidencia de los filósofos de la Edad Media con Descartes.
+ existe un grave error de visión en la valoración de la Edad Media.
+ el Renacimiento es el gran antecedente de la filosofía cartesiana.
+ la obra de René Descartes se inscribe en la nueva ciencia formal.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 El autor destaca la idea de que el espíritu renacentista hay que referir
 inmediatamente a la filosofía cartesiana.
-======================PREGUNTA 2======================
+
+
+============PREGUNTA============
 En el texto, el término AURORA se refiere específicamente
-======================ALTERNATIVAS======================
-A) a la Edad Media. 
-B) a la ciencia. 
-C) al saber filosófico.
-D) a la lógica. 
-E) al Renacimiento.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ a la Edad Media.
+ a la ciencia.
+ al saber filosófico.
+ a la lógica.
+ al Renacimiento.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En el texto se dice que la vivísima luz del Renacimiento nos ciega y deslumbra,
 impidiéndonos ver bien lo que queda allende esta aurora (Renacimiento).
-======================PREGUNTA 3======================
+
+
+============PREGUNTA============
 Se infiere que el arte renacentista
-======================ALTERNATIVAS======================
-A) buscaba exaltar la subjetividad humana.
-B) prescinde del conocimiento matemático.
-C) se sustenta sólidamente en la Edad Media.
-D) no ha sido superado por el arte posterior.
-E) preconizaba el papel de la santidad beata.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ buscaba exaltar la subjetividad humana.
+ prescinde del conocimiento matemático.
+ se sustenta sólidamente en la Edad Media.
+ no ha sido superado por el arte posterior.
+ preconizaba el papel de la santidad beata.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En el texto se dice que todo en la ciencia, en el arte, en la sensibilidad renacentista
 se orienta hacia esa exaltación de la subjetividad del hombre.
-======================PREGUNTA 4======================
+
+
+============PREGUNTA============
 Es incompatible con el espíritu reinante en el Renacimiento afirmar que éste
-======================ALTERNATIVAS======================
-A) se manifestó inmejorablemente en la filosofía.
-B) se expresó en las artes de ese entonces.
-C) se liberó de la opresión del escolasticismo.
-D) requirió un medio propicio a la reflexión individual.
-E) tuvo su origen que se encuentra en siglo XVI.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ se manifestó inmejorablemente en la filosofía.
+ se expresó en las artes de ese entonces.
+ se liberó de la opresión del escolasticismo.
+ requirió un medio propicio a la reflexión individual.
+ tuvo su origen que se encuentra en siglo XVI.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En el texto se dice que el Renacimiento está en todas partes más y mejor
 representado que en la filosofía.
-======================PREGUNTA 5======================
+
+
+============PREGUNTA============
 Si alguien sostuviera que el Medioevo es la noche más tenebrosa de la historia,
-======================ALTERNATIVAS======================
-A) su aserción sería irrefragable. 
-B) hablaría mal del Renacimiento.
-C) sería un crítico del gran Galileo. 
-D) el autor estaría en discrepancia.
-E) escamotearía el valor de Descartes.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ su aserción sería irrefragable.
+ hablaría mal del Renacimiento.
+ sería un crítico del gran Galileo.
+ el autor estaría en discrepancia.
+ escamotearía el valor de Descartes.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 El autor no está de acuerdo en decir que la Edad Media fue una época de
 oscurantismo e ignorancia.

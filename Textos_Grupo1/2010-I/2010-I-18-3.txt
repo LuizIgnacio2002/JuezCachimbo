@@ -1,75 +1,90 @@
-=====================TEXTO======================
-René Descartes nació el 31 de marzo de 1596 en La Haye, Touraine (Francia). Estudió con los jesuitas en el colegio de la Flèche. Allí desarrolló una gran afición por las matemáticas y un cierto escepticismo respecto de las demás ciencias. Luego se dedicó a trabajar independientemente en el álgebra y la geometría, que se convirtieron en sus materias favoritas debido a la certidumbre de sus pruebas. Cursó la materia de Derecho en la Universidad de Poitiers. Una vez obtuvo su diploma, abandonó por completo el estudio de las letras y resolvió no aspirar a ninguna otra ciencia que no fuera el conocimiento de sí mismo o del gran libro del mundo. Después de participar durante una breve temporada en la vida social de París, se encerró por dos años en una vivienda de esta ciudad, oculto incluso a sus amigos, para entregarse por completo al estudio de las matemáticas.
+
+René Descartes nació el 31 de marzo de 1596 en La Haye, Touraine (Francia). Estudió con los jesuitas en el colegio de la Flèche. Allí desarrolló una gran afición por las matemáticas y un cierto escepticismo respecto de las demás ciencias. Luego se dedicó a trabajar independientemente en el álgebra y la geometría, que se convirtieron en sus materias favoritas debido a la certidumbre de sus pruebas.
+
+Cursó la materia de Derecho en la Universidad de Poitiers. Una vez obtuvo su diploma, abandonó por completo el estudio de las letras y resolvió no aspirar a ninguna otra ciencia que no fuera el conocimiento de sí mismo o del gran libro del mundo. Después de participar durante una breve temporada en la vida social de París, se encerró por dos años en una vivienda de esta ciudad, oculto incluso a sus amigos, para entregarse por completo al estudio de las matemáticas.
+
 Isaac Beeckman, un eminente matemático de la época, le propuso a Descartes que encontrara la ley matemática que rige la aceleración de los cuerpos que caen. Ninguno de los dos sabía que Galileo ya había resuelto dicho problema. Descartes estableció diversas soluciones, basadas en hipótesis diferentes. El problema era que ninguna de ellas coincidía con el modo real en que caen los cuerpos; en ese momento, Descartes aún no combinaba el análisis matemático con la experimentación. Al año siguiente, Descartes informó a Isaac Beeckman sobre su descubrimiento de la geometría analítica.
+
 Tras este retiro, se enlistó como soldado y participó en la Guerra de los Treinta Años, no por sentimientos patrióticos, sino porque quería conocer a fondo el mundo y la naturaleza humana.
+
 Un año después de su encuentro con Beeckman, Descartes tuvo una famosa experiencia. Se había alistado en el ejército del duque de Baviera, aliado de Francia en la Guerra de los Treinta Años. El 10 de noviembre, absorto en sus pensamientos, tomó decisiones significativas. En primer lugar, decidió dudar metódicamente de todo lo que sabía acerca de la física y otros conocimientos organizados, y buscar ciertos puntos de partida evidentes en sí mismos que le permitieran reconstruir todas las ciencias. En segundo lugar, decidió que él debía llevar a cabo, por sí solo, su programa.
+
 Tras su etapa militar, realizó varios viajes por Europa. En 1625 regresó a París. Allí entró en contacto con el círculo de Mersenne, trabajó en su matemática universal y se embarcó en especulaciones sobre diversas cuestiones que iban desde la psicología moral hasta la prolongación de la vida. También se sumió en la vida social, la música, las lecturas frívolas y el juego. Decidió establecerse en los Países Bajos, donde pasó un largo periodo de casi veinte años, dedicado al retiro y la investigación científica.
+
 Llamado por la reina Cristina de Suecia, que quería que Descartes explicara personalmente algunos puntos de su pensamiento, se trasladó a Estocolmo en 1649, pero su frágil salud no soportó el clima de esas latitudes y murió en esa ciudad, probablemente de pulmonía, el 11 de febrero de 1650, a los 53 años.
-======================PREGUNTA 1======================
+============PREGUNTA============
 La expresión el gran libro del mundo se refiere
-======================ALTERNATIVAS======================
-A) al arte de la guerra. 
-B) a la filosofía. 
-C) a la geometría.
-D) a la naturaleza. 
-E) a las letras.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ al arte de la guerra.
+ a la filosofía.
+ a la geometría.
+ a la naturaleza.
+ a las letras.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En el texto se dice que investigó en el gran libro del mundo, es decir, en la naturaleza.
-======================PREGUNTA 2======================
+
+
+============PREGUNTA============
 Cabe inferir que Descartes muestra predilección por la búsqueda de un saber
-======================ALTERNATIVAS======================
-A) histórico. 
-B) conjetural. 
-C) apodíctico.
-D) escéptico. 
-E) técnico.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ histórico.
+ conjetural.
+ apodíctico.
+ escéptico.
+ técnico.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Su preferencia por las matemáticas implica la búsqueda de la certeza.
-======================PREGUNTA 3======================
+
+
+============PREGUNTA============
 Se infiere del texto que para descubrir una ley de la naturaleza se requiere
-======================ALTERNATIVAS======================
-A) enumerar todas las posibles situaciones de gran abstracción.
-B) conciliar hipótesis incompatibles en cuanto a la matemática.
-C) refutar diversas soluciones matemáticas de nivel filosófico.
-D) conjugar el análisis matemático con la experimentación.
-E) confirmar varios enfoques matemáticos de índole paradójica.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ enumerar todas las posibles situaciones de gran abstracción.
+ conciliar hipótesis incompatibles en cuanto a la matemática.
+ refutar diversas soluciones matemáticas de nivel filosófico.
+ conjugar el análisis matemático con la experimentación.
+ confirmar varios enfoques matemáticos de índole paradójica.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En el texto se menciona que Descartes estableció diversas soluciones basadas en
 hipótesis diferentes pero que no llegó a resolverlo porque no conjugaba el análisis
 matemático con la experimentación, en ese sentido el análisis matemático no basta
 es necesario establecerla con la ayuda de la experimentación.
-======================PREGUNTA 4======================
+
+
+============PREGUNTA============
 Del texto se infiere que el fundamento general de la ciencia es para Descartes
-======================ALTERNATIVAS======================
-A) el conocimiento evidente. 
-B) la geometría analítica.
-C) el método hermenéutico. 
-D) el conocimiento místico.
-E) la creencia religiosa.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ el conocimiento evidente.
+ la geometría analítica.
+ el método hermenéutico.
+ el conocimiento místico.
+ la creencia religiosa.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En el texto se dice que Descartes consideraba que debía de dudar metódicamente
 para llegar a ciertos conocimientos evidentes en sí mismos que le permitiesen
 reconstruir todas las ciencias. En ese sentido el fundamento de la ciencia radicaría
 en esos conocimientos evidentes a partir de la cual se la reconstruye.
-======================PREGUNTA 5======================
+
+
+============PREGUNTA============
 Se desprende del texto que Descartes
-======================ALTERNATIVAS======================
-A) tenía un interés superficial en las matemáticas.
-B) despreciaba a la metafísica de toda índole.
-C) mostraba interés en varias áreas del saber.
-D) ostentaba un fuerte sentimiento de patriotismo.
-E) disponía escasos conocimientos en geometría.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ tenía un interés superficial en las matemáticas.
+ despreciaba a la metafísica de toda índole.
+ mostraba interés en varias áreas del saber.
+ ostentaba un fuerte sentimiento de patriotismo.
+ disponía escasos conocimientos en geometría.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Descartes tuvo interés por la matemática, la filosofía, la física, la psicología moral, la
 prolongación de la vida, la música; es decir fue una persona multifacética no se
 intereso sólo por la matemática y la filosofía.

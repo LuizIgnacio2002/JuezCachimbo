@@ -1,15 +1,20 @@
-=====================TEXTO======================
-Ingenieros examina minuciosamente la personalidad del hombre mediocre. Utiliza, por así decirlo, el escalpelo de su agudeza psicológica para seccionar su mente y descubrir su esencia. El hombre mediocre tiene un amor por la rutina que le impide enfrentarse a lo nuevo. Los mediocres están cabalmente adaptados a su entorno y, como las ostras, podrían permanecer inmutables por millones de años. Se guían por el prejuicio, son imitativos, carecen de imaginación. El hombre mediocre es una sombra proyectada por su sociedad. De hecho, sobrevive y puede llegar fácilmente a la opulencia, porque es práctico y de toda situación saca provecho. Su meta es el éxito y no la gloria, sin percatarse de que aquel siempre es efímero y esta es inmarcesible. En la esfera intelectual, el hombre mediocre puede apiñar miles de datos y poseer erudición, pero jamás puede pensar por sí mismo. El hombre mediocre practica el tartufismo, la moral de la hipocresía, según la cual “no se castiga el pecado, sino el escándalo”, y, en consecuencia, acepta que uno puede hacer el mal, si nadie logra advertirlo. ¡Qué diferencia con la actitud de Sócrates, que bebió la cicuta por cumplir con el deber emanado de su mismo fuero interno!
-======================PREGUNTA 1======================
+Ingenieros examina minuciosamente la personalidad del hombre mediocre. Utiliza, por así decirlo, el escalpelo de su agudeza psicológica para seccionar su mente y descubrir su esencia. El hombre mediocre tiene un amor por la rutina que le impide enfrentarse a lo nuevo. Los mediocres están cabalmente adaptados a su entorno y, como las ostras, podrían permanecer inmutables por millones de años.
+
+Se guían por el prejuicio, son imitativos, carecen de imaginación. El hombre mediocre es una sombra proyectada por su sociedad. De hecho, sobrevive y puede llegar fácilmente a la opulencia, porque es práctico y de toda situación saca provecho. Su meta es el éxito y no la gloria, sin percatarse de que aquel siempre es efímero y esta es inmarcesible.
+
+En la esfera intelectual, el hombre mediocre puede apiñar miles de datos y poseer erudición, pero jamás puede pensar por sí mismo. El hombre mediocre practica el tartufismo, la moral de la hipocresía, según la cual “no se castiga el pecado, sino el escándalo”, y, en consecuencia, acepta que uno puede hacer el mal, si nadie logra advertirlo.
+
+¡Qué diferencia con la actitud de Sócrates, que bebió la cicuta por cumplir con el deber emanado de su mismo fuero interno!
+============PREGUNTA============
 La mención de Sócrates tiene la in tención fundamental de erigir
-======================ALTERNATIVAS======================
-A) una síntesis dialéctica. 
-B) una analogía fértil.
-C) una digresión fútil. 
-D) una mirada hiperbólica.
-E) un agudo contraste.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ una síntesis dialéctica.
+ una analogía fértil.
+ una digresión fútil.
+ una mirada hiperbólica.
+ un agudo contraste.
+============CORRECTA============
 E
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La intención del autor es hacer un agudo contraste entre Sócrates, paradigma de hombre
 superior, y el hombre mediocre.

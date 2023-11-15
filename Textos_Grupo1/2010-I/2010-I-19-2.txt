@@ -1,68 +1,85 @@
-=====================TEXTO======================
-El término "racionalismo" se utiliza primordialmente para referirse a la corriente filosófica desarrollada particularmente en la Europa continental durante los siglos XVII y XVIII, que se inicia con Descartes, Spinoza, Malebranche y Leibniz, y se opone al empirismo que en esta misma época tiene éxito en las Islas Británicas. El racionalismo establece que nuestros conocimientos, válidos y verdaderos acerca de la realidad, proceden no de los sentidos, sino de la razón, del entendimiento mismo. Para comprender bien el racionalismo es conveniente tener en cuenta el ideal y el método de la ciencia moderna. El ideal de la ciencia moderna es el de un sistema deductivo en el que las leyes se infieren a partir de ciertos principios y conceptos primeros. El problema fundamental consiste en determinar de dónde provienen las ideas y principios a partir de los cuales se deduce el cuerpo de las proposiciones, los teoremas, la ciencia. Ante este problema no caben más que dos posibles contestaciones: a) la experiencia sensible; b) el puro entendimiento. La segunda respuesta pertenece al racionalismo. Las ideas y principios a partir de los cuales se ha de construir deductivamente nuestro conocimiento de la realidad no proceden de la experiencia. Ciertamente, los sentidos nos suministran información acerca del universo, pero esta información es confusa y a menudo incierta. Los elementos últimos de los que ha de partir el conocimiento científico, las ideas claras y precisas que han de constituir el punto de partida, no proceden de la experiencia, sino del entendimiento que las posee en sí mismo. Esta teoría racionalista acerca del origen de las ideas se denomina innatismo. Las ideas innatas no son imágenes acabadas que existen en nosotros desde el nacimiento. Se refieren más bien a la predisposición o a la capacidad potencial de formarse determinadas ideas, que no pueden ser explicadas únicamente mediante la experiencia.
-======================PREGUNTA 1======================
+El término "racionalismo" se utiliza primordialmente para referirse a la corriente filosófica desarrollada particularmente en la Europa continental durante los siglos XVII y XVIII, que se inicia con Descartes, Spinoza, Malebranche y Leibniz, y se opone al empirismo que en esta misma época tiene éxito en las Islas Británicas.
+
+El racionalismo establece que nuestros conocimientos, válidos y verdaderos acerca de la realidad, proceden no de los sentidos, sino de la razón, del entendimiento mismo. Para comprender bien el racionalismo es conveniente tener en cuenta el ideal y el método de la ciencia moderna. El ideal de la ciencia moderna es el de un sistema deductivo en el que las leyes se infieren a partir de ciertos principios y conceptos primeros.
+
+El problema fundamental consiste en determinar de dónde provienen las ideas y principios a partir de los cuales se deduce el cuerpo de las proposiciones, los teoremas, la ciencia. Ante este problema no caben más que dos posibles contestaciones: a) la experiencia sensible; b) el puro entendimiento. La segunda respuesta pertenece al racionalismo.
+
+Las ideas y principios a partir de los cuales se ha de construir deductivamente nuestro conocimiento de la realidad no proceden de la experiencia. Ciertamente, los sentidos nos suministran información acerca del universo, pero esta información es confusa y a menudo incierta.
+
+Los elementos últimos de los que ha de partir el conocimiento científico, las ideas claras y precisas que han de constituir el punto de partida, no proceden de la experiencia, sino del entendimiento que las posee en sí mismo. Esta teoría racionalista acerca del origen de las ideas se denomina innatismo.
+
+Las ideas innatas no son imágenes acabadas que existen en nosotros desde el nacimiento. Se refieren más bien a la predisposición o a la capacidad potencial de formarse determinadas ideas, que no pueden ser explicadas únicamente mediante la experiencia.
+
+============PREGUNTA============
 Se colige del texto que para los racionalistas el conocimiento es
-======================ALTERNATIVAS======================
-A) a posteriori. 
-B) volitivo. 
-C) a priori.
-D) fenoménico. 
-E) relativo.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ a posteriori.
+ volitivo.
+ a priori.
+ fenoménico.
+ relativo.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 “Los racionalistas afirman que el conocimiento científico, no proceden de la
 experiencia, sino del entendimiento que las posee en sí mismo”, es un conocimiento
 anterior a la experiencia, es a priori
-======================PREGUNTA 2======================
+
+
+============PREGUNTA============
 Una idea incompatible con el racionalismo es la siguiente:
-======================ALTERNATIVAS======================
-A) La razón es el fundamento de todos los conocimientos.
-B) Los datos sensoriales suelen ser confusos y abigarrados.
-C) Los filósofos racionalistas recusan la verdad del innatismo.
-D) Los primeros principios se obtienen por intuición racional.
-E) Las ideas claras y evidentes provienen del pensamiento.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ La razón es el fundamento de todos los conocimientos.
+ Los datos sensoriales suelen ser confusos y abigarrados.
+ Los filósofos racionalistas recusan la verdad del innatismo.
+ Los primeros principios se obtienen por intuición racional.
+ Las ideas claras y evidentes provienen del pensamiento.
+============CORRECTA============
 C
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Los racionalistas abogaron por la verdad de las ideas innatas.
-======================PREGUNTA 3======================
+
+
+============PREGUNTA============
 Si la información de los sentidos fuese nítida y veraz, entonces el
-======================ALTERNATIVAS======================
-A) racionalismo sería verdadero. 
-B) empirismo sería inadecuado.
-C) innatismo estaría en lo cierto. 
-D) empirismo sería plausible.
-E) entendimiento sería imposible.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ racionalismo sería verdadero.
+ empirismo sería inadecuado.
+ innatismo estaría en lo cierto.
+ empirismo sería plausible.
+ entendimiento sería imposible.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 El conocimiento así obtenido, es decir, por la experiencia, sería
 incontrovertible.
-======================PREGUNTA 4======================
-Se infiere del texto que un filósofo que respeta la tradición inglesa se puede adscribir
-al
-======================ALTERNATIVAS======================
-A) empirismo.
-B) racionalismo. 
-C) innatismo.
-D) apriorismo. 
-E) deductivismo.
-======================ALTERNATIVA CORRECTA======================
+
+
+============PREGUNTA============
+Se infiere del texto que un filósofo que respeta la tradición inglesa se puede adscribir al
+============ALTERNATIVAS============
+ empirismo.
+ racionalismo.
+ innatismo.
+ apriorismo.
+ deductivismo.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 La referencia es que en las Islas Británicas dominaba el empirismo.
-======================PREGUNTA 5======================
+
+
+============PREGUNTA============
 En el texto, el término CUERPO significa
-======================ALTERNATIVAS======================
-A) realidad. 
-B) materia.
- C) ente.
-D) sistema. 
-E) órgano.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ realidad.
+ materia.
+  ente.
+ sistema.
+ órgano.
+============CORRECTA============
 D
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 En el texto se dice: “El problema fundamental consiste en determinar de
 dónde provienen las ideas y principios a partir de los cuales se deduce el cuerpo de
 las proposiciones ...”; esto es, el sistema de las ideas, de los teoremas.

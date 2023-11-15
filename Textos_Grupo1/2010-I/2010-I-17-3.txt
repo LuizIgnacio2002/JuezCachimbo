@@ -1,14 +1,15 @@
-=====================TEXTO======================
-George Steiner acaba de anunciar la muerte de la literatura. La cultura del futuro inmediato, según él, defenestrará la literatura. La novela como género no está en condiciones de resistir la competencia de la llamada «realidad virtual» generada por los ordenadores, un universo de fantasía y creatividad que, estando solo en los atisbos, ya supera sin embargo lo que en este dominio encierran en sus páginas los mejores libros de ficción. La guerra del 14 fue la partida de defunción del género novelesco y su canto de cisne el Finnegans Wake de Joyce. La poesía sobrevivirá, pero lejos del evanescente libro, como arte oral y subordinado a la música y los quehaceres que han reemplazado a la literatura como imanes de la mejor inteligencia moderna: la televisión, el cine, la danza y la publicidad.
-======================PREGUNTA 1======================
+George Steiner ha anunciado recientemente la muerte de la literatura. Según él, la cultura del futuro inmediato relegará a la literatura. Sostiene que la novela como género no tiene la capacidad de resistir la competencia de la denominada "realidad virtual" generada por computadoras. Este universo de fantasía y creatividad, aunque solo esté en sus primeros indicios, ya supera lo que los mejores libros de ficción encierran entre sus páginas.
+
+Para Steiner, la Primera Guerra Mundial marcó la defunción del género novelesco, y considera que el "Finnegans Wake" de Joyce fue su canto de cisne. En este contexto, prevé que la poesía podría sobrevivir, pero lo hará lejos del efímero libro, transformándose en un arte oral subordinado a la música y a otras formas de expresión que han reemplazado a la literatura como imanes de la mejor inteligencia moderna, tales como la televisión, el cine, la danza y la publicidad.
+============PREGUNTA============
 La muerte de la literatura, según Steiner, ocurre en el contexto
-======================ALTERNATIVAS======================
-A) del imperio de Internet. 
-B) de la música popular.
-C) del género de la historia. 
-D) de la Primera Guerra Mundial.
-E) de las crisis finiseculares.
-======================ALTERNATIVA CORRECTA======================
+============ALTERNATIVAS============
+ del imperio de Internet. 
+ de la música popular.
+ del género de la historia. 
+ de la Primera Guerra Mundial.
+ de las crisis finiseculares.
+============CORRECTA============
 A
-======================RAZONAMIENTO======================
+============RAZONAMIENTO============
 Según Steiner, la novela no podrá competir con el mundo de la realidad virtual.
