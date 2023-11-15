@@ -103,7 +103,7 @@ private VBox crearVboxPorPregunta(Pregunta pregunta, int numeroPregunta) {
 public void initialize(URL url, ResourceBundle rb) {
     try {
         //Ruta del archivo
-        rutaDelArchivo = "C:\\Users\\RENZO\\Desktop\\Textos_Grupo1\\2010-I\\2010-I-16-8.txt";
+        rutaDelArchivo = "C:\\Users\\RENZO\\Desktop\\JuezCachimbo y Textos para Consumir\\Textos_Grupo1\\2009-II\\2009-II-31.txt";
         Intermedia.setRutaDelArchivoAux(rutaDelArchivo);    //Se usa la clase Intermedia de Puente para pasar la ruta
         //Leer el Archivo
         BufferedReader br = new BufferedReader(new FileReader(rutaDelArchivo));
