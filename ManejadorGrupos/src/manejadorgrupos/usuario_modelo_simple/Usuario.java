@@ -10,7 +10,17 @@ package manejadorgrupos.usuario_modelo_simple;
  */
 public abstract class Usuario {
     
+    static int codigoStatic = 0;
+    
     private int codigoGrupo;
+    private String nombre;
+    private int codigo;
+
+    public Usuario(String nombre) {
+        codigoStatic++;
+        this.nombre = nombre;
+        this.codigo = codigoStatic;
+    }
 
     /**
      * @return the codigoGrupo
@@ -24,6 +34,34 @@ public abstract class Usuario {
      */
     public void setCodigoGrupo(int codigoGrupo) {
         this.codigoGrupo = codigoGrupo;
+    }
+
+    /**
+     * @return the nombre
+     */
+    public String getNombre() {
+        return nombre;
+    }
+
+    /**
+     * @param nombre the nombre to set
+     */
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    /**
+     * @return the codigo
+     */
+    public int getCodigo() {
+        return codigo;
+    }
+
+    /**
+     * @param codigo the codigo to set
+     */
+    public void setCodigo(int codigo) {
+        this.codigo = codigo;
     }
     
 }

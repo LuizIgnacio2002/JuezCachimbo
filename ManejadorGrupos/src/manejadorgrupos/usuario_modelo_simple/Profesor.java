@@ -9,5 +9,9 @@ package manejadorgrupos.usuario_modelo_simple;
  * @author darkuser
  */
 public class Profesor extends Usuario {
+
+    public Profesor(String nombreProfesor) {
+        super(nombreProfesor);
+    }
     
 }

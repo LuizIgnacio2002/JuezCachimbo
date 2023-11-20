@@ -11,6 +11,7 @@ package manejadorgrupos.usuario_modelo_simple;
 public class Alumno extends Usuario{
 
     public Alumno(String nombreAlumno) {
+        super(nombreAlumno);
     }
     
 }

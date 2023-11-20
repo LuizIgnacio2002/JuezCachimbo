@@ -4,11 +4,16 @@
  */
 package manejadorgrupos.grupos;
 
+import java.util.LinkedList;
+import java.util.List;
+
 /**
  *
  * @author darkuser
  */
 public class Grupo {
+    static int codigoGrupo = 0;
+    
     private int codigo;
     private String nombre;
     private int idProfesor;
@@ -19,11 +24,34 @@ public class Grupo {
     private int textosMasLeidos;
     private int textosMasFaciles;
     private int textosMasDificiles;
+    
+    private List<Integer> codigoAlumnos;
 
-    public Grupo(int codigo, String nombre, int idProfesor) {
-        this.codigo = codigo;
+    public Grupo(String nombre, int idProfesor) {
+        codigoGrupo ++;
+        this.codigo = codigoGrupo;
         this.nombre = nombre;
         this.idProfesor = idProfesor;
+        
+        codigoAlumnos = new LinkedList<>();
+        
+        // inicializar todas las estadisticas a 0
+        cantidadTextosResueltos = 0;
+        porcentajePreguntasCorrectas = 0f;
+        porcentajePromedioPreguntasCorrectas = 0f;
+        textosMasLeidos = 0;
+        textosMasFaciles = 0;
+        textosMasDificiles = 0;
+    }
+    
+    public String obtenerInfo() {
+        String msg = "";
+        
+        msg += "\n\tCódigo: " + codigo +
+                "\n\tNombre: " + nombre + 
+                "\n\tId profesor a cargo: " + idProfesor + "\n";
+        
+        return msg;
     }
     
     public String obtenerEstadisticas() {
@@ -31,9 +59,13 @@ public class Grupo {
         
         msg += "\n\tTextos Resueltos: " + cantidadTextosResueltos +
                 "\n\tPorcentaje preguntas correctas: " + porcentajePreguntasCorrectas + 
-                "\n\tPorcentaje promedio de preguntas correctas: " + porcentajePromedioPreguntasCorrectas;
+                "\n\tPorcentaje promedio de preguntas correctas: " + porcentajePromedioPreguntasCorrectas + "\n";
         
         return msg;
+    }
+    
+    public void aniadirAlumnosPorCodigo(int codigoAlumno) {
+        codigoAlumnos.add(codigoAlumno);
     }
 
     /**

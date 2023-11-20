@@ -9,39 +9,38 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.VBox?>
 
-<TabPane prefHeight="400.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="manejadorgrupos.GestorGruposController">
-    <tabs>
+<TabPane fx:id="tabPane" prefHeight="400.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="manejadorgrupos.GestorGruposController">
+    <tabs >
         <Tab text="Crear Grupo">
             <content>
-                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                <AnchorPane fx:id="anchorPaneCrearGrupo" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                     <children>
-                        <!-- Elementos para crear un grupo -->
-                        <Label layoutX="16.0" layoutY="14.0" text="Gestor de Grupos" />
-                        <TextField fx:id="nombreGrupoTextField" layoutX="16.0" layoutY="45.0" promptText="Nombre del Grupo" />
-                        <TextField fx:id="idProfesorTextField" layoutX="16.0" layoutY="79.0" promptText="ID del Profesor" />
-                        <Button layoutX="16.0" layoutY="119.0" text="Crear Grupo" onAction="#crearGrupo" />
+                        <!-- Elementos para crear un grupo --> 
+                        <TextField fx:id="nombreGrupoTextField" layoutX="16.0" layoutY="45.0" promptText="Nombre del Grupo" /> 
+                        <ChoiceBox fx:id="profesoresChoiceBox" layoutX="16.0" layoutY="79.0" prefWidth="100.00"/>
+                        <Button fx:id="crearGrupoButton" layoutX="16.0" layoutY="119.0" text="Crear Grupo" onAction="#crearGrupo" />
                     </children>
                 </AnchorPane>
             </content>
         </Tab>
         <Tab text="Agregar Alumno a Grupo">
             <content>
-                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                <AnchorPane fx:id="anchorPaneAgregarAlumno" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                     <children>
                         <!-- Elementos para agregar un alumno -->
-                        <ChoiceBox fx:id="gruposChoiceBox" layoutX="16.0" layoutY="14.0" />
+                        <ChoiceBox fx:id="gruposChoiceBox" layoutX="16.0" layoutY="14.0" prefWidth="100.0"/>
                         <TextField fx:id="nombreAlumnoTextField" layoutX="16.0" layoutY="48.0" promptText="Nombre del Alumno" />
-                        <Button layoutX="16.0" layoutY="89.0" text="Agregar Alumno" onAction="#agregarAlumno" />
+                        <Button fx:id="agregarAlumnoButton" layoutX="16.0" layoutY="89.0" text="Agregar Alumno" onAction="#agregarAlumnoAGrupo" />
                     </children>
                 </AnchorPane>
             </content>
         </Tab>
         <Tab text="Ver Avance">
             <content>
-                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                <AnchorPane fx:id="anchorPaneVerAvance" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                     <children>
                         <!-- Botón para obtener avance -->
-                        <Button layoutX="16.0" layoutY="14.0" text="Obtener Avance" onAction="#obtenerAvance" />
+                        <Button fx:id="verAvanceButton" layoutX="16.0" layoutY="14.0" text="Obtener Avance" onAction="#obtenerAvance" />
                     </children>
                 </AnchorPane>
             </content>

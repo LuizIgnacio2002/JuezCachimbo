@@ -5,6 +5,7 @@
 package manejadorgrupos.grupos;
 
 import java.util.HashMap;
+import java.util.Map;
 import manejadorgrupos.usuario_modelo_simple.Alumno;
 
 /**
@@ -15,13 +16,16 @@ public class GestorGrupos {
     
     private final HashMap<Integer, Grupo> grupos = new HashMap<>();
     
-    public void crearGrupo(int codigo, String nombre, int idProfesor) {
-        grupos.put(codigo, new Grupo(codigo, nombre, idProfesor));
+    public void crearGrupo(String nombre, int idProfesor) {
+        Grupo nuevoGrupo =  new Grupo(nombre, idProfesor);
+        grupos.put(nuevoGrupo.getCodigo(), nuevoGrupo);
     }
     
-    public void agregarAlumnoAlGrupo(int codigoGrupo, Alumno alumno) {
-        alumno.setCodigoGrupo(codigoGrupo);
+    
+    public Grupo obtenerGrupoPorCodigo(Integer codigoGrupo) {
+        return grupos.get(codigoGrupo);
     }
+    
     
     public String obtenerAvance(int codigo) {
         return grupos.get(codigo).obtenerEstadisticas();
@@ -36,9 +40,24 @@ public class GestorGrupos {
         }
         return codigo;
     }
-
-    public int obtenerCodigoUnico() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    
+    public String obtenerInfoTodosGrupos() {
+        String msg = "";
+        
+        for (Grupo grupo: grupos.values()) {
+            msg += grupo.obtenerInfo();
+        }
+        return msg;
+    }
+    
+    public HashMap<Integer, String> obtenerGruposIdNombre() {
+        HashMap<Integer, String> hashForReturn = new HashMap<>();
+        
+        for (Map.Entry<Integer, Grupo> entry: grupos.entrySet()) {
+            hashForReturn.put(entry.getKey(), entry.getValue().getNombre());
+        }
+        
+        return hashForReturn;
     }
     
 }
