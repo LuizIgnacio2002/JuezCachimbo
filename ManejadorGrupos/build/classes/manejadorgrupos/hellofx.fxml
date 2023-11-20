@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="manejadorgrupos.GestorGruposController">
+    <children>
+        <Label text="Gestor de Grupos" />
+        <Button text="Crear Grupo" onAction="#crearGrupo" />
+        <Button text="Agregar Alumno" onAction="#agregarAlumno" />
+        <Button text="Obtener Avance" onAction="#obtenerAvance" />
+    </children>
+</VBox>
