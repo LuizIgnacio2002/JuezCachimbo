@@ -26,7 +26,7 @@ public class GestorGruposController {
     @FXML
     private void initialize() {
         // Inicializar el ChoiceBox con los nombres de los grupos existentes
-        gruposChoiceBox.setItems(FXCollections.observableArrayList("Grupo1", "Grupo2", "Grupo3"));
+        gruposChoiceBox.setItems(FXCollections.observableArrayList());
     }
 
     @FXML
