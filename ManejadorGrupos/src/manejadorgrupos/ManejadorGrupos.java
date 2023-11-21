@@ -13,7 +13,7 @@ public class ManejadorGrupos extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("GestorGrupos.fxml"));
         primaryStage.setTitle("Gestor de Grupos");
         primaryStage.setScene(new Scene(root));
-        primaryStage.setResizable(true);
+        primaryStage.setResizable(false);
         primaryStage.setWidth(600);
         primaryStage.setHeight(700);
         primaryStage.show();

@@ -25,7 +25,7 @@ public class Grupo {
     private int textosMasFaciles;
     private int textosMasDificiles;
     
-    private List<Integer> codigoAlumnos;
+    private final List<Integer> codigoAlumnos;
 
     public Grupo(String nombre, int idProfesor) {
         codigoGrupo ++;
@@ -55,7 +55,7 @@ public class Grupo {
     }
     
     public String obtenerEstadisticas() {
-        String msg = "";
+        String msg = obtenerInfo();
         
         msg += "\n\tTextos Resueltos: " + cantidadTextosResueltos +
                 "\n\tPorcentaje preguntas correctas: " + porcentajePreguntasCorrectas + 

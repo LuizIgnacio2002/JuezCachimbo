@@ -6,7 +6,6 @@ package manejadorgrupos.grupos;
 
 import java.util.HashMap;
 import java.util.Map;
-import manejadorgrupos.usuario_modelo_simple.Alumno;
 
 /**
  *
@@ -21,14 +20,21 @@ public class GestorGrupos {
         grupos.put(nuevoGrupo.getCodigo(), nuevoGrupo);
     }
     
-    
     public Grupo obtenerGrupoPorCodigo(Integer codigoGrupo) {
         return grupos.get(codigoGrupo);
     }
     
-    
     public String obtenerAvance(int codigo) {
         return grupos.get(codigo).obtenerEstadisticas();
+    }
+
+    public String obtenerAvanceTodoGrupos() {
+        String msg = "";
+        
+        for (Grupo grupo: grupos.values()) {
+            msg += grupo.obtenerEstadisticas();
+        }
+        return msg;
     }
 
     public int obtenerCodigoPorNombre(String grupoSeleccionado) {
@@ -60,4 +66,7 @@ public class GestorGrupos {
         return hashForReturn;
     }
     
+    public int obtenerCantidadGrupos() {
+        return grupos.size();
+    }
 }
